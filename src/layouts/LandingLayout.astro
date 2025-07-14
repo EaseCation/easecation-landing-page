@@ -17,7 +17,7 @@ const { metadata } = Astro.props;
     <slot name="announcement" />
   </Fragment>
   <Fragment slot="header">
-    <slot name="header">
+    <!-- <slot name="header">
       <Header
         links={headerData?.links[2] ? [headerData.links[2]] : undefined}
         actions={[
@@ -29,7 +29,7 @@ const { metadata } = Astro.props;
         showToggleTheme
         position="right"
       />
-    </slot>
+    </slot> -->
   </Fragment>
   <slot />
 </PageLayout>

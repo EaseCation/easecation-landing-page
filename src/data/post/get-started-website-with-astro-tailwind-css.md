@@ -1,8 +1,8 @@
 ---
 publishDate: 2023-08-12T00:00:00Z
 author: John Smith
-title: Get started with AstroWind to create a website using Astro and Tailwind CSS
-excerpt: Start your web journey with AstroWind – harness Astro and Tailwind CSS for a stunning site. Explore our guide now.
+title: 朝夕光年与沐瞳科技确认参展2025 ChinaJoy BTOC互动娱乐馆，携多款重磅产品首次亮相！
+excerpt: 作为全球数字娱乐产业的年度盛会，第二十二届ChinaJoy将于2025年8月1日至8月4日在上海新国际博览中心隆重举办。
 image: https://images.unsplash.com/photo-1516996087931-5ae405802f9f?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80
 category: Tutorials
 tags:

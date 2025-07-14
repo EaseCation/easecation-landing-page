@@ -1,7 +1,7 @@
 ---
 publishDate: 2023-08-06T00:00:00Z
-title: How to customize AstroWind template to suit your branding
-excerpt: Personalize AstroWind template for your brand. Our guide unlocks seamless customization steps for a unique online presence.
+title: 华为游戏中心携手50+款鸿蒙游戏参展2025 ChinaJoy，带来大有不同的游戏体验
+excerpt: 第22届中国国际数码互动娱乐展览会（ChinaJoy）将于8月1日至8月4日在上海新国际博览中心举办。
 image: https://images.unsplash.com/photo-1546984575-757f4f7c13cf?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80
 tags:
   - astro

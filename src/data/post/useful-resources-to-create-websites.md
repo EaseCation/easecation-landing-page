@@ -1,7 +1,7 @@
 ---
 publishDate: 2023-08-09T00:00:00Z
-title: Useful tools and resources to create a professional website
-excerpt: Explore vital tools and resources for a sleek website. From design to functionality, our guide elevates your online presence.
+title: 全球上线 《解限机》确认参展2025 ChinaJoy
+excerpt: 西山居旗下新游《解限机》正式确认参展2025年ChinaJoy BTOC互动娱乐馆，将在N3-09展台与各位见
 image: https://images.unsplash.com/photo-1637144113536-9c6e917be447?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1674&q=80
 tags:
   - front-end

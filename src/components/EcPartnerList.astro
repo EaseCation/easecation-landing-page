@@ -1,0 +1,22 @@
+---
+import imageNeteaseMinecraft from "~/assets/images/partner_neteaseMinecraft.png";
+import imageChinaJoy from '~/assets/images/partner_chinaJoy.png'
+import imageSodayo from "~/assets/images/partner_sodayo.jpeg";
+---
+<style>
+    .partnerImage{
+        width: 26%;
+        height: 26%;
+        cursor: pointer;
+    }
+</style>
+<div style="text-align: center;margin-top:9%;height:90%;display: flex;flex-direction: column;">
+    <h2 class="text-2xl leading-tight font-bold text-balance text-neutral-800 sm:text-3xl dark:text-neutral-200" draggable="false">
+        合作伙伴
+    </h2>
+    <div style="display: flex;flex-direction: row;margin-left: 14%;margin-top: 5%;">
+        <img src={imageNeteaseMinecraft.src} class="partnerImage" style="margin-top: 10%;" onclick="window.open('https://mc.163.com/')"/>
+        <img src={imageChinaJoy.src} class="partnerImage" style="margin-left: 3%;" onclick="window.open('https://www.chinajoy.net/')"/>
+        <img src={imageSodayo.src} class="partnerImage" style="margin-left: 3%;" onclick="window.open('https://sodayo.net/')"/>
+    </div>
+</div>
