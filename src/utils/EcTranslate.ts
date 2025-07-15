@@ -53,14 +53,9 @@ class EcTranslate {
         return "zh"
     }
     static getLocalHref(currentHref:string,targetHref:string,lang:string) {
-        console.log("input:",currentHref,targetHref);
         if (lang==="zh") {
             return targetHref;
         } else if (lang==="en") {
-            // console.warn(href);
-            // console.log(href.startsWith("/en/")?href:"en" + href);
-            // console.log("output:",currentHref.includes("/en/"));
-            // return currentHref.includes("/en/")?"/en"+targetHref:"/en" + targetHref;
             return "/en"+targetHref
         }
         return targetHref;

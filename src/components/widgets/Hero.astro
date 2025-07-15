@@ -74,7 +74,30 @@ const {
       <div
         class="intersect-once intercept-no-queue intersect-quarter motion-safe:md:opacity-0 motion-safe:md:intersect:animate-fade"
       >
-      <iframe style="height: 500px;" class="h-full rounded-md w-full" src="//player.bilibili.com/player.html?isOutside=true&bvid=BV1Gdf1YuE4u" scrolling="no" frameborder="no" allowfullscreen="true"></iframe>
+      <iframe id="extVideo" style="height: 700px;" class="h-full rounded-md w-full" src="//player.bilibili.com/player.html?isOutside=true&bvid=BV1Gdf1YuE4u" scrolling="no" frameborder="no" allowfullscreen="true"></iframe>
+      <script>
+        // 移动端适配
+        window.addEventListener("DOMContentLoaded",()=>{
+          const extVideo = document.getElementById("extVideo")!;
+          //屏幕比例判断
+          if (window.innerWidth<window.innerHeight) {
+            extVideo.style.height = "300px";
+          
+          } else {
+            extVideo.style.height = "750px";
+          }
+        });
+        //应该有用
+        window.addEventListener("resize",()=>{
+          const extVideo = document.getElementById("extVideo")!;
+          if (window.innerWidth<window.innerHeight) {
+            extVideo.style.height = "300px";
+          
+          } else {
+            extVideo.style.height = "750px";
+          }
+        })
+      </script>
         <!-- {
           image && (
             <div class="relative m-auto max-w-5xl">
