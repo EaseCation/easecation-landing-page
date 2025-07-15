@@ -14,7 +14,7 @@ import CallToAction from '~/components/widgets/CallToAction.astro';
 import EcPartnerList from "~/components/EcPartnerList.astro";
 
 const metadata = {
-  title:"english test",
+  title:"EaseCation Game Server",
   // title: 'EaseCation 小游戏服务器 - ESH GROUP / 易什集团',
   ignoreTitleTemplate: true,
 };
@@ -26,17 +26,13 @@ const metadata = {
   <Hero
   >
     <Fragment slot="title">
-      EaseCation <span class="hidden xl:inline">小游戏服务器</span><br>
+      EaseCation <span class="hidden xl:inline">Game Server</span><br>
       <!-- <span class="text-accent dark:text-white">十年之约</span> 感谢有你 -->
     </Fragment>
 
 
     <Fragment slot="subtitle">
-      <span class="font-semibold">十年坚持 感谢一路陪伴的你</span>
-      <!-- <span class="hidden sm:inline">
-        <span class="font-semibold">EaseCation</span> 文案文案文案文案文案文案文案文案文案文案</span>
-      <span class="block mb-1 sm:hidden font-bold text-blue-600">文案文案文案文案文案文案文案文案文案文案</span>
-      文案文案文案文案文案文案文案文案文案文案 -->
+      <span class="font-semibold">Ten Years Thank you</span>
     </Fragment>
   </Hero>
 
@@ -94,8 +90,8 @@ const metadata = {
 
   <Content
     isReversed
-    title="热门小游戏"
-    subtitle="还远不止于此"
+    title="Hot Games"
+    subtitle="And more..."
     image={{
       src: '~/assets/images/bedwars.jpg',
       alt:"Image",
@@ -103,7 +99,7 @@ const metadata = {
     }}
   >
     <Fragment slot="content">
-      <h3 class="text-2xl font-bold tracking-tight dark:text-white sm:text-3xl mb-2">起床战争</h3>
+      <h3 class="text-2xl font-bold tracking-tight dark:text-white sm:text-3xl mb-2">Bedwars</h3>
       全球最热门的Minecraft小游戏 玩家被分为多个队伍 你的目标是拆除其他队伍的床并将其击杀 同时保护好自己的床!
     </Fragment>
     <Fragment slot="bg">
@@ -143,7 +139,7 @@ const metadata = {
     }}
   >
     <Fragment slot="content">
-      <h3 class="text-2xl font-bold tracking-tight dark:text-white sm:text-3xl mb-2">密室杀手</h3>
+      <h3 class="text-2xl font-bold tracking-tight dark:text-white sm:text-3xl mb-2">Murder mystery</h3>
       在该游戏中 将有两位玩家分别担任杀手及侦探 杀手的目标为啥是其他所有玩家 侦探目标为找出杀手并将其击杀<br>
       其他平民玩家的目标则是:存活到最后!
     </Fragment>
@@ -270,7 +266,8 @@ const metadata = {
   <!-- HighlightedPosts Widget ******* -->
 
   <BlogLatestPosts
-    title="最新动态"
+    title="Latest news"
+    linkText='Visit all'
     information={`
                 `}
   />
@@ -320,9 +317,9 @@ const metadata = {
 
   <Stats
     stats={[
-      { title: '注册玩家数', amount: '一亿+' },
-      { title: '最高在线数', amount: '20000+' },
-      { title: '玩家评分', amount: '4.8/5.0' },
+      { title: 'Registered players', amount: '100 million+' },
+      { title: 'Max online players', amount: '20000+' },
+      { title: 'Player scores', amount: '4.8/5.0' },
       // { title: 'Users', amount: '48.4K' },
     ]}
   />

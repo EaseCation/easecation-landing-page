@@ -30,7 +30,7 @@ const metadata = {
     </Fragment>
 
     <Fragment slot="subtitle">
-      <span class="font-semibold">十年坚持 感谢一路陪伴的你</span>
+      <span class="font-semibold">与千万玩家一同体验十年之作</span>
       <!-- <span class="hidden sm:inline">
         <span class="font-semibold">EaseCation</span> 文案文案文案文案文案文案文案文案文案文案</span>
       <span class="block mb-1 sm:hidden font-bold text-blue-600">文案文案文案文案文案文案文案文案文案文案</span>
@@ -96,7 +96,8 @@ const metadata = {
   >
     <Fragment slot="content">
       <h3 class="text-2xl font-bold tracking-tight dark:text-white sm:text-3xl mb-2">起床战争</h3>
-      全球最热门的Minecraft小游戏 玩家被分为多个队伍 你的目标是拆除其他队伍的床并将其击杀 同时保护好自己的床!
+      体验全世界最热门的《我的世界》小游戏！<br>
+      在这片悬浮于虚空的岛屿群上，床是你赖以生存的生命之源，也是敌人猛烈攻击的最终目标。收集资源、升级装备、策划战术、团队协作……用尽一切手段保卫你的基地，击杀所有敌人！
     </Fragment>
     <Fragment slot="bg">
       <div class="absolute inset-0 bg-blue-50 dark:bg-transparent"></div>
@@ -136,8 +137,8 @@ const metadata = {
   >
     <Fragment slot="content">
       <h3 class="text-2xl font-bold tracking-tight dark:text-white sm:text-3xl mb-2">密室杀手</h3>
-      在该游戏中 将有两位玩家分别担任杀手及侦探 杀手的目标为啥是其他所有玩家 侦探目标为找出杀手并将其击杀<br />
-      其他平民玩家的目标则是:存活到最后!
+      享受心跳加速的推理猎杀盛宴！<br>
+      是化身杀手伺机屠杀，还是扮演侦探执弓追凶，或是作为平民绝地反击？收集绿宝石来兑换装备，利用地图或战术智取对手……你的目标只有一个：尽情游戏，获得胜利！
     </Fragment>
     <Fragment slot="bg">
       <div class="absolute inset-0 bg-blue-50 dark:bg-transparent"></div>
@@ -155,8 +156,12 @@ const metadata = {
     }}
   >
     <Fragment slot="content">
-      <h3 class="text-2xl font-bold tracking-tight dark:text-white sm:text-3xl mb-2">深井大乱斗</h3>
-      跳下深井 和所有玩家血拼 杀死更多敌人 换取顶级装备 制霸这片土地!
+      <h3 class="text-2xl font-bold tracking-tight dark:text-white sm:text-3xl mb-2">圣符传说</h3>
+      我们引以为豪的原创PVE剧情向小游戏！
+      <br>
+    「 咒符觉醒，凋零众生  」
+    <br>
+     “邪恶的真相即将揭露，黑暗正悄无声息地吞噬着真实。”
     </Fragment>
 
     <Fragment slot="bg">
@@ -168,26 +173,27 @@ const metadata = {
 
   <Features3
     title="关于我们"
-    subtitle="EaseCation是一个于2015年5月29日创建的MineCraft小游戏服务器 自创立以来 我们的服务器不断创新进步 深受玩家们的喜爱"
+    subtitle="EaseCation是一个于2015年5月29日创建的MineCraft小游戏服务器。自创立以来，我们的服务器不断创新进步，深受玩家们的喜爱，注册用户数量达到了千万级!"
     columns={3}
     isBeforeContent={true}
     items={[
       {
         title: '长久发展',
         description:
-          '于2015年创立 经历了十年发展 使我们真正了解玩家需求 做出真正令玩家满意的游戏',
+          'EaseCation 团队于 2022年11月 正式成立宁波易什网络科技有限公司。之后于 2023年8月 与上海易什网络技术有限公司、重庆易什网络科技有限公司共同成立易什集团，皆在为更多客户提供更加丰富的优质服务。',
         icon: 'tabler:template',
       },
       {
-        title: '独立自主',
+        title: '誉满业界',
         description:
-          '办公及玩家服务系统均为执行研制 完美契合玩家需要及企业办公需求',
+          '我们获得的奖项有：网易2021年《我的世界》年度服务器、2023年《我的世界》年度服务器、2024年《我的世界》金苹果杯“最佳网络游戏”，参展2021年ChinaJoy，2023年和2025年IJOY。',
         icon: 'tabler:template',
       },
       {
-        title: '满意服务',
+        title: '独创技术',
         description:
-          '我们还提供包含中小型企业内部办公系统定制服务和AI相关业务 期待与您合作!',
+          `我们的玩家服务系统及内部办公系统均属自行研制，完美契合玩家需要和企业办公需求。
+技术智慧在于共享。我们还提供面向中小型企业的内部办公系统定制和AI相关业务服务，期待与您合作！`,
         icon: 'tabler:template',
       },
     ]},
@@ -299,44 +305,35 @@ const metadata = {
 
   <!-- FAQs Widget ******************* -->
 
-  <!-- <FAQs
-    title="Frequently Asked Questions"
-    subtitle="Dive into the following questions to gain insights into the powerful features that AstroWind offers and how it can elevate your web development journey."
+  <FAQs
+    title="常见问题"
     tagline="FAQs"
     classes={{ container: 'max-w-6xl' }}
     items={[
       {
-        title: 'Why AstroWind?',
+        title: '如果我需要服务器小游戏、玩家账号事务相关的咨询服务，应该去哪里呢？',
         description:
-          "Michael Knight a young loner on a crusade to champion the cause of the innocent. The helpless. The powerless in a world of criminals who operate above the law. Here he comes Here comes Speed Racer. He's a demon on wheels.",
+          `进入我们的<a style="color:blue" href="https://uc.easecation.net" target="_blank" rel="noopener noreferrer">工单系统</a>，按照指导提交对应类别的工单即可。`,
       },
       {
-        title: 'What do I need to start?',
+        title: '我想反馈意见和建议，应该去哪里呢？',
         description:
-          'Space, the final frontier. These are the voyages of the Starship Enterprise. Its five-year mission: to explore strange new worlds. Many say exploration is part of our destiny, but it’s actually our duty to future generations.',
+          `进入我们的<a style="color:blue" href="https://uc.easecation.net" target="_blank" rel="noopener noreferrer">工单系统</a>，提交类型为“建议与反馈”的工单即可。`,
       },
       {
-        title: 'How to install the Astro + Tailwind CSS template?',
+        title: '我想加入你们，我应该如何应聘呢？',
         description:
-          "Well, the way they make shows is, they make one show. That show's called a pilot. Then they show that show to the people who make shows, and on the strength of that one show they decide if they're going to make more shows.",
+          `开发团队：服务器开发者岗位火热招募中！支持【全职】【兼职】【实习】，申请链接:<a style="color:blue" href="https://ningboesh.feishu.cn/share/base/form/shrcnHtdTPBZGxqwuQgwFAR8LZf" target="_blank" rel="noopener noreferrer">Nukkit (Java) 游戏开发岗位申请（全职 / 兼职 / 实习）</a>
+          <br/>
+          管理团队：管理团队不定期开展自招和统招活动，请留意我们的官方社群媒体的相关消息！`,
       },
       {
-        title: "What's something that you don't understand?",
+        title: "我在哪里可以购买EaseCation的周边商品？",
         description:
-          "A flower in my garden, a mystery in my panties. Heart attack never stopped old Big Bear. I didn't even know we were calling him Big Bear.",
-      },
-      {
-        title: 'What is something that you would like to try again?',
-        description:
-          "A business big enough that it could be listed on the NASDAQ goes belly up. Disappears! It ceases to exist without me. No, you clearly don't know who you're talking to, so let me clue you in.",
-      },
-      {
-        title: 'If you could only ask one question to each person you meet, what would that question be?',
-        description:
-          "This is not about revenge. This is about justice. A lot of things can change in twelve years, Admiral. Well, that's certainly good to know. About four years. I got tired of hearing how young I looked.",
-      },
+          "我们有专门售卖周边商品的官方店铺噢！在淘宝店铺搜索：EaseCation 即可。商品不定期上新，感谢支持！",
+      }
     ]}
-  /> -->
+  />
 
   <!-- Stats Widget ****************** -->
 
@@ -355,20 +352,20 @@ const metadata = {
     actions={[
       {
         variant: 'primary',
-        text: '下载客户端',
+        text: '立即游玩！',
         href: 'https://mc.163.com',
-        target: '_blank',
-        icon: 'tabler:download',
+        target: '_blank'
       },
     ]}
   >
+  <a href="https://uc.easecation.net" target="_blank" rel="noopener noreferrer"></a>
     <Fragment slot="title">
       <br class="block sm:hidden" /><span class="sm:whitespace-nowrap">加入服务器</span>
     </Fragment>
 
     <Fragment slot="subtitle">
-      前往下载'我的世界中国版'客户端 <br class="hidden md:inline" />
-      在'网络游戏'中找到'EaseCation'即可
+      手机端：客户端 - 网络游戏 - EC起床战争·S8 <br class="hidden md:inline" />
+      电脑端：客户端 - 网络游戏 - EC小游戏·起床战争
     </Fragment>
   </CallToAction>
 </Layout>
