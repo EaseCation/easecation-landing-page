@@ -159,7 +159,7 @@ const getStyle = ({
   if (layout === 'responsive') {
     styleEntries.push(['width', '100%']);
     styleEntries.push(['height', 'auto']);
-    styleEntries.push(['aspect-ratio', aspectRatio ? `${aspectRatio}` : undefined]);
+    // styleEntries.push(['aspect-ratio', aspectRatio ? `${aspectRatio}` : undefined]);
   }
   if (layout === 'contained') {
     styleEntries.push(['max-width', '100%']);

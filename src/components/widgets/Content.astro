@@ -77,12 +77,13 @@ const {
               ) : (
                 <Image
                   class="mx-auto w-full rounded-lg bg-gray-500 shadow-lg"
-                  width={300}
-                  height={300}
-                  widths={[300, 568]}
+                  width={500}
+                  height={500}
+                  widths={[500, 768]}
                   sizes="(max-width: 568px) 100vw, 432px"
-                  layout="responsive"
-                  style='object-fit: fill;'
+                  aspectRatio={0}
+                  // layout="responsive"
+                  // style='object-fit: fill;'
                   {...image}
                 />
               )}
