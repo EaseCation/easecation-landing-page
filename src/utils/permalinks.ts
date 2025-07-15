@@ -41,7 +41,6 @@ export const getCanonical = (path = ''): string | URL => {
 /** */
 export const getPermalink = (slug = '', type = 'page'): string => {
   let permalink: string;
-
   if (
     slug.startsWith('https://') ||
     slug.startsWith('http://') ||
@@ -79,6 +78,10 @@ export const getPermalink = (slug = '', type = 'page'): string => {
 
     case 'page':
     default:
+      // if (type==="page"&&slug==="blog") {
+      //   permalink = "/en/blog"
+      //   break
+      // }
       permalink = createPath(slug);
       break;
   }

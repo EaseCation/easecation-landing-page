@@ -4,7 +4,6 @@ import Layout from '~/layouts/PageLayout.astro';
 import Hero from '~/components/widgets/Hero.astro';
 import Note from '~/components/widgets/Note.astro';
 import Features from '~/components/widgets/Features.astro';
-import Features3 from '~/components/widgets/Features3.astro';
 import Features2 from '~/components/widgets/Features2.astro';
 import Steps from '~/components/widgets/Steps.astro';
 import Content from '~/components/widgets/Content.astro';
@@ -12,10 +11,11 @@ import BlogLatestPosts from '~/components/widgets/BlogLatestPosts.astro';
 import FAQs from '~/components/widgets/FAQs.astro';
 import Stats from '~/components/widgets/Stats.astro';
 import CallToAction from '~/components/widgets/CallToAction.astro';
-import EcPartnerList from '~/components/EcPartnerList.astro';
+import EcPartnerList from "~/components/EcPartnerList.astro";
 
 const metadata = {
-  title: 'EaseCation 小游戏服务器 - ESH GROUP / 易什集团',
+  title:"english test",
+  // title: 'EaseCation 小游戏服务器 - ESH GROUP / 易什集团',
   ignoreTitleTemplate: true,
 };
 ---
@@ -23,11 +23,13 @@ const metadata = {
 <Layout metadata={metadata}>
   <!-- Hero Widget ******************* -->
 
-  <Hero>
+  <Hero
+  >
     <Fragment slot="title">
-      EaseCation <span class="hidden xl:inline">小游戏服务器</span><br />
+      EaseCation <span class="hidden xl:inline">小游戏服务器</span><br>
       <!-- <span class="text-accent dark:text-white">十年之约</span> 感谢有你 -->
     </Fragment>
+
 
     <Fragment slot="subtitle">
       <span class="font-semibold">十年坚持 感谢一路陪伴的你</span>
@@ -44,43 +46,49 @@ const metadata = {
 
   <!-- Features Widget *************** -->
 
-  <!-- <Features
+  <Features
     id="features"
     title="我们的优势"
     subtitle="努力让每位玩家都满意"
     items={[
       {
         title: '丰富的小游戏',
-        description: '十年的积累,大量玩法各异的小游戏',
+        description:
+          '十年的积累,大量玩法各异的小游戏',
         icon: 'tabler:pacman',
       },
       {
         title: '流畅的体验',
-        description: '完善的优化和强大的性能带来更加舒适的游戏体验',
+        description:
+          '完善的优化和强大的性能带来更加舒适的游戏体验',
         icon: 'tabler:brand-speedtest',
       },
       {
         title: '强大的反作弊',
-        description: '坚实的积累+人工全天巡查使作弊者无处遁形',
+        description:
+          '坚实的积累+人工全天巡查使作弊者无处遁形',
         icon: 'tabler:brand-prisma',
       },
       {
         title: '公平竞技',
-        description: '坚决远离Pay to win',
+        description:
+          '坚决远离Pay to win',
         icon: 'tabler:brand-tinder',
       },
       {
         title: '用心服务',
-        description: '客服全天在线+严格纪律要求 保证为您用心服务',
+        description:
+          "客服全天在线+严格纪律要求 保证为您用心服务",
         icon: 'tabler:heart',
       },
       {
         title: '温馨互动',
-        description: '主流平台均有官方账户 与玩家亲切沟通 接纳意见',
+        description:
+          '主流平台均有官方账户 与玩家亲切沟通 接纳意见',
         icon: 'tabler:layers-intersect',
       },
     ]}
-  /> -->
+  />
 
   <!-- Content Widget **************** -->
 
@@ -90,8 +98,8 @@ const metadata = {
     subtitle="还远不止于此"
     image={{
       src: '~/assets/images/bedwars.jpg',
-      alt: 'Image',
-      draggable: false,
+      alt:"Image",
+      draggable:false
     }}
   >
     <Fragment slot="content">
@@ -104,7 +112,7 @@ const metadata = {
   </Content>
 
   <!-- Content Widget **************** -->
-  <!-- 
+<!-- 
   items={[
       {
         title: 'High level of customization',
@@ -131,12 +139,12 @@ const metadata = {
     image={{
       src: '~/assets/images/mystery.jpg',
       alt: 'Image',
-      draggable: false,
+      draggable:false
     }}
   >
     <Fragment slot="content">
       <h3 class="text-2xl font-bold tracking-tight dark:text-white sm:text-3xl mb-2">密室杀手</h3>
-      在该游戏中 将有两位玩家分别担任杀手及侦探 杀手的目标为啥是其他所有玩家 侦探目标为找出杀手并将其击杀<br />
+      在该游戏中 将有两位玩家分别担任杀手及侦探 杀手的目标为啥是其他所有玩家 侦探目标为找出杀手并将其击杀<br>
       其他平民玩家的目标则是:存活到最后!
     </Fragment>
     <Fragment slot="bg">
@@ -150,8 +158,8 @@ const metadata = {
     isAfterContent
     image={{
       src: '~/assets/images/pit.jpg',
-      alt: 'Image',
-      draggable: false,
+      alt:"Image",
+      draggable:false
     }}
   >
     <Fragment slot="content">
@@ -166,37 +174,7 @@ const metadata = {
 
   <!-- Steps Widget ****************** -->
 
-  <Features3
-    title="关于我们"
-    subtitle="EaseCation是一个于2015年5月29日创建的MineCraft小游戏服务器 自创立以来 我们的服务器不断创新进步 深受玩家们的喜爱"
-    columns={3}
-    isBeforeContent={true}
-    items={[
-      {
-        title: '长久发展',
-        description:
-          '于2015年创立 经历了十年发展 使我们真正了解玩家需求 做出真正令玩家满意的游戏',
-        icon: 'tabler:template',
-      },
-      {
-        title: '独立自主',
-        description:
-          '办公及玩家服务系统均为执行研制 完美契合玩家需要及企业办公需求',
-        icon: 'tabler:template',
-      },
-      {
-        title: '满意服务',
-        description:
-          '我们还提供包含中小型企业内部办公系统定制服务和AI相关业务 期待与您合作!',
-        icon: 'tabler:template',
-      },
-    ]},
-    image={{
-      src: 'https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80',
-      alt: 'Colorful Image',
-    }}
-  />
-  <!-- <Steps
+  <Steps
     title="我们的历程"
     items={[
       {
@@ -223,7 +201,7 @@ const metadata = {
         icon: 'tabler:container',
       },
     ]}
-  /> -->
+  />
 
   <!-- Features2 Widget ************** -->
 
@@ -342,13 +320,13 @@ const metadata = {
 
   <Stats
     stats={[
-      {title: '注册玩家数', amount: '一亿+'},
-      {title: '最高在线数', amount: '20000+'},
-      {title: '玩家评分', amount: '4.8/5.0'},
+      { title: '注册玩家数', amount: '一亿+' },
+      { title: '最高在线数', amount: '20000+' },
+      { title: '玩家评分', amount: '4.8/5.0' },
       // { title: 'Users', amount: '48.4K' },
     ]}
   />
-  <EcPartnerList />
+    <EcPartnerList/>
   <!-- CallToAction Widget *********** -->
 
   <CallToAction

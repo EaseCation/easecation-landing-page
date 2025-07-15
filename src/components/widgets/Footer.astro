@@ -1,6 +1,8 @@
 ---
 import { Icon } from 'astro-icon/components';
 import { SITE } from 'astrowind:config';
+import EcTranslate from '~/utils/EcTranslate';
+import EcUtils from '~/utils/EcUtils';
 import { getHomePermalink } from '~/utils/permalinks';
 
 interface Link {
@@ -33,7 +35,7 @@ const { socialLinks = [], secondaryLinks = [], links = [], footNote = '', theme 
     <div class="grid grid-cols-12 gap-4 gap-y-8 sm:gap-8 py-8 md:py-12">
       <div class="col-span-12 lg:col-span-4">
         <div class="mb-2">
-          <a class="inline-block font-bold text-xl" href={getHomePermalink()}>EaseCation 小游戏服务器</a>
+          <a class="inline-block font-bold text-xl" href={EcUtils.getHomeUrl(Astro.url.href)}>{EcTranslate.getTranslate("#nav.footer.ecTitle",EcTranslate.getCurrentLang(Astro.url.href))}</a>
         </div>
         <div class="text-sm text-muted flex gap-1">
           {
@@ -53,7 +55,7 @@ const { socialLinks = [], secondaryLinks = [], links = [], footNote = '', theme 
       {
         links.map(({ title, links }) => (
           <div class="col-span-6 md:col-span-3 lg:col-span-2">
-            <div class="dark:text-gray-300 font-medium mb-2">{title}</div>
+            <div class="dark:text-gray-300 font-medium mb-2">{EcTranslate.getTranslate(title,EcTranslate.getCurrentLang(Astro.url.href))}</div>
             {links && Array.isArray(links) && links.length > 0 && (
               <ul class="text-sm">
                 {links.map(({ text, href, ariaLabel }) => (
@@ -63,7 +65,7 @@ const { socialLinks = [], secondaryLinks = [], links = [], footNote = '', theme 
                       href={href}
                       aria-label={ariaLabel}
                     >
-                      <Fragment set:html={text} />
+                      <Fragment set:html={EcTranslate.getTranslate(text,EcTranslate.getCurrentLang(Astro.url.href))} />
                     </a>
                   </li>
                 ))}

@@ -1,41 +1,55 @@
 import { getPermalink, getBlogPermalink, getAsset } from './utils/permalinks';
-
 export const headerData = {
   links: [
     {
-      text: '新闻',
+      text: '#nav.news',
       links: [
         {
-          text: '最新',
+          text: '#nav.latest',
+          enableLocalization: true,
           href: getBlogPermalink(),
         },
         {
-          text: 'China Joy专区',
+          text: '#nav.chinaJoy',
+          enableLocalization: true,
           href: getPermalink('markdown-elements-demo-post', 'post'),
+        },
+      ],
+    },
+    {
+      //多语言
+      text: '#nav.language',
+      links: [
+        {
+          text: '中文',
+          href: getPermalink('/', 'page'),
+        },
+        {
+          text: 'English',
+          href: getPermalink('en', 'page'),
         },
       ],
     }
   ],
   actions: [{ text: 'Download', href: 'https://github.com/onwidget/astrowind', target: '_blank' }],
 };
-
 export const footerData = {
   links: [
     {
-      title: '官方网站',
+      title: '#nav.footer.website',
       links: [
-        { text: 'EaseCationWiki', href: 'https://wiki.easecation.net/' },
-        { text: '用户中心', href: 'https://uc.easecation.net/' }
+        { text: 'EaseCation Wiki', href: 'https://wiki.easecation.net/' },
+        { text: '#nav.footer.userCanter', href: 'https://uc.easecation.net/' }
       ],
     },
     {
-      title: '官方社媒',
+      title: '#nav.footer.social',
       links: [
-        { text: '公众号', href: 'https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=Mzk0NjQyNDE1Mw==' },
-        { text: 'QQ频道', href: 'https://pd.qq.com/s/fyin4tuq9'},
-        { text: '哔哩哔哩', href: 'https://space.bilibili.com/382198016' },
-        { text: '小红书', href: 'https://www.xiaohongshu.com/user/profile/683824fe000000001b0195d2' },
-        { text: '抖音', href: 'https://www.douyin.com/user/MS4wLjABAAAA1Y2bQJJvvGC8cG78cI04qnPP78ygeFWn9qACeQ-LTLY' },
+        { text: '#nav.footer.wechatOfficialAccount', href: 'https://mp.weixin.qq.com/mp/profile_ext?action=home&__biz=Mzk0NjQyNDE1Mw==' },
+        { text: '#nav.footer.qChannel', href: 'https://pd.qq.com/s/fyin4tuq9'},
+        { text: '#nav.footer.bili', href: 'https://space.bilibili.com/382198016' },
+        { text: '#nav.footer.redNote', href: 'https://www.xiaohongshu.com/user/profile/683824fe000000001b0195d2' },
+        { text: '#nav.footer.tiktok', href: 'https://www.douyin.com/user/MS4wLjABAAAA1Y2bQJJvvGC8cG78cI04qnPP78ygeFWn9qACeQ-LTLY' },
       ],
     }
   ],
