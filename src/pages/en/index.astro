@@ -12,6 +12,7 @@ import FAQs from '~/components/widgets/FAQs.astro';
 import Stats from '~/components/widgets/Stats.astro';
 import CallToAction from '~/components/widgets/CallToAction.astro';
 import EcPartnerList from "~/components/EcPartnerList.astro";
+import Features3 from '~/components/widgets/Features3.astro';
 
 const metadata = {
   title:"EaseCation Game Server",
@@ -35,57 +36,6 @@ const metadata = {
       <span class="font-semibold">Ten Years Thank you</span>
     </Fragment>
   </Hero>
-
-  <!-- Note Widget ******************* -->
-
-  <!-- <Note title="Philosophy:" description="Simplicity, Best Practices and High Performance" /> -->
-
-  <!-- Features Widget *************** -->
-
-  <Features
-    id="features"
-    title="我们的优势"
-    subtitle="努力让每位玩家都满意"
-    items={[
-      {
-        title: '丰富的小游戏',
-        description:
-          '十年的积累,大量玩法各异的小游戏',
-        icon: 'tabler:pacman',
-      },
-      {
-        title: '流畅的体验',
-        description:
-          '完善的优化和强大的性能带来更加舒适的游戏体验',
-        icon: 'tabler:brand-speedtest',
-      },
-      {
-        title: '强大的反作弊',
-        description:
-          '坚实的积累+人工全天巡查使作弊者无处遁形',
-        icon: 'tabler:brand-prisma',
-      },
-      {
-        title: '公平竞技',
-        description:
-          '坚决远离Pay to win',
-        icon: 'tabler:brand-tinder',
-      },
-      {
-        title: '用心服务',
-        description:
-          "客服全天在线+严格纪律要求 保证为您用心服务",
-        icon: 'tabler:heart',
-      },
-      {
-        title: '温馨互动',
-        description:
-          '主流平台均有官方账户 与玩家亲切沟通 接纳意见',
-        icon: 'tabler:layers-intersect',
-      },
-    ]}
-  />
-
   <!-- Content Widget **************** -->
 
   <Content
@@ -106,30 +56,6 @@ const metadata = {
       <div class="absolute inset-0 bg-blue-50 dark:bg-transparent"></div>
     </Fragment>
   </Content>
-
-  <!-- Content Widget **************** -->
-<!-- 
-  items={[
-      {
-        title: 'High level of customization',
-        description: `Tailor the template effortlessly to match your brand's identity and requirements, making your website distinct and saving you time.`,
-      },
-      {
-        title: 'Multiple layout possibilities',
-        description:
-          'Explore various layout options to find the structure that best presents your content, enhancing user engagement and navigation.',
-      },
-      {
-        title: 'Fully responsive design',
-        description:
-          "Ensure your website's optimal performance on various devices and screen sizes, providing a consistent and enjoyable user experience.",
-      },
-      {
-        title: 'Integration of media',
-        description:
-          'Seamlessly incorporate images, videos, and multimedia elements that enhance your content and engage visitors effectively.',
-      },
-    ]} -->
   <Content
     isAfterContent
     image={{
@@ -153,13 +79,13 @@ const metadata = {
     isReversed
     isAfterContent
     image={{
-      src: '~/assets/images/pit.jpg',
+      src: '~/assets/images/rl.jpg',
       alt:"Image",
       draggable:false
     }}
   >
     <Fragment slot="content">
-      <h3 class="text-2xl font-bold tracking-tight dark:text-white sm:text-3xl mb-2">深井大乱斗</h3>
+      <h3 class="text-2xl font-bold tracking-tight dark:text-white sm:text-3xl mb-2">Rune Legend</h3>
       跳下深井 和所有玩家血拼 杀死更多敌人 换取顶级装备 制霸这片土地!
     </Fragment>
 
@@ -169,34 +95,36 @@ const metadata = {
   </Content>
 
   <!-- Steps Widget ****************** -->
-
-  <Steps
-    title="我们的历程"
+  <Features3
+    title="About us"
+    subtitle="EaseCation是一个于2015年5月29日创建的MineCraft小游戏服务器。自创立以来，我们的服务器不断创新进步，深受玩家们的喜爱，注册用户数量达到了千万级!"
+    columns={3}
+    isBeforeContent={true}
     items={[
       {
-        title: '创建',
+        title: '长久发展',
         description:
-          "2015年5月29日 EaseCation创建 当时是一个国际版服务器",
-        icon: 'tabler:circle-plus',
+          'EaseCation 团队于 2022年11月 正式成立宁波易什网络科技有限公司。之后于 2023年8月 与上海易什网络技术有限公司、重庆易什网络科技有限公司共同成立易什集团，皆在为更多客户提供更加丰富的优质服务。',
+        icon: 'tabler:template',
       },
       {
-        title: '入驻中国版',
-        description: "EaseCation入驻网易中国版我的世界 开始面对中国版的大量玩家",
-        icon: 'tabler:join-bevel',
+        title: '誉满业界',
+        description:
+          '我们获得的奖项有：网易2021年《我的世界》年度服务器、2023年《我的世界》年度服务器、2024年《我的世界》金苹果杯“最佳网络游戏”，参展2021年ChinaJoy，2023年和2025年IJOY。',
+        icon: 'tabler:template',
       },
       {
-        title: '成立集团',
+        title: '独创技术',
         description:
-          '2023年8月成立易什集团 致力于为客户提供更丰富满意的服务',
-        icon: 'tabler:brand-bandcamp',
+          `我们的玩家服务系统及内部办公系统均属自行研制，完美契合玩家需要和企业办公需求。
+技术智慧在于共享。我们还提供面向中小型企业的内部办公系统定制和AI相关业务服务，期待与您合作！`,
+        icon: 'tabler:template',
       },
-      {
-        title: '展望未来',
-        description:
-          '努力拼搏 打造玩家心中的完美游戏 客户眼里的优秀公司',
-        icon: 'tabler:container',
-      },
-    ]}
+    ]},
+    image={{
+      src: 'https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80',
+      alt: 'Colorful Image',
+    }}
   />
 
   <!-- Features2 Widget ************** -->
