@@ -5,14 +5,14 @@ export const headerData = {
       text: '#nav.news',
       links: [
         {
-          text: '#nav.latest',
+          text: '#nav.commonBlog',
           enableLocalization: true,
-          href: getBlogPermalink(),
+          href: getPermalink('category/bo2-ke4', 'post'),
         },
         {
           text: '#nav.chinaJoy',
           enableLocalization: true,
-          href: getPermalink('markdown-elements-demo-post', 'post'),
+          href: getPermalink('category/chinajoy-zhuan1-qu1', 'post'),
         },
       ],
     },

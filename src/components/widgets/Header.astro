@@ -109,7 +109,6 @@ const currentPath = `/${trimSlash(new URL(Astro.url).pathname)}`;
                             { 'aw-link-active': href2 === currentPath },
                           ]}
                           href={enableLocalization?EcTranslate.getLocalHref(Astro.url.href,href2!,EcTranslate.getCurrentLang(Astro.url.href)):href2}>
-                            {console.log(href2)}
                           {EcTranslate.getTranslate(text2,EcTranslate.getCurrentLang(Astro.url.href))}
                         </a>
                       </li>

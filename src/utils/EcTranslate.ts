@@ -1,7 +1,7 @@
 const translations: Record<string, Record<string, string>> = {
     en: {
         '#nav.news': 'News',
-        '#nav.latest': 'Latest',
+        '#nav.commonBlog': 'Blogs',
         '#nav.chinaJoy': 'China Joy',
         '#nav.language': 'Language',
         "#nav.footer.website": 'Website',
@@ -19,7 +19,7 @@ const translations: Record<string, Record<string, string>> = {
     },
     zh: {
         '#nav.news': '新闻',
-        '#nav.latest': '最新动态',
+        '#nav.commonBlog': '博客',
         '#nav.chinaJoy': 'China Joy专区',
         '#nav.language': '语言',
         "#nav.footer.website": '官方网站',

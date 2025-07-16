@@ -8,6 +8,7 @@ import { findLatestPosts } from '~/utils/blog';
 import WidgetWrapper from '~/components/ui/WidgetWrapper.astro';
 import type { Widget } from '~/types';
 import Button from '~/components/ui/Button.astro';
+import EcTranslate from '~/utils/EcTranslate';
 
 export interface Props extends Widget {
   title?: string;
@@ -44,7 +45,7 @@ const posts = APP_BLOG.isEnabled ? await findLatestPosts({ count }) : [];
               set:html={title}
             />
             {APP_BLOG.list.isEnabled && linkText && linkUrl && (
-              <Button variant="link" href={linkUrl}>
+              <Button variant="link" href={EcTranslate.getLocalHref(Astro.url.href,"/blog",EcTranslate.getCurrentLang(Astro.url.href))}>
                 {' '}
                 {linkText} »
               </Button>
