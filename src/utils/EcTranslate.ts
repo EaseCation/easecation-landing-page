@@ -51,6 +51,10 @@ class EcTranslate {
         //默认中文
         if (firstSearchIndex===-1) return "zh";
         const lastSearchIndex=href.indexOf("/",firstSearchIndex+1);
+        if (lastSearchIndex===-1&&!href.endsWith("en")) {
+            //没有第二个斜杠，说明没有语言标识
+            return "zh";
+        }
         const langString=href.slice(firstSearchIndex,lastSearchIndex===-1?href.length:lastSearchIndex);
         //先这样了 目前就两个语言
         if (langString.includes("en")) {
