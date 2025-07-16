@@ -13,6 +13,9 @@ const translations: Record<string, Record<string, string>> = {
         "#nav.footer.redNote": 'Red Note',
         "#nav.footer.tiktok": 'TikTok',
         "#nav.footer.ecTitle": 'EaseCation:Minecraft Server',
+        "#news.pageBack":"Back",
+        "#news.previous": "Previous",
+        "#news.next": "Next",
     },
     zh: {
         '#nav.news': '新闻',
@@ -27,7 +30,10 @@ const translations: Record<string, Record<string, string>> = {
         "#nav.footer.bili": '哔哩哔哩',
         "#nav.footer.redNote": '小红书',
         "#nav.footer.tiktok": '抖音',
-        "#nav.footer.ecTitle":"EaseCation 小游戏服务器"
+        "#nav.footer.ecTitle":"EaseCation 小游戏服务器",
+        "#news.pageBack":"返回",
+        "#news.previous": "上一页",
+        "#news.next": "下一页",
 
     },
 };

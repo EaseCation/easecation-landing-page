@@ -8,6 +8,7 @@ import Pagination from '~/components/blog/Pagination.astro';
 // import PostTags from "~/components/blog/Tags.astro";
 
 import { blogListRobots, getStaticPathsBlogList } from '~/utils/blog';
+import EcTranslate from '~/utils/EcTranslate';
 
 export const prerender = true;
 
@@ -43,7 +44,7 @@ const metadata = {
       News Center
     </Headline>
     <BlogList posts={page.data} />
-    <Pagination prevUrl={page.url.prev} nextUrl={page.url.next} />
+    <Pagination prevUrl={page.url.prev} nextUrl={page.url.next} nextText={EcTranslate.getTranslate("#news.next",EcTranslate.getCurrentLang(Astro.url.href))} prevText={EcTranslate.getTranslate("#news.previous",EcTranslate.getCurrentLang(Astro.url.href))}/>
     <!--
       <PostTags tags={allCategories} class="mb-2" title="Search by Categories:" isCategory />
       <PostTags tags={allTags}  title="Search by Tags:" />

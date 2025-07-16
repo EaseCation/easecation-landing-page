@@ -3,6 +3,7 @@ import { Icon } from 'astro-icon/components';
 import { getBlogPermalink } from '~/utils/permalinks';
 import { I18N } from 'astrowind:config';
 import Button from '~/components/ui/Button.astro';
+import EcTranslate from '~/utils/EcTranslate';
 
 const { textDirection } = I18N;
 ---
@@ -15,6 +16,6 @@ const { textDirection } = I18N;
       ) : (
         <Icon name="tabler:chevron-left" class="w-5 h-5 mr-1 -ml-1.5 rtl:-mr-1.5 rtl:ml-1" />
       )
-    } Back to Blog
+    } {EcTranslate.getTranslate("#news.pageBack",EcTranslate.getCurrentLang(Astro.url.href))}
   </Button>
 </div>

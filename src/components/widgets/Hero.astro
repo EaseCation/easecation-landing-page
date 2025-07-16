@@ -89,7 +89,8 @@ const {
         });
         //应该有用
         window.addEventListener("resize",()=>{
-          const extVideo = document.getElementById("extVideo")!;
+          const extVideo = document.getElementById("extVideo");
+          if (!extVideo) return;
           if (window.innerWidth<window.innerHeight) {
             extVideo.style.height = "300px";
           
