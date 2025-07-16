@@ -4,6 +4,7 @@ import Layout from '~/layouts/PageLayout.astro';
 import Hero from '~/components/widgets/Hero.astro';
 import Note from '~/components/widgets/Note.astro';
 import Features from '~/components/widgets/Features.astro';
+import Features3 from '~/components/widgets/Features3.astro';
 import Features2 from '~/components/widgets/Features2.astro';
 import Steps from '~/components/widgets/Steps.astro';
 import Content from '~/components/widgets/Content.astro';
@@ -11,12 +12,10 @@ import BlogLatestPosts from '~/components/widgets/BlogLatestPosts.astro';
 import FAQs from '~/components/widgets/FAQs.astro';
 import Stats from '~/components/widgets/Stats.astro';
 import CallToAction from '~/components/widgets/CallToAction.astro';
-import EcPartnerList from "~/components/EcPartnerList.astro";
-import Features3 from '~/components/widgets/Features3.astro';
+import EcPartnerList from '~/components/EcPartnerList.astro';
 
 const metadata = {
-  title:"EaseCation Game Server",
-  // title: 'EaseCation 小游戏服务器 - ESH GROUP / 易什集团',
+  title: 'EaseCation Game Server - ESH GROUP',
   ignoreTitleTemplate: true,
 };
 ---
@@ -24,51 +23,52 @@ const metadata = {
 <Layout metadata={metadata}>
   <!-- Hero Widget ******************* -->
 
-  <Hero
-  >
+  <Hero>
     <Fragment slot="title">
-      EaseCation <span class="hidden xl:inline">Game Server</span><br>
-      <!-- <span class="text-accent dark:text-white">十年之约</span> 感谢有你 -->
+      EaseCation <span class="hidden xl:inline">Game Server</span><br />
     </Fragment>
-
 
     <Fragment slot="subtitle">
-      <span class="font-semibold">Ten Years Thank you</span>
+      <span class="font-semibold">Experience the Ten-Year Masterpiece with Millions of Players</span>
     </Fragment>
   </Hero>
+
   <!-- Content Widget **************** -->
 
   <Content
     isReversed
-    title="Hot Games"
-    subtitle="And more..."
+    title="Popular Mini-Games"
+    subtitle="And much more..."
     image={{
       src: '~/assets/images/bedwars.jpg',
-      alt:"Image",
-      draggable:false
+      alt: 'Image',
+      draggable: false,
     }}
   >
     <Fragment slot="content">
       <h3 class="text-2xl font-bold tracking-tight dark:text-white sm:text-3xl mb-2">Bed Wars</h3>
-      体验全世界最热门的《我的世界》小游戏！<br>
-      在这片悬浮于虚空的岛屿群上，床是你赖以生存的生命之源，也是敌人猛烈攻击的最终目标。收集资源、升级装备、策划战术、团队协作……用尽一切手段保卫你的基地，击杀所有敌人！
+      Experience the world's most popular Minecraft mini-game!<br>
+      On these floating islands suspended in the void, your bed is your lifeline and the ultimate target of enemy attacks. Collect resources, upgrade equipment, plan tactics, work as a team... use every means to defend your base and eliminate all enemies!
     </Fragment>
     <Fragment slot="bg">
       <div class="absolute inset-0 bg-blue-50 dark:bg-transparent"></div>
     </Fragment>
   </Content>
+
+  <!-- Content Widget **************** -->
+  
   <Content
     isAfterContent
     image={{
       src: '~/assets/images/mystery.jpg',
       alt: 'Image',
-      draggable:false
+      draggable: false,
     }}
   >
     <Fragment slot="content">
       <h3 class="text-2xl font-bold tracking-tight dark:text-white sm:text-3xl mb-2">Murder Mystery</h3>
-      享受心跳加速的推理猎杀盛宴！<br>
-      是化身杀手伺机屠杀，还是扮演侦探执弓追凶，或是作为平民绝地反击？收集绿宝石来兑换装备，利用地图或战术智取对手……你的目标只有一个：尽情游戏，获得胜利！
+      Enjoy the heart-pounding deduction and hunting feast!<br>
+      Will you become a killer lurking for the perfect moment, a detective pursuing justice, or a civilian fighting back? Collect emeralds to exchange for equipment, use maps or tactics to outsmart opponents... you have only one goal: enjoy the game and achieve victory!
     </Fragment>
     <Fragment slot="bg">
       <div class="absolute inset-0 bg-blue-50 dark:bg-transparent"></div>
@@ -81,17 +81,17 @@ const metadata = {
     isAfterContent
     image={{
       src: '~/assets/images/rl.jpg',
-      alt:"Image",
-      draggable:false
+      alt: 'Image',
+      draggable: false,
     }}
   >
     <Fragment slot="content">
       <h3 class="text-2xl font-bold tracking-tight dark:text-white sm:text-3xl mb-2">Rune Legend</h3>
-      我们引以为豪的原创PVE剧情向小游戏！
+      Our proudly original PVE story-driven mini-game!
       <br>
-    「 咒符觉醒，凋零众生  」
+    「 Runes Awaken, Withering All Life 」
     <br>
-     “邪恶的真相即将揭露，黑暗正悄无声息地吞噬着真实。”
+     "The evil truth is about to be revealed, and darkness is silently devouring reality."
     </Fragment>
 
     <Fragment slot="bg">
@@ -100,29 +100,30 @@ const metadata = {
   </Content>
 
   <!-- Steps Widget ****************** -->
+
   <Features3
-    title="About us"
-    subtitle="EaseCation是一个于2015年5月29日创建的MineCraft小游戏服务器。自创立以来，我们的服务器不断创新进步，深受玩家们的喜爱，注册用户数量达到了千万级!"
+    title="About Us"
+    subtitle="EaseCation is a Minecraft mini-game server created on May 29, 2015. Since its establishment, our server has continuously innovated and progressed, deeply loved by players, with registered users reaching tens of millions!"
     columns={3}
     isBeforeContent={true}
     items={[
       {
-        title: '长久发展',
+        title: 'Long-term Development',
         description:
-          'EaseCation 团队于 2022年11月 正式成立宁波易什网络科技有限公司。之后于 2023年8月 与上海易什网络技术有限公司、重庆易什网络科技有限公司共同成立易什集团，皆在为更多客户提供更加丰富的优质服务。',
+          'The EaseCation team officially established Ningbo ESH Network Technology Co., Ltd. in November 2022. Later in August 2023, together with Shanghai ESH Network Technology Co., Ltd. and Chongqing ESH Network Technology Co., Ltd., they jointly formed the ESH Group, aiming to provide richer and higher-quality services to more customers.',
         icon: 'tabler:template',
       },
       {
-        title: '誉满业界',
+        title: 'Industry Recognition',
         description:
-          '我们获得的奖项有：网易2021年《我的世界》年度服务器、2023年《我的世界》年度服务器、2024年《我的世界》金苹果杯“最佳网络游戏”，参展2021年ChinaJoy，2023年和2025年IJOY。',
+          'Awards we have received include: NetEase 2021 Minecraft Server of the Year, 2023 Minecraft Server of the Year, 2024 Minecraft Golden Apple Cup "Best Online Game", participated in ChinaJoy 2021, and IJOY 2023 and 2025.',
         icon: 'tabler:template',
       },
       {
-        title: '独创技术',
+        title: 'Innovative Technology',
         description:
-          `我们的玩家服务系统及内部办公系统均属自行研制，完美契合玩家需要和企业办公需求。
-技术智慧在于共享。我们还提供面向中小型企业的内部办公系统定制和AI相关业务服务，期待与您合作！`,
+          `Our player service system and internal office system are all self-developed, perfectly matching player needs and enterprise office requirements.
+Technological wisdom lies in sharing. We also provide customized internal office systems for small and medium enterprises and AI-related business services. We look forward to cooperating with you!`,
         icon: 'tabler:template',
       },
     ]},
@@ -132,75 +133,10 @@ const metadata = {
     }}
   />
 
-  <!-- Features2 Widget ************** -->
-
-  <!-- <Features2
-    title="Most used widgets"
-    subtitle="Provides frequently used components for building websites using Tailwind CSS"
-    tagline="Components"
-    items={[
-      {
-        title: 'Headers',
-        description: "Ever tried driving without GPS? Boom! That's why websites need headers for direction.",
-        icon: 'flat-color-icons:template',
-      },
-      {
-        title: 'Heros',
-        description:
-          "Picture a superhero landing – epic, right? That's the job of a Hero section, making grand entrances!",
-        icon: 'flat-color-icons:gallery',
-      },
-      {
-        title: 'Features',
-        description:
-          'Where websites strut their stuff and show off superpowers. No holding back on the bragging rights here!',
-        icon: 'flat-color-icons:approval',
-      },
-      {
-        title: 'Content',
-        description:
-          "Dive into the meat and potatoes of a site; without it, you'd just be window shopping. Content is king.",
-        icon: 'flat-color-icons:document',
-      },
-      {
-        title: 'Call-to-Action',
-        description:
-          'That enthusiastic friend who\'s always urging, "Do it! Do it!"? Yeah, that\'s this button nudging you towards adventure.',
-        icon: 'flat-color-icons:advertising',
-      },
-      {
-        title: 'Pricing',
-        description: 'Behold the dessert menu of the website world. Tempting choices await, can you resist?',
-        icon: 'flat-color-icons:currency-exchange',
-      },
-      {
-        title: 'Testimonial',
-        description: 'Step into the gossip corner! Here, other visitors spill the beans and share the juicy details.',
-        icon: 'flat-color-icons:voice-presentation',
-      },
-      {
-        title: 'Contact',
-        description:
-          'Like a digital mailbox, but faster! Drop a line, ask a question, or send a virtual high-five. Ding! Message in.',
-        icon: 'flat-color-icons:business-contact',
-      },
-      {
-        title: 'Footers',
-        description: "The footer's like the credits of a movie but sprinkled with easter eggs. Time to hunt!",
-        icon: 'flat-color-icons:database',
-      },
-    ]}
-  >
-    <Fragment slot="bg">
-      <div class="absolute inset-0 bg-blue-50 dark:bg-transparent"></div>
-    </Fragment>
-  </Features2> -->
-
   <!-- HighlightedPosts Widget ******* -->
 
   <BlogLatestPosts
-    title="Latest news"
-    linkText='Visit all'
+    title="Latest News"
     information={`
                 `}
   />
@@ -208,30 +144,31 @@ const metadata = {
   <!-- FAQs Widget ******************* -->
 
   <FAQs
-    title="FAQS"
+    title="Frequently Asked Questions"
+    tagline="FAQs"
     classes={{ container: 'max-w-6xl' }}
     items={[
       {
-        title: '如果我需要服务器小游戏、玩家账号事务相关的咨询服务，应该去哪里呢？',
+        title: 'Where should I go for consultation services related to server mini-games and player account affairs?',
         description:
-          `进入我们的<a style="color:blue" href="https://uc.easecation.net" target="_blank" rel="noopener noreferrer">工单系统</a>，按照指导提交对应类别的工单即可。`,
+          `Enter our <a style="color:blue" href="https://uc.easecation.net" target="_blank" rel="noopener noreferrer">ticket system</a> and submit a ticket of the corresponding category according to the guidance.`,
       },
       {
-        title: '我想反馈意见和建议，应该去哪里呢？',
+        title: 'Where should I go to provide feedback and suggestions?',
         description:
-          `进入我们的<a style="color:blue" href="https://uc.easecation.net" target="_blank" rel="noopener noreferrer">工单系统</a>，提交类型为“建议与反馈”的工单即可。`,
+          `Enter our <a style="color:blue" href="https://uc.easecation.net" target="_blank" rel="noopener noreferrer">ticket system</a> and submit a ticket with the type "Suggestions and Feedback".`,
       },
       {
-        title: '我想加入你们，我应该如何应聘呢？',
+        title: 'I want to join you, how should I apply?',
         description:
-          `开发团队：服务器开发者岗位火热招募中！支持【全职】【兼职】【实习】，申请链接:<a style="color:blue" href="https://ningboesh.feishu.cn/share/base/form/shrcnHtdTPBZGxqwuQgwFAR8LZf" target="_blank" rel="noopener noreferrer">Nukkit (Java) 游戏开发岗位申请（全职 / 兼职 / 实习）</a>
+          `Development Team: Server developer positions are actively recruiting! We support 【Full-time】【Part-time】【Internship】, application link: <a style="color:blue" href="https://ningboesh.feishu.cn/share/base/form/shrcnHtdTPBZGxqwuQgwFAR8LZf" target="_blank" rel="noopener noreferrer">Nukkit (Java) Game Development Position Application (Full-time / Part-time / Internship)</a>
           <br/>
-          管理团队：管理团队不定期开展自招和统招活动，请留意我们的官方社群媒体的相关消息！`,
+          Management Team: The management team conducts self-recruitment and unified recruitment activities from time to time. Please pay attention to relevant messages on our official social media!`,
       },
       {
-        title: "我在哪里可以购买EaseCation的周边商品？",
+        title: "Where can I purchase EaseCation merchandise?",
         description:
-          "我们有专门售卖周边商品的官方店铺噢！在淘宝店铺搜索：EaseCation 即可。商品不定期上新，感谢支持！",
+          "We have an official store dedicated to selling merchandise! Search for: EaseCation in Taobao stores. Products are updated from time to time, thank you for your support!",
       }
     ]}
   />
@@ -240,33 +177,30 @@ const metadata = {
 
   <Stats
     stats={[
-      { title: 'Registered players', amount: '100 million+' },
-      { title: 'Max online players', amount: '20000+' },
-      { title: 'Player scores', amount: '4.8/5.0' },
-      // { title: 'Users', amount: '48.4K' },
+      {title: 'Registered Players', amount: '100 Million+'},
+      {title: 'Peak Online Players', amount: '20,000+'},
+      {title: 'Player Rating', amount: '4.8/5.0'},
     ]}
   />
-    <EcPartnerList/>
-  <!-- CallToAction Widget *********** -->
-
+  
   <CallToAction
     actions={[
       {
         variant: 'primary',
-        text: '下载客户端',
+        text: 'Play Now!',
         href: 'https://mc.163.com',
-        target: '_blank',
-        icon: 'tabler:download',
+        target: '_blank'
       },
     ]}
   >
+  <a href="https://uc.easecation.net" target="_blank" rel="noopener noreferrer"></a>
     <Fragment slot="title">
-      <br class="block sm:hidden" /><span class="sm:whitespace-nowrap">加入服务器</span>
+      <br class="block sm:hidden" /><span class="sm:whitespace-nowrap">Join the Server</span>
     </Fragment>
 
     <Fragment slot="subtitle">
-      前往下载'我的世界中国版'客户端 <br class="hidden md:inline" />
-      在'网络游戏'中找到'EaseCation'即可
+      Mobile: Client - Online Games - EC Bed Wars·S8 <br class="hidden md:inline" />
+      PC: Client - Online Games - EC Mini-Games·Bed Wars
     </Fragment>
   </CallToAction>
 </Layout>

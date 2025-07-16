@@ -1,0 +1,144 @@
+---
+import Features2 from '~/components/widgets/Features2.astro';
+import Features3 from '~/components/widgets/Features3.astro';
+import Hero from '~/components/widgets/Hero.astro';
+import Stats from '~/components/widgets/Stats.astro';
+import Steps2 from '~/components/widgets/Steps2.astro';
+import Layout from '~/layouts/PageLayout.astro';
+
+const metadata = {
+  title: 'About Us - EaseCation',
+};
+---
+
+<Layout metadata={metadata}>
+  <!-- Hero Widget ******************* -->
+
+  <Hero
+    tagline="About Us"
+    image={{
+      src: 'https://images.unsplash.com/photo-1559136555-9303baea8ebd?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=2070&q=80',
+      alt: 'About Us Image',
+    }}
+  >
+    <Fragment slot="title">
+      Building the Ultimate <br />
+      <span class="text-accent dark:text-white">Minecraft Gaming Experience</span>
+    </Fragment>
+
+    <Fragment slot="subtitle">
+      Since 2015, EaseCation has been dedicated to creating the most engaging and innovative Minecraft mini-game experiences. 
+      With over 100 million registered players and a decade of continuous development, we've established ourselves as a leading 
+      force in the Minecraft gaming community.
+    </Fragment>
+  </Hero>
+
+  <!-- Stats Widget ****************** -->
+
+  <Stats
+    title="Our Achievements"
+    stats={[
+      { title: 'Years of Service', amount: '10+' },
+      { title: 'Registered Players', amount: '100M+' },
+      { title: 'Mini-Games', amount: '50+' },
+      { title: 'Awards Won', amount: '10+' },
+    ]}
+  />
+
+  <!-- Features3 Widget ************** -->
+
+  <Features3
+    title="Our Game Categories"
+    subtitle="We offer a diverse range of mini-games designed to provide endless entertainment and challenge for players of all skill levels."
+    columns={3}
+    isBeforeContent={true}
+    items={[
+      {
+        title: 'PVP Games',
+        description:
+          'Competitive multiplayer games like Bed Wars and SkyWars that test your combat skills and strategic thinking.',
+        icon: 'tabler:sword',
+      },
+      {
+        title: 'PVE Adventures',
+        description:
+          'Story-driven experiences like Rune Legend that immerse you in rich narratives and challenging quests.',
+        icon: 'tabler:map',
+      },
+      {
+        title: 'Social Games',
+        description:
+          'Mystery and deduction games like Murder Mystery that bring players together for thrilling social experiences.',
+        icon: 'tabler:users',
+      },
+    ]}
+  />
+
+  <!-- Steps2 Widget ****************** -->
+
+  <Steps2
+    title="Our Values"
+    subtitle="At EaseCation, we are guided by core principles that shape every aspect of our service and community."
+    items={[
+      {
+        title: 'Player-First Approach',
+        description:
+          'Every decision we make prioritizes the player experience, ensuring fair gameplay and continuous improvement based on community feedback.',
+      },
+      {
+        title: 'Innovation & Quality',
+        description:
+          'We constantly push the boundaries of what\'s possible in Minecraft gaming, developing cutting-edge features and maintaining the highest quality standards.',
+      },
+      {
+        title: 'Community Building',
+        description:
+          'We foster a welcoming, inclusive environment where players can connect, compete, and create lasting friendships.',
+      },
+    ]}
+  />
+
+  <!-- Features2 Widget ************** -->
+
+  <Features2
+    title="ESH Group Locations"
+    tagline="Find Us"
+    columns={3}
+    items={[
+      {
+        title: 'Ningbo, China',
+        description: 'Ningbo ESH Network Technology Co., Ltd. - Main Operations',
+      },
+      {
+        title: 'Shanghai, China',
+        description: 'Shanghai ESH Network Technology Co., Ltd. - Development Hub',
+      },
+      {
+        title: 'Chongqing, China',
+        description: 'Chongqing ESH Network Technology Co., Ltd. - Regional Office',
+      },
+    ]}
+  />
+
+  <!-- Features2 Widget ************** -->
+
+  <Features2
+    title="Get Support"
+    tagline="Contact Us"
+    columns={2}
+    items={[
+      {
+        title: 'Ticket System',
+        description:
+          'Submit a support ticket through our comprehensive ticket system for game-related issues, account problems, or general inquiries.',
+        icon: 'tabler:ticket',
+      },
+      {
+        title: 'Community Forums',
+        description:
+          'Join our active community forums to connect with other players, share strategies, and stay updated on the latest news.',
+        icon: 'tabler:messages',
+      },
+    ]}
+  />
+</Layout>

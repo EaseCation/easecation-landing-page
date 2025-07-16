@@ -1,0 +1,107 @@
+---
+import CallToAction from '~/components/widgets/CallToAction.astro';
+import ContactUs from '~/components/widgets/ContactUs.astro';
+import Features2 from '~/components/widgets/Features2.astro';
+import Features3 from '~/components/widgets/Features3.astro';
+import Hero from '~/components/widgets/Hero.astro';
+import Layout from '~/layouts/PageLayout.astro';
+
+const metadata = {
+  title: 'Contact Us - EaseCation',
+};
+---
+
+<Layout metadata={metadata}>
+  <!-- Hero Widget ******************* -->
+
+  <Hero
+    tagline="Contact Us"
+    title="Get in Touch"
+  >
+    <Fragment slot="subtitle">
+      Have questions about our games, need technical support, or want to join our team? 
+      We're here to help! Reach out to us through any of the channels below.
+    </Fragment>
+  </Hero>
+
+  <!-- Features2 Widget ************** -->
+
+  <Features2
+    title="How to Reach Us"
+    items={[
+      {
+        title: 'Support Tickets',
+        description: 'For game issues, account problems, or technical support',
+        icon: 'tabler:ticket',
+      },
+      {
+        title: 'Career Opportunities',
+        description: 'Join our development or management team',
+        icon: 'tabler:briefcase',
+      },
+      {
+        title: 'Business Inquiries',
+        description: 'Partnership opportunities and enterprise services',
+        icon: 'tabler:building',
+      },
+      {
+        title: 'Community',
+        description: 'Connect with us on social media platforms',
+        icon: 'tabler:users',
+      },
+    ]}
+  />
+
+  <!-- Features3 Widget ************** -->
+
+  <Features3
+    title="Support Categories"
+    subtitle="Choose the appropriate category for faster assistance"
+    columns={2}
+    items={[
+      {
+        title: 'Game Support',
+        description: 'Issues with mini-games, gameplay bugs, or feature requests',
+        icon: 'tabler:device-gamepad',
+      },
+      {
+        title: 'Account Issues',
+        description: 'Login problems, account recovery, or profile management',
+        icon: 'tabler:user-circle',
+      },
+      {
+        title: 'Technical Problems',
+        description: 'Connection issues, performance problems, or compatibility questions',
+        icon: 'tabler:tools',
+      },
+      {
+        title: 'Feedback & Suggestions',
+        description: 'Share your ideas for improvements or new features',
+        icon: 'tabler:message-circle',
+      },
+    ]}
+  />
+
+  <!-- CallToAction Widget *********** -->
+
+  <CallToAction
+    title="Ready to Get Started?"
+    subtitle="Join millions of players in the ultimate Minecraft gaming experience"
+    actions={[
+      {
+        variant: 'primary',
+        text: 'Visit Ticket System',
+        href: 'https://uc.easecation.net',
+        target: '_blank',
+        icon: 'tabler:external-link',
+      },
+      {
+        variant: 'secondary',
+        text: 'Download Game Client',
+        href: 'https://mc.163.com',
+        target: '_blank',
+        icon: 'tabler:download',
+      },
+    ]}
+  />
+</Layout>

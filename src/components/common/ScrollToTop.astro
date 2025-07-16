@@ -1,0 +1,49 @@
+---
+import { Icon } from 'astro-icon/components';
+---
+
+<button
+  id="scroll-to-top"
+  class="fixed bottom-6 right-6 z-50 p-3 bg-primary text-white rounded-full shadow-lg hover:bg-primary/80 transition-all duration-300 opacity-0 invisible transform translate-y-4 hover:scale-110"
+  aria-label="返回顶部"
+  title="返回顶部"
+>
+  <Icon name="tabler:arrow-up" class="w-5 h-5" />
+</button>
+
+<script>
+  document.addEventListener('DOMContentLoaded', function() {
+    const scrollToTopBtn = document.getElementById('scroll-to-top');
+    
+    if (scrollToTopBtn) {
+      // 监听滚动事件
+      window.addEventListener('scroll', function() {
+        if (window.pageYOffset > 300) {
+          scrollToTopBtn.classList.remove('opacity-0', 'invisible', 'translate-y-4');
+          scrollToTopBtn.classList.add('opacity-100', 'visible', 'translate-y-0');
+        } else {
+          scrollToTopBtn.classList.add('opacity-0', 'invisible', 'translate-y-4');
+          scrollToTopBtn.classList.remove('opacity-100', 'visible', 'translate-y-0');
+        }
+      });
+      
+      // 点击返回顶部
+      scrollToTopBtn.addEventListener('click', function() {
+        window.scrollTo({
+          top: 0,
+          behavior: 'smooth'
+        });
+      });
+    }
+  });
+</script>
+
+<style>
+  #scroll-to-top {
+    backdrop-filter: blur(10px);
+  }
+  
+  #scroll-to-top:hover {
+    box-shadow: 0 8px 25px rgba(0, 0, 0, 0.15);
+  }
+</style>

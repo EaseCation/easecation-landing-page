@@ -2,6 +2,14 @@ import { getPermalink, getBlogPermalink, getAsset } from './utils/permalinks';
 export const headerData = {
   links: [
     {
+      text: '#nav.ticketSystem',
+      href: 'https://uc.easecation.net/login',
+    },
+    {
+      text: '#nav.wiki',
+      href: 'https://wiki.easecation.net/%E9%A6%96%E9%A1%B5',
+    },
+    {
       text: '#nav.news',
       links: [
         {
@@ -16,20 +24,7 @@ export const headerData = {
         },
       ],
     },
-    {
-      //多语言
-      text: '#nav.language',
-      links: [
-        {
-          text: '中文',
-          href: getPermalink('/', 'page'),
-        },
-        {
-          text: 'English',
-          href: getPermalink('en', 'page'),
-        },
-      ],
-    }
+    // 移除了语言菜单选项
   ],
   actions: [{ text: 'Download', href: 'https://github.com/onwidget/astrowind', target: '_blank' }],
 };

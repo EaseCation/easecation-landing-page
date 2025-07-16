@@ -1,0 +1,150 @@
+---
+import CallToAction from '~/components/widgets/CallToAction.astro';
+import Content from '~/components/widgets/Content.astro';
+import Features from '~/components/widgets/Features.astro';
+import Features3 from '~/components/widgets/Features3.astro';
+import Hero from '~/components/widgets/Hero.astro';
+import Pricing from '~/components/widgets/Pricing.astro';
+import Layout from '~/layouts/PageLayout.astro';
+
+const metadata = {
+  title: 'Our Services - EaseCation',
+};
+---
+
+<Layout metadata={metadata}>
+  <!-- Hero Widget ******************* -->
+
+  <Hero
+    tagline="Our Services"
+    title="Comprehensive Gaming & Technology Solutions"
+  >
+    <Fragment slot="subtitle">
+      Beyond our popular Minecraft mini-games, EaseCation offers a range of professional services 
+      including custom game development, enterprise solutions, and AI-powered business services.
+    </Fragment>
+  </Hero>
+
+  <!-- Features Widget *************** -->
+
+  <Features
+    id="features"
+    title="Gaming Services"
+    subtitle="Experience the best in Minecraft entertainment"
+    items={[
+      {
+        title: 'Diverse Mini-Games',
+        description: 'Ten years of development bringing you a vast collection of unique and engaging mini-games',
+        icon: 'tabler:pacman',
+      },
+      {
+        title: 'Smooth Performance',
+        description: 'Comprehensive optimization and powerful performance for the most comfortable gaming experience',
+        icon: 'tabler:brand-speedtest',
+      },
+      {
+        title: 'Advanced Anti-Cheat',
+        description: 'Solid foundation + 24/7 manual monitoring ensures cheaters have nowhere to hide',
+        icon: 'tabler:shield-check',
+      },
+      {
+        title: 'Fair Competition',
+        description: 'We firmly reject Pay-to-Win mechanics',
+        icon: 'tabler:scale',
+      },
+      {
+        title: 'Dedicated Service',
+        description: '24/7 customer support with strict service standards to ensure quality assistance',
+        icon: 'tabler:heart',
+      },
+      {
+        title: 'Community Interaction',
+        description: 'Official presence on major platforms for friendly communication and feedback collection',
+        icon: 'tabler:users',
+      },
+    ]}
+  />
+
+  <!-- Features3 Widget ************** -->
+
+  <Features3
+    title="Enterprise Solutions"
+    subtitle="Custom technology solutions for businesses of all sizes"
+    columns={3}
+    items={[
+      {
+        title: 'Custom Office Systems',
+        description: 'Tailored internal office systems designed specifically for small and medium enterprises',
+        icon: 'tabler:building-office',
+      },
+      {
+        title: 'AI Business Services',
+        description: 'Cutting-edge AI solutions to enhance your business operations and decision-making',
+        icon: 'tabler:robot',
+      },
+      {
+        title: 'Game Development',
+        description: 'Custom game development services leveraging our decade of experience in the industry',
+        icon: 'tabler:device-gamepad',
+      },
+    ]}
+  />
+
+  <!-- Content Widget **************** -->
+
+  <Content
+    isReversed
+    title="Why Choose EaseCation?"
+    items={[
+      {
+        title: 'Proven Track Record',
+        description: 'Over 10 years of successful operation with 100+ million registered players',
+      },
+      {
+        title: 'Industry Recognition',
+        description: 'Multiple awards including NetEase Minecraft Server of the Year',
+      },
+      {
+        title: 'Technical Excellence',
+        description: 'Self-developed systems perfectly tailored to user needs',
+      },
+      {
+        title: 'Continuous Innovation',
+        description: 'Constantly evolving and improving based on community feedback',
+      },
+    ]}
+    image={{
+      src: 'https://images.unsplash.com/photo-1504384308090-c894fdcc538d?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1740&q=80',
+      alt: 'EaseCation Services',
+    }}
+  >
+    <Fragment slot="content">
+      <h3 class="text-2xl font-bold tracking-tight dark:text-white sm:text-3xl mb-2">Excellence in Every Service</h3>
+      Our commitment to quality and innovation drives everything we do. From our flagship gaming platform to our enterprise solutions, 
+      we deliver exceptional results that exceed expectations.
+    </Fragment>
+  </Content>
+
+  <!-- CallToAction Widget *********** -->
+
+  <CallToAction
+    title="Ready to Experience Our Services?"
+    subtitle="Join millions of satisfied users or discuss your custom project needs"
+    actions={[
+      {
+        variant: 'primary',
+        text: 'Start Playing',
+        href: 'https://mc.163.com',
+        target: '_blank',
+        icon: 'tabler:play',
+      },
+      {
+        variant: 'secondary',
+        text: 'Business Inquiry',
+        href: 'https://uc.easecation.net',
+        target: '_blank',
+        icon: 'tabler:message',
+      },
+    ]}
+  />
+</Layout>

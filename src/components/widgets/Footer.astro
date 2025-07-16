@@ -4,6 +4,7 @@ import { SITE } from 'astrowind:config';
 import EcTranslate from '~/utils/EcTranslate';
 import EcUtils from '~/utils/EcUtils';
 import { getHomePermalink } from '~/utils/permalinks';
+import EcPartnerList from '~/components/EcPartnerList.astro';
 
 interface Link {
   text?: string;
@@ -75,6 +76,7 @@ const { socialLinks = [], secondaryLinks = [], links = [], footNote = '', theme 
           </div>
         ))
       }
+      <EcPartnerList />
     </div>
     <div class="md:flex md:items-center md:justify-between py-6 md:py-8">
       {

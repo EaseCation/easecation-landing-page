@@ -20,7 +20,7 @@ export interface Props extends Widget {
 
 const {
   title = await Astro.slots.render('title'),
-  linkText = '查看全部',
+  linkText = EcTranslate.getTranslate('#news.viewAll', EcTranslate.getCurrentLang(Astro.url.href)),
   linkUrl = getBlogPermalink(),
   information = await Astro.slots.render('information'),
   count = 4,
