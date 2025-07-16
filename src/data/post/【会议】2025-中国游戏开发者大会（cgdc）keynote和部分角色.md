@@ -1,7 +1,7 @@
 ---
 title: "【会议】2025 中国游戏开发者大会（CGDC）KEYNOTE和部分角色扮演专场嘉宾曝光"
 publishDate: 2025-06-21
-category: ChinaJoy专区
+category: 博客
 author: 莱尔
 ---
 

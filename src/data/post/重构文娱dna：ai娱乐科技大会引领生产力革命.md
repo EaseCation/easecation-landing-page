@@ -1,7 +1,7 @@
 ---
 title: "重构文娱DNA：AI+娱乐科技大会引领生产力革命"
 publishDate: 2025-06-13
-category: ChinaJoy专区
+category: 博客
 author: 莱尔
 ---
 

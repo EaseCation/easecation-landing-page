@@ -1,7 +1,7 @@
 ---
 title: "【商务配对】引领企业商务合作！2024 ChinaJoy BTOB 商务配对系统重磅上线！"
 publishDate: 2024-06-21
-category: ChinaJoy专区
+category: 博客
 author: 莱尔
 ---
 

@@ -1,9 +1,8 @@
 ---
 title: "【会议+Express试玩区】2024 中国游戏开发者大会（CGDC）Indie 专场"
 publishDate: 2024-06-03
-category: ChinaJoy专区
+category: 博客
 author: 莱尔
-coverImage: "20240603231301742.jpg"
 ---
 
 中国游戏开发者大会（China Game Developers Conference - CGDC）自 2007 年首次举办以来，**17** **年**中我们始终以促进游戏产业自主创新，助力游戏研发技术发展为宗旨，通过授课或是座谈讨论的形式，从游戏产品策划，程序，开发工具，市场/商务/社区运营等不同角度，分享和探讨游戏开发技术成果，打造全球游戏开发者相互交流、学习、合作的平台。

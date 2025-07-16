@@ -1,7 +1,7 @@
 ---
 title: "【会议+Express】2024 中国游戏开发者大会（CGDC）动作冒险、角色扮演、策略、全球化、试玩区详情曝光！"
 publishDate: 2024-07-23
-category: ChinaJoy专区
+category: 博客
 author: 莱尔
 ---
 
