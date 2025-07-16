@@ -11,7 +11,7 @@ import EcTranslate from '~/utils/EcTranslate';
 export const prerender = true;
 
 export const getStaticPaths = (async ({ paginate }) => {
-  return await getStaticPathsBlogCategory({ paginate });
+  return await getStaticPathsBlogCategory({ paginate },"post");
 }) satisfies GetStaticPaths;
 
 type Props = InferGetStaticPropsType<typeof getStaticPaths> & { category: Record<string, string> };

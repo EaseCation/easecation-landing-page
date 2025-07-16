@@ -7,6 +7,7 @@ import { getBlogPermalink } from '~/utils/permalinks';
 import { findPostsByIds } from '~/utils/blog';
 import WidgetWrapper from '~/components/ui/WidgetWrapper.astro';
 import type { Widget } from '~/types';
+import EcTranslate from '~/utils/EcTranslate';
 
 export interface Props extends Widget {
   title?: string;
@@ -29,7 +30,7 @@ const {
   bg = await Astro.slots.render('bg'),
 } = Astro.props;
 
-const posts = APP_BLOG.isEnabled ? await findPostsByIds(postIds) : [];
+const posts = APP_BLOG.isEnabled ? await findPostsByIds(postIds,EcTranslate.getBlogLang(Astro.url.href)) : [];
 ---
 
 {

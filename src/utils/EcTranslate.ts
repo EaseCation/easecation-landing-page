@@ -1,3 +1,5 @@
+import type { DataEntryMap } from "astro:content";
+
 const translations: Record<string, Record<string, string>> = {
     en: {
         '#nav.news': 'News',
@@ -61,6 +63,10 @@ class EcTranslate {
             return "en";
         }
         return "zh"
+    }
+    static getBlogLang(href:string): keyof DataEntryMap {
+        const lang = this.getCurrentLang(href);
+        return lang === 'en' ? 'post_en' : 'post';
     }
     static getLocalHref(currentHref:string,targetHref:string,lang:string) {
         if (lang==="zh") {

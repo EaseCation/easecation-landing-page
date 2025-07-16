@@ -31,7 +31,7 @@ const {
   bg = await Astro.slots.render('bg'),
 } = Astro.props;
 
-const posts = APP_BLOG.isEnabled ? await findLatestPosts({ count }) : [];
+const posts = APP_BLOG.isEnabled ? await findLatestPosts({ count },EcTranslate.getBlogLang(Astro.url.href)) : [];
 ---
 
 {

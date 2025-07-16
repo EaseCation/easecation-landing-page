@@ -6,11 +6,12 @@ import Layout from '~/layouts/PageLayout.astro';
 import BlogList from '~/components/blog/List.astro';
 import Headline from '~/components/blog/Headline.astro';
 import Pagination from '~/components/blog/Pagination.astro';
+import EcTranslate from '~/utils/EcTranslate';
 
 export const prerender = true;
 
 export const getStaticPaths = (async ({ paginate }) => {
-  return await getStaticPathsBlogCategory({ paginate });
+  return await getStaticPathsBlogCategory({ paginate },"post_en");
 }) satisfies GetStaticPaths;
 
 type Props = InferGetStaticPropsType<typeof getStaticPaths> & { category: Record<string, string> };
@@ -20,7 +21,8 @@ const { page, category } = Astro.props as Props;
 const currentPage = page.currentPage ?? 1;
 
 const metadata = {
-  title: `Category '${category.title}' ${currentPage > 1 ? ` — Page ${currentPage}` : ''}`,
+  //暂时应付下 反正够用
+  title: `${category.title==="博客"?"Blogs":"ChinaJoy"} ${currentPage > 1 ? ` — Page ${currentPage}` : ''}`,
   robots: {
     index: blogCategoryRobots?.index,
     follow: blogCategoryRobots?.follow,
@@ -30,8 +32,8 @@ const metadata = {
 
 <Layout metadata={metadata}>
   <section class="px-4 md:px-6 py-12 sm:py-16 lg:py-20 mx-auto max-w-4xl">
-    <Headline>{category.title}</Headline>
+    <Headline>{category.title==="博客"?"Blogs":"ChinaJoy"}</Headline>
     <BlogList posts={page.data} />
-    <Pagination prevUrl={page.url.prev} nextUrl={page.url.next} />
+    <Pagination prevUrl={page.url.prev} nextUrl={page.url.next} nextText={EcTranslate.getTranslate("#news.next",EcTranslate.getCurrentLang(Astro.url.href))} prevText={EcTranslate.getTranslate("#news.previous",EcTranslate.getCurrentLang(Astro.url.href))}/>
   </section>
 </Layout>
