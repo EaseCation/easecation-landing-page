@@ -1,17 +1,19 @@
 ---
-import { APP_BLOG } from 'astrowind:config';
-import type { Post } from '~/types';
+import {APP_BLOG} from 'astrowind:config';
+import type {Post} from '~/types';
 
 import Image from '~/components/common/Image.astro';
 
-import { findImage } from '~/utils/images';
-import { getPermalink } from '~/utils/permalinks';
-
+import {findImage} from '~/utils/images';
+import {getPermalink} from '~/utils/permalinks';
+import EcUtils from '~/utils/EcUtils';
+import {getEntry} from 'astro:content';
+import EcTranslate from '~/utils/EcTranslate';
 export interface Props {
   post: Post;
 }
 
-const { post } = Astro.props;
+const {post} = Astro.props;
 const image = await findImage(post.image);
 
 const link = APP_BLOG?.post?.isEnabled ? getPermalink(post.permalink, 'post') : '';
@@ -20,7 +22,7 @@ const link = APP_BLOG?.post?.isEnabled ? getPermalink(post.permalink, 'post') : 
 <article
   class="mb-6 transition intersect-once intersect-quarter motion-safe:md:opacity-0 motion-safe:md:intersect:animate-fade"
 >
-  <div class="relative md:h-64 bg-gray-400 dark:bg-slate-700 rounded shadow-lg mb-6">
+  <!-- <div class="relative md:h-64 bg-gray-400 dark:bg-slate-700 rounded shadow-lg mb-6">
     {
       image &&
         (link ? (
@@ -53,12 +55,15 @@ const link = APP_BLOG?.post?.isEnabled ? getPermalink(post.permalink, 'post') : 
           />
         ))
     }
-  </div>
+  </div> -->
 
   <h3 class="text-xl sm:text-2xl font-bold leading-tight mb-2 font-heading dark:text-slate-300">
     {
       link ? (
-        <a class="inline-block hover:text-primary dark:hover:text-blue-700 transition ease-in duration-200" href={post.language==="en"?`/en${link}`:link}>
+        <a
+          class="inline-block hover:text-primary dark:hover:text-blue-700 transition ease-in duration-200"
+          href={post.language === 'en' ? `/en${link}` : link}
+        >
           {post.title}
         </a>
       ) : (
@@ -66,6 +71,12 @@ const link = APP_BLOG?.post?.isEnabled ? getPermalink(post.permalink, 'post') : 
       )
     }
   </h3>
-
-  <p class="text-muted dark:text-slate-400 text-lg">{post.excerpt}</p>
+  <!-- <p class="text-muted dark:text-slate-400 text-lg">{post.excerpt}</p> -->
+  <p class="text-muted dark:text-slate-400 text-lg border-spacing-1">
+    {
+      getEntry(EcTranslate.getBlogLang(Astro.url.href), post.id)?.then(value => {
+        return value?.body ? EcUtils.getExcerpt(value.body, 100) : '';
+      })
+    }
+  </p>
 </article>
