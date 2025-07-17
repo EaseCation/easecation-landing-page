@@ -19,7 +19,30 @@ const metadata = {
   ignoreTitleTemplate: true,
 };
 ---
-
+<script is:inline>
+  const konamiCode = [
+    'ArrowUp',
+    'ArrowUp',
+    'ArrowDown',
+    'ArrowDown',
+    'ArrowLeft',
+    'ArrowRight',
+    'ArrowLeft',
+    'ArrowRight',
+    'b',
+    'a',
+  ];
+  let inputIndex = 0;
+  document.addEventListener('keyup', event => {
+    if (event.key === konamiCode[inputIndex]) {
+      inputIndex++;
+      if (inputIndex === 10) {
+        inputIndex = 0;
+        alert("I have 30 life new.lol");
+      }
+    }
+  });
+</script>
 <Layout metadata={metadata}>
   <!-- Hero Widget ******************* -->
 
