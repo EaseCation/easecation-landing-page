@@ -10,7 +10,8 @@ import type { Post } from '~/types';
 import { getPermalink } from '~/utils/permalinks';
 import { findImage } from '~/utils/images';
 import { getFormattedDate } from '~/utils/utils';
-
+import { getEntry } from "astro:content";
+import EcTranslate from '~/utils/EcTranslate';
 export interface Props {
   post: Post;
 }
@@ -106,8 +107,33 @@ const link = APP_BLOG?.post?.isEnabled ? getPermalink(post.permalink, 'post') : 
         }
       </h2>
     </header>
-
-    {post.excerpt && <p class="flex-grow text-muted dark:text-slate-400 text-lg">{post.excerpt}</p>}
+    {
+      (
+        <p class="flex-grow text-muted dark:text-slate-400 text-lg">{
+          // 自动获取内容生成描述
+          getEntry(EcTranslate.getBlogLang(Astro.url.href),post.id)?.then(value=>{
+            if(value.body){
+              const imageStopPoint=value.body.indexOf("![](")??1000;
+              let text:string;
+              //处理开头图片
+              if (imageStopPoint===0) {
+                const imageStartPoint=value.body.indexOf(")");
+                const newImageStopPoint=value.body.indexOf("![](",imageStartPoint+1);
+                text=value.body.slice(imageStartPoint+1,newImageStopPoint===-1?imageStartPoint+151:Math.min(newImageStopPoint,imageStartPoint+151))??"";
+              }else{
+                //正常情况
+                text=value.body.slice(imageStopPoint===0?value.body.indexOf(")"):0,imageStopPoint===-1?150:Math.min(imageStopPoint,150))??"";
+              }
+              text=text.replaceAll("**","");
+              return `${text}......`
+            }else{
+              return ""
+            }
+          })
+          }
+          </p>
+      )
+    }
     {
       post.tags && Array.isArray(post.tags) ? (
         <footer class="mt-5">

@@ -9,7 +9,6 @@ import { getPermalink } from '~/utils/permalinks';
 import { getFormattedDate } from '~/utils/utils';
 
 import type { Post } from '~/types';
-
 export interface Props {
   post: Post;
   url: string | URL;
@@ -67,7 +66,7 @@ const { post, url } = Astro.props;
       <p
         class="max-w-3xl mx-auto mt-4 mb-8 px-4 sm:px-6 text-xl md:text-2xl text-muted dark:text-slate-400 text-justify"
       >
-        {post.excerpt}
+        <!-- {post.excerpt} -->
       </p>
       <!-- 在内容开头自动重复一遍头图 没意义 -->
       <!-- {

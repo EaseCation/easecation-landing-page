@@ -13,10 +13,12 @@ import EcTranslate from '~/utils/EcTranslate';
     }
     const isEnglish = currentPath.startsWith('/en');
     if (isEnglish) {
-      const newPath = currentPath.replace(/^\/en/, '') || '/';
+      let newPath = currentPath.replace(/^\/en/g, '') || '/';
+      newPath=newPath.replace(/\/[1-999]/,"");
       window.location.href = newPath;
     } else {
-      const newPath = currentPath === '/' ? '/en' : '/en' + currentPath;
+      let newPath = currentPath === '/' ? '/en' : '/en' + currentPath;
+      newPath=newPath.replace(/\/[1-999]/g,"");
       window.location.href = newPath;
     }
   };
