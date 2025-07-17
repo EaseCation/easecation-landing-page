@@ -3,6 +3,7 @@ import Image from '~/components/common/Image.astro';
 import Button from '~/components/ui/Button.astro';
 
 import type { Hero as Props } from '~/types';
+// import homeVideo from '~/assets/homeVideo.mp4';
 
 const {
   title = await Astro.slots.render('title'),
@@ -74,7 +75,7 @@ const {
       <div
         class="intersect-once intercept-no-queue intersect-quarter motion-safe:md:opacity-0 motion-safe:md:intersect:animate-fade"
       >
-      <iframe id="extVideo" style="height: 700px;" class="h-full rounded-md w-full" src="//player.bilibili.com/player.html?isOutside=true&bvid=BV1Gdf1YuE4u" scrolling="no" frameborder="no" allowfullscreen="true"></iframe>
+      <video muted autoplay src={"/public/homeVideo.mp4"} id="extVideo" style="height: 700px;" class="h-full rounded-md w-full"></video>
       <script>
         // 移动端适配
         window.addEventListener("DOMContentLoaded",()=>{
