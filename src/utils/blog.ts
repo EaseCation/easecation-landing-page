@@ -50,6 +50,7 @@ const getNormalizedPost = async (post: CollectionEntry<'post'|"post_en">): Promi
     title,
     excerpt,
     image,
+    language,
     tags: rawTags = [],
     category: rawCategory,
     author,
@@ -84,7 +85,7 @@ const getNormalizedPost = async (post: CollectionEntry<'post'|"post_en">): Promi
     title: title,
     excerpt: excerpt,
     image: image,
-
+    language: language,
     category: category,
     tags: tags,
     author: author,

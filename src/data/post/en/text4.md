@@ -3,6 +3,7 @@ title: "English blog test 4"
 publishDate: 2025-05-13
 category: ChinaJoy专区
 author: 莱尔
+language: en
 ---
 
 ![](https://ec-net-1251389766.cos.ap-shanghai.myqcloud.com/wp-content/uploads/2025/05/20250513154433168.jpeg)

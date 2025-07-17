@@ -56,7 +56,7 @@ const postCollection = defineCollection({
     title: z.string(),
     excerpt: z.string().optional(),
     image: z.string().optional(),
-
+    language:z.enum(['en', 'zh']).optional(),
     category: z.string().optional(),
     tags: z.array(z.string()).optional(),
     author: z.string().optional(),
@@ -74,7 +74,7 @@ const postEnCollection = defineCollection({
     title: z.string(),
     excerpt: z.string().optional(),
     image: z.string().optional(),
-
+    language:z.enum(['en', 'zh']).optional(),
     category: z.string().optional(),
     tags: z.array(z.string()).optional(),
     author: z.string().optional(),
