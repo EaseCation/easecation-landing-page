@@ -1,0 +1,34 @@
+---
+import EcTranslate from '~/utils/EcTranslate';
+---
+
+<script is:inline>
+  //@ts-ignore
+  window.switchLanguage = () => {
+    const currentPath = window.location.pathname;
+    // 简单粗暴判断页面
+    if (!currentPath.includes("category")&&currentPath.includes("-")) {
+        //不做操作
+        return
+    }
+    const isEnglish = currentPath.startsWith('/en');
+    if (isEnglish) {
+      const newPath = currentPath.replace(/^\/en/, '') || '/';
+      window.location.href = newPath;
+    } else {
+      const newPath = currentPath === '/' ? '/en' : '/en' + currentPath;
+      window.location.href = newPath;
+    }
+  };
+</script>
+<button
+  type="button"
+  onclick="window.switchLanguage()"
+  id="language-toggle"
+  class="text-muted dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-700 focus:outline-none focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-700 rounded-lg text-sm p-2.5 inline-flex items-center ml-2"
+  aria-label="切换语言"
+>
+  <span class="w-5 h-5 flex items-center justify-center font-bold text-xs">
+    {EcTranslate.getCurrentLang(Astro.url.href) === 'zh' ? 'EN' : '中'}
+  </span>
+</button>

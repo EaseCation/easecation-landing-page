@@ -10,6 +10,7 @@ import EcUtils from '~/utils/EcUtils';
 import { getHomePermalink } from '~/utils/permalinks';
 import { trimSlash, getAsset } from '~/utils/permalinks';
 import type { CallToAction } from '~/types';
+import EcSwitchLanguage from './EcSwitchLanguage.astro';
 
 interface Link {
   text?: string;
@@ -49,26 +50,6 @@ const {
 
 const currentPath = `/${trimSlash(new URL(Astro.url).pathname)}`;
 ---
-<script>
-  document.addEventListener('DOMContentLoaded', function() {
-    const languageToggle = document.getElementById('language-toggle');
-    if (languageToggle) {
-      languageToggle.addEventListener('click', function() {
-        const currentPath = window.location.pathname;
-        const isEnglish = currentPath.startsWith('/en');
-        
-        if (isEnglish) {
-          const newPath = currentPath.replace(/^\/en/, '') || '/';
-          window.location.href = newPath;
-        } else {
-          const newPath = currentPath === '/' ? '/en' : '/en' + currentPath;
-          window.location.href = newPath;
-        }
-      });
-    }
-  });
-</script>
-
 <header
   class:list={[
     { sticky: isSticky, relative: !isSticky, dark: isDark },
@@ -160,16 +141,18 @@ const currentPath = `/${trimSlash(new URL(Astro.url).pathname)}`;
         <div class="flex">
           {showToggleTheme && <ToggleTheme iconClass="w-6 h-6 md:w-5 md:h-5 md:inline-block" />}
           <!-- 语言切换图标 -->
-          <button
+           <EcSwitchLanguage/>
+          <!-- <button
             type="button"
             id="language-toggle"
             class="text-muted dark:text-gray-400 hover:bg-gray-100 dark:hover:bg-gray-700 focus:outline-none focus:ring-4 focus:ring-gray-200 dark:focus:ring-gray-700 rounded-lg text-sm p-2.5 inline-flex items-center ml-2"
             aria-label="切换语言"
+            onclick="EcUtils.switchLanguage(Astro.url.pathname)"
           >
             <span class="w-5 h-5 flex items-center justify-center font-bold text-xs">
               {EcTranslate.getCurrentLang(Astro.url.href) === 'zh' ? 'EN' : '中'}
             </span>
-          </button>
+          </button> -->
           <!-- {
             showRssFeed && (
               <a

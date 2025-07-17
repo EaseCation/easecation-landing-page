@@ -43,6 +43,7 @@ const translations: Record<string, Record<string, string>> = {
         "#news.previous": "上一页",
         "#news.next": "下一页",
         "#nav.footer.partners": '合作伙伴',
+        "#news.viewAll": "查看全部",
     },
 };
 type SupportedLang = 'en' | 'zh';
