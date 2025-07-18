@@ -41,7 +41,7 @@ hidden: true
 ![](../../assets/images/guide-desktop-1.webp)
 
 **2.在"网络游戏"菜单中找到"EaseCation"**
-在登录账号后 请安图片指示点击启动器的"网络游戏"菜单 并在其中找到"EaseCation小游戏服务器"并点击进入详情页
+在登录账号后 请按图片指示点击启动器的"网络游戏"菜单 并在其中找到"EaseCation小游戏服务器"并点击进入详情页
 ![](../../assets/images/guide-desktop-2.webp)
 ![](../../assets/images/guide-desktop-3.webp)
 

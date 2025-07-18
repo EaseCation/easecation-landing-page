@@ -5,50 +5,50 @@ category: Hidden-blogs
 author: EaseCationNetwork
 hidden: true
 ---
+At the first,Thanks for your play ours game.Please select the guide by your platform.
 
-首先 感谢您选择了EaseCation小游戏服务器 请您根据自己的平台 在下面找到对应的教程并依据教程加入游戏
+## How to join EaseCation
 
-## 如何游玩EaseCation
+### Mobile phone
 
-### 移动端
+**1.Install the"Minecraft China edition"**
 
-**1.安装中国版"我的世界"**
-
-请前往[网易我的世界中国版官网](https://mc.163.com/m/)下载并安装中国版客户端
+Go to[Minecraft China edition official website](https://mc.163.com/m/)download and install the client
 ![](../../../assets/images/guide-mobile-1.webp)
 
-**2.在"网络游戏"页面找到"EaseCation"**
+**2.Found "EaseCation" in the "Network game"page**
 
-根据下列图片指引操作即可
+Please follow the image and operate
 ![](../../../assets/images/guide-mobile-2.webp)
 ![](../../../assets/images/guide-mobile-3.webp)
 ![](../../../assets/images/guide-mobile-4.webp)
 
-**3.点击图示位置按钮将下载所需的所有资源 完成后再次点击该按钮即可加入游戏**
+**3.Click the button of diagram location to download resources,and click the button again after resources downloaded**
 
-在详情页内点击图示按钮即可下载所需资源并加入服务器
+Click the button of diagram location in the detail page to download the resources and join the server
 
-(如果首次游玩会显示为"下载资源" 下载完毕后会变成图内显示的"开始游戏")
+(If you are first play our game,the button will show "Download resources",than will change to "Start game" after downloaded resources)
 ![](../../../assets/images/guide-mobile-5.webp)
 
-**4.玩的开心 ;)**
+**4.Enjoy it ;)**
 
-### 桌面端
+### Computer
 
-**1.安装中国版"我的世界"**
+**1.Install the"Minecraft China edition"**
 
-请前往[网易我的世界中国版官网](https://mc.163.com)下载并安装中国版客户端
+Go to[Minecraft China edition official website](https://mc.163.com)download and install the client
 ![](../../../assets/images/guide-desktop-1.webp)
 
-**2.在"网络游戏"菜单中找到"EaseCation"**
-在登录账号后 请安图片指示点击启动器的"网络游戏"菜单 并在其中找到"EaseCation小游戏服务器"并点击进入详情页
+**2.Found "EaseCation" in the "Network game"page**
+Click the "Network game" menu in the launcher after login your account,found and click "EaseCation" in the network game list
 ![](../../../assets/images/guide-desktop-2.webp)
 ![](../../../assets/images/guide-desktop-3.webp)
 
-**3.下载所需资源后进入游戏**
-在详情页内点击图示按钮即可下载所需资源并启动
+**3.Download the resources and join the game**
+Click the download button in the detail page to download resources and join game
 
-(如果首次游玩会显示为"下载" 下载完毕后会变成图内显示的"启动")
+(If you are first play our game,the button will show "Download resources",than will change to "Launch" after downloaded resources)
+![](../../../assets)
 ![](../../../assets/images/guide-desktop-4.webp)
 
-**4.玩的开心 ;)**
+**4.Enjoy it ;)**
