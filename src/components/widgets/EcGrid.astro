@@ -1,0 +1,16 @@
+---
+import Item from '~/components/blog/GridItem.astro';
+import type {Post} from '~/types';
+import EcGridItem from './EcGridItem.astro';
+import {type Props as EcGridItemPropType} from "./EcGridItem.astro";
+export interface Props {
+    itemList:EcGridItemPropType[]
+//   posts: Array<Post>;
+}
+//useOrigin:是否使用原本的横向布局
+const {itemList} = Astro.props;
+---
+
+<div class="grid gap-6 row-gap-5 md:grid-cols-2 lg:grid-cols-3 -mb-6">
+  {itemList.map(item => <EcGridItem title={item.title} desc={item.desc} image={item.image} url={item.url} urlEng={item.urlEng}/>)}
+</div>

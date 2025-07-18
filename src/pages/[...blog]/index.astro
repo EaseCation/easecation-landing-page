@@ -51,5 +51,10 @@ const metadata = merge(
     {post.Content ? <post.Content /> : <Fragment set:html={post.content || ''} />}
   </SinglePost>
   <!-- <ToBlogLink /> -->
-  <RelatedPosts post={post} />
+   {
+    (!post.hidden&&
+      <RelatedPosts post={post} />
+    )
+   }
+  
 </Layout>

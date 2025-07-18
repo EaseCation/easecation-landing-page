@@ -85,3 +85,4 @@ class EcTranslate {
     }
 }
 export default EcTranslate;
+export type {SupportedLang}

@@ -43,6 +43,7 @@ export interface Post {
   /**  */
   readingTime?: number;
   language?: "en" | "zh";
+  hidden?: boolean;
 }
 
 export interface Taxonomy {

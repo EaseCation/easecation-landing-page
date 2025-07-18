@@ -14,12 +14,14 @@ import Stats from '~/components/widgets/Stats.astro';
 import CallToAction from '~/components/widgets/CallToAction.astro';
 import EcPartnerList from '~/components/EcPartnerList.astro';
 import aboutUsImage from '~/assets/images/about.jpg';
+import EcHomeBlogSelected from '~/components/widgets/EcHomeBlogSelected.astro';
 
 const metadata = {
   title: 'EaseCation 小游戏服务器 - ESH GROUP / 易什集团',
   ignoreTitleTemplate: true,
 };
 ---
+
 <script is:inline>
   const konamiCode = [
     'ArrowUp',
@@ -39,7 +41,7 @@ const metadata = {
       inputIndex++;
       if (inputIndex === 10) {
         inputIndex = 0;
-        alert("被发现啦!祝你一生拥有那无尽的好运吖,顺顺又利利~(￣▽￣)~*");
+        alert('被发现啦!祝你一生拥有那无尽的好运吖,顺顺又利利~(￣▽￣)~*');
       }
     }
   });
@@ -320,7 +322,7 @@ const metadata = {
   </Features2> -->
 
   <!-- HighlightedPosts Widget ******* -->
-
+  <EcHomeBlogSelected lang={'zh'} title="亮点资讯" />
   <BlogLatestPosts
     title="最新动态"
     information={`
@@ -369,9 +371,8 @@ const metadata = {
     actions={[
       {
         variant: 'primary',
-        text: '立即游玩！',
-        href: 'https://mc.163.com',
-        target: '_blank',
+        text: '详细教程',
+        href: '/homeguidehowtojointhegame',
       },
     ]}
   >

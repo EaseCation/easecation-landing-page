@@ -12,5 +12,8 @@
     "./.vscode/astrowind/config-schema.json": "/src/config.yaml"
   },
   "eslint.useFlatConfig": true,
-  "liveServer.settings.port": 5501
+  "liveServer.settings.port": 5501,
+  "cSpell.words": [
+    "homeguidehowtojointhegame"
+  ]
 }

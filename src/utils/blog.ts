@@ -56,6 +56,7 @@ const getNormalizedPost = async (post: CollectionEntry<'post'|"post_en">): Promi
     author,
     draft = false,
     metadata = {},
+    hidden = false,
   } = data;
 
   const slug = cleanSlug(id); // cleanSlug(rawSlug.split('/').pop());
@@ -96,7 +97,7 @@ const getNormalizedPost = async (post: CollectionEntry<'post'|"post_en">): Promi
 
     Content: Content,
     // or 'content' in case you consume from API
-
+    hidden: hidden,
     readingTime: remarkPluginFrontmatter?.readingTime,
   };
 };
@@ -134,9 +135,6 @@ export const blogPostsPerPage = APP_BLOG?.postsPerPage;
 
 /** */
 export const fetchPosts = async (lang:keyof DataEntryMap): Promise<Array<Post>> => {
-  // if (!_posts||lastLang !== lang) {
-  //   _posts = await load(lang);
-  // }
   if (lang === "post_en" && !_postsEn) {
     _postsEn = await load(lang);
   } else if (lang === "post" && !_posts) {
@@ -177,8 +175,8 @@ export const findPostsByIds = async (ids: Array<string>,lang:keyof DataEntryMap)
 export const findLatestPosts = async ({ count }: { count?: number },lang:keyof DataEntryMap): Promise<Array<Post>> => {
   const _count = count || 4;
   const posts = await fetchPosts(lang);
-
-  return posts ? posts.slice(0, _count) : [];
+  const tmpResult = posts.filter((post) => post.hidden === false);
+  return posts ? tmpResult.slice(0, _count) : [];
 };
 
 /** */

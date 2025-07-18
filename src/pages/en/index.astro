@@ -13,6 +13,7 @@ import FAQs from '~/components/widgets/FAQs.astro';
 import Stats from '~/components/widgets/Stats.astro';
 import CallToAction from '~/components/widgets/CallToAction.astro';
 import EcPartnerList from '~/components/EcPartnerList.astro';
+import EcHomeBlogSelected from '~/components/widgets/EcHomeBlogSelected.astro';
 
 const metadata = {
   title: 'EaseCation Game Server - ESH GROUP',
@@ -157,7 +158,9 @@ Technological wisdom lies in sharing. We also provide customized internal office
   />
 
   <!-- HighlightedPosts Widget ******* -->
-
+  <EcHomeBlogSelected
+  lang={"en"}
+    title='Selected News'/>
   <BlogLatestPosts
     title="Latest News"
     information={`
@@ -210,9 +213,8 @@ Technological wisdom lies in sharing. We also provide customized internal office
     actions={[
       {
         variant: 'primary',
-        text: 'Play Now!',
-        href: 'https://mc.163.com',
-        target: '_blank'
+        text: 'Guide',
+        href: '/en/homeguidehowtojointhegame',
       },
     ]}
   >

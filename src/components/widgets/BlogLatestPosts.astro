@@ -44,12 +44,12 @@ const posts = APP_BLOG.isEnabled ? await findLatestPosts({ count },EcTranslate.g
               class="text-3xl font-bold tracking-tight sm:text-4xl sm:leading-none group font-heading mb-2"
               set:html={title}
             />
-            {APP_BLOG.list.isEnabled && linkText && linkUrl && (
+            {/* {APP_BLOG.list.isEnabled && linkText && linkUrl && (
               <Button variant="link" href={EcTranslate.getLocalHref(Astro.url.href,"/blog",EcTranslate.getCurrentLang(Astro.url.href))}>
                 {' '}
                 {EcTranslate.getTranslate("#news.viewAll",EcTranslate.getCurrentLang(Astro.url.href))} »
               </Button>
-            )}
+            )} */}
           </div>
         )}
 
