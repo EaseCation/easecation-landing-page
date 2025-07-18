@@ -1,4 +1,5 @@
 ---
+import { Icon } from 'astro-icon/components';
 import Image from '~/components/common/Image.astro';
 import Button from '~/components/ui/Button.astro';
 
@@ -75,18 +76,45 @@ const {
       <div
         class="intersect-once intercept-no-queue intersect-quarter motion-safe:md:opacity-0 motion-safe:md:intersect:animate-fade"
       >
-      <video muted autoplay src={"/homeVideo.mp4"} id="extVideo" style="height: 700px;" class="h-full rounded-md w-full"></video>
+      <div style="position: relative;">
+        <video muted onclick="this.play();document.getElementById('videoPlayIcon').style.display='none';" poster="/videoBeforePlayImage.png" id="extVideo" style="height: 700px;" class="h-full rounded-md w-full"/>
+        <Icon id="videoPlayIcon" onclick="document.getElementById('extVideo').play();this.style.display='none'" name="tabler:player-play" class="w-10 h-10 inline-block -mt-0.5 dark:text-gray-400 cursor-pointer" style="position: absolute;left: 47%;top: 46%;"/>
+      </div>
       <script>
-        // 移动端适配
+        // 初始化
         window.addEventListener("DOMContentLoaded",()=>{
-          const extVideo = document.getElementById("extVideo")!;
+          const extVideo = document.getElementById("extVideo")! as HTMLVideoElement;
+          const videoPlayIcon = document.getElementById("videoPlayIcon")!;
           //屏幕比例判断
           if (window.innerWidth<window.innerHeight) {
+            //移动端
             extVideo.style.height = "300px";
-          
+            
           } else {
             extVideo.style.height = "750px";
           }
+          (async ()=>{
+            //未来更新视频后改这个数值 自动刷新
+            const videoVersion = 1;
+            if (!window.caches) {
+              //不支持缓存 直接设置src
+              extVideo.src = "/homeVideo.mp4";
+              return
+            }
+            const localVideoVersion= parseInt(localStorage.getItem("videoVersion")??"0");
+            const cache = await caches.open("video");
+            if (videoVersion !== localVideoVersion) {
+              console.log("video update!");
+              await cache.delete("/homeVideo.mp4")
+            }
+            if(!await cache.match("/homeVideo.mp4")){
+              await cache.add("/homeVideo.mp4");
+              localStorage.setItem("videoVersion", videoVersion.toString());
+            }
+            const videoCache = await cache.match("/homeVideo.mp4");
+            extVideo.src=URL.createObjectURL(await videoCache!.blob());
+            console.log("Load from cache");
+          })();
         });
         //应该有用
         window.addEventListener("resize",()=>{
