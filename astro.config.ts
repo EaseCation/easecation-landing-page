@@ -23,8 +23,8 @@ const whenExternalScripts = (items: (() => AstroIntegration) | (() => AstroInteg
 
 export default defineConfig({
   output: 'static',
-  site: 'https://easecation.github.io',
-  base: '/easecation-landing-page/',
+  site: 'https://www.easecation.net',
+  base: '/',
   integrations: [
     tailwind({
       applyBaseStyles: false,
