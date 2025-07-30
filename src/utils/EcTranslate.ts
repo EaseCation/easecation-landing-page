@@ -22,7 +22,9 @@ const translations: Record<string, Record<string, string>> = {
         "#news.previous": "Previous",
         "#news.next": "Next",
         "#news.viewAll": "View All",
-        "#news.latestPosts": "Latest Posts"
+        "#news.latestPosts": "Latest Posts",
+        '#nav.footer.generalGuide':"General Guide",
+        "#nav.footer.playerGuide":"Player Guide",
     },
     zh: {
         '#nav.news': '新闻',
@@ -45,7 +47,9 @@ const translations: Record<string, Record<string, string>> = {
         "#news.next": "下一页",
         "#nav.footer.partners": '合作伙伴',
         "#news.viewAll": "查看全部",
-        "#news.latestPosts": "最新文章"
+        "#news.latestPosts": "最新文章",
+        "#nav.footer.generalGuide":"服务器总则",
+        "#nav.footer.playerGuide":"玩家守则",
     },
 };
 type SupportedLang = 'en' | 'zh';
