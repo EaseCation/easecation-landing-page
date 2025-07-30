@@ -1,7 +1,7 @@
 ---
 title: "游戏出海新引擎！中国电信国际确认参展2024年ChinaJoy BTOB"
 publishDate: 2024-07-23
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

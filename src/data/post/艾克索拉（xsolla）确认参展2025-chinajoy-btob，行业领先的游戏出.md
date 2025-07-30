@@ -1,7 +1,7 @@
 ---
 title: "艾克索拉（Xsolla）确认参展2025 ChinaJoy BTOB，行业领先的游戏出海解决方案专家邀您共创游戏产业新未来！"
 publishDate: 2025-06-21
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

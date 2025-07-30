@@ -1,7 +1,7 @@
 ---
 title: "艾蒙拉 amaran 点亮2024 eSmart 之旅"
 publishDate: 2024-06-17
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

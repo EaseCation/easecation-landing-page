@@ -1,7 +1,7 @@
 ---
 title: "Playio 确认参展 2024 ChinaJoy BTOB 商务洽谈馆，推动全球化产业合作"
 publishDate: 2024-06-26
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

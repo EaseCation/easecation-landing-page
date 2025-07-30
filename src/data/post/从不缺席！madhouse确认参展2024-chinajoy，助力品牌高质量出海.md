@@ -1,7 +1,7 @@
 ---
 title: "从不缺席！Madhouse确认参展2024 ChinaJoy，助力品牌高质量出海掘金！"
 publishDate: 2024-06-28
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

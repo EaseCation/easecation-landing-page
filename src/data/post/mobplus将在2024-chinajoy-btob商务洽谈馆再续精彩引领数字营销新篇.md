@@ -1,7 +1,7 @@
 ---
 title: "Mobplus将在2024 ChinaJoy BTOB商务洽谈馆再续精彩,引领数字营销新篇章"
 publishDate: 2024-07-17
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

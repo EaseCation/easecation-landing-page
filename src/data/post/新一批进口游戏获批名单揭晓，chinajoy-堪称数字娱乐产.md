@@ -1,7 +1,7 @@
 ---
 title: "新一批进口游戏获批名单揭晓，ChinaJoy 堪称数字娱乐产业风向标"
 publishDate: 2024-04-22
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

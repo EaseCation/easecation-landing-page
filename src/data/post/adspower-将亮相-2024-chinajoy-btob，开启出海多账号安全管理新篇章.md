@@ -1,7 +1,7 @@
 ---
 title: "AdsPower 将亮相 2024 ChinaJoy BTOB，开启出海多账号安全管理新篇章"
 publishDate: 2024-06-26
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

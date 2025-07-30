@@ -1,7 +1,7 @@
 ---
 title: "潮流智驾，跨界出圈！2024 ChinaJoy智能出行展区，Z 世代的购车指南！"
 publishDate: 2024-05-07
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

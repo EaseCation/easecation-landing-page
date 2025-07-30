@@ -1,7 +1,7 @@
 ---
 title: "重磅！2024 ChinaJoy BTOC 玩家票正式开售！ChinaJoy联名洛天依衍生品套票来袭！"
 publishDate: 2024-07-02
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

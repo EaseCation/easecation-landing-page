@@ -1,7 +1,7 @@
 ---
 title: "创新无限，增长无界：Liftoff参展2024 ChinaJoy BTOB，开启新篇章！"
 publishDate: 2024-07-16
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

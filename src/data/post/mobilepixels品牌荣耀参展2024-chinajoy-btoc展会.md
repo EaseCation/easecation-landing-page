@@ -1,7 +1,7 @@
 ---
 title: "MobilePixels品牌荣耀参展2024 ChinaJoy BTOC展会"
 publishDate: 2024-06-11
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

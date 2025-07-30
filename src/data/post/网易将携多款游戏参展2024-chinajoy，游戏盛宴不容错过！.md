@@ -1,7 +1,7 @@
 ---
 title: "网易将携多款游戏参展2024 ChinaJoy，游戏盛宴不容错过！"
 publishDate: 2024-07-11
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

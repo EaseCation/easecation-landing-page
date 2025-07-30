@@ -1,7 +1,7 @@
 ---
 title: "专业跨境电商风控品牌Wintranx将参展2024ChinaJoy BTOB 商务洽谈馆，精彩不容错过"
 publishDate: 2024-06-05
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

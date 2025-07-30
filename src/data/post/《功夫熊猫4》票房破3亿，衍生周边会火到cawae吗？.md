@@ -1,7 +1,7 @@
 ---
 title: "《功夫熊猫4》票房破3亿，衍生周边会火到CAWAE吗？"
 publishDate: 2024-04-12
-category: 博客
+category: blog
 author: 莱尔
 ---
 

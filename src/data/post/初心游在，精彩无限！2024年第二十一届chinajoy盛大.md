@@ -1,7 +1,7 @@
 ---
 title: "初心“游”在，精彩无限！2024年第二十一届ChinaJoy盛大开幕！"
 publishDate: 2024-07-27
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "BOE（京东方）再度携手虎牙直播亮相ChinaJoy，打造Z世代电竞黑科技狂欢"
 publishDate: 2024-07-16
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "蛙得发登陆ChinaJoy！这只假装平静的淡定蛙，背后藏着一整个治愈宇宙"
 publishDate: 2025-04-30
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

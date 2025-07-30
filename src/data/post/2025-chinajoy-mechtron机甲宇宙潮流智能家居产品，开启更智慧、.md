@@ -1,7 +1,7 @@
 ---
 title: "2025 ChinaJoy MECHTRON机甲宇宙潮流智能家居产品，开启更智慧、更活力的未来"
 publishDate: 2025-04-21
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

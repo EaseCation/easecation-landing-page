@@ -1,7 +1,7 @@
 ---
 title: "【速来围观】2024 ChinaJoy 与洛天依梦幻联动，联名主题门票套装即将来袭！"
 publishDate: 2024-06-26
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

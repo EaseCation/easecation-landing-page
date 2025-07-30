@@ -1,7 +1,7 @@
 ---
 title: "Geeyoo(吉优) 游戏本地化翻译服务商确认参展2025 ChinaJoyBTOB"
 publishDate: 2025-05-20
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

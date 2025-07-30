@@ -1,7 +1,7 @@
 ---
 title: "开创3C数码营销新模式！2024 ChinaJoy X 京东 3C 数码直播购物节活动亮点先睹为快！"
 publishDate: 2024-06-06
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

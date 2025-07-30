@@ -1,7 +1,7 @@
 ---
 title: "ChinaJoy IP大会前瞻：深度解码IP未来产业价值"
 publishDate: 2024-05-13
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

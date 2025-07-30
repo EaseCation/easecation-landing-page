@@ -1,7 +1,7 @@
 ---
 title: "确认参展丨Flat Ads将携7亿独家开发者流量亮相2024 ChinaJoy BTOB展馆"
 publishDate: 2024-04-10
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 coverImage: "20240410095330990.jpg"
 ---

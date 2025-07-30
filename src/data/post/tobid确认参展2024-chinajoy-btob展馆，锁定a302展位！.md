@@ -1,7 +1,7 @@
 ---
 title: "ToBid确认参展2024 ChinaJoy BTOB展馆，锁定A302展位！"
 publishDate: 2024-07-04
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

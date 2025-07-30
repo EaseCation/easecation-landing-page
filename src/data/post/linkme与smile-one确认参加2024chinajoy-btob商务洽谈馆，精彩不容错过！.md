@@ -1,7 +1,7 @@
 ---
 title: "LinkME与Smile.One确认参加2024ChinaJoy BTOB商务洽谈馆，精彩不容错过！"
 publishDate: 2024-06-07
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "CJMF·不止音乐节自由行攻略来袭！"
 publishDate: 2024-09-02
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

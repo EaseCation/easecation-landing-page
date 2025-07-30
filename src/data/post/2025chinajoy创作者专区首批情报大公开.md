@@ -1,7 +1,7 @@
 ---
 title: "2025ChinaJoy创作者专区首批情报大公开"
 publishDate: 2025-06-25
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

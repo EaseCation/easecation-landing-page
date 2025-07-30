@@ -1,7 +1,7 @@
 ---
 title: "ClearPier确认参展2024 ChinaJoy，将携品牌出海营销方案亮相BTOB展区，精彩不容错过！"
 publishDate: 2024-06-03
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

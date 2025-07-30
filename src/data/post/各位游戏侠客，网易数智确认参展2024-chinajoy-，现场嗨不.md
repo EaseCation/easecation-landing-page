@@ -1,7 +1,7 @@
 ---
 title: "@各位游戏侠客，网易数智确认参展2024 ChinaJoy ，现场嗨不停！"
 publishDate: 2024-07-11
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

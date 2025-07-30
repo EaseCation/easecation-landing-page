@@ -1,7 +1,7 @@
 ---
 title: "ValkyieGame确认参加2024CJGC INDIE GAME展区，展示游戏《东方：月兔狂想曲》"
 publishDate: 2024-06-07
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

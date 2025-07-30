@@ -1,7 +1,7 @@
 ---
 title: "镁铝合金，轻盈操控 | 万灵竞记参展 2024 ChinaJoy，硬件馆 S605-2，不见不散！"
 publishDate: 2024-06-04
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "ChinaJoy 2025：Aarki 重构移动营销未来！"
 publishDate: 2025-06-25
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

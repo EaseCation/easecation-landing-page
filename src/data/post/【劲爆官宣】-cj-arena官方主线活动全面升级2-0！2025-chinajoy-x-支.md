@@ -1,7 +1,7 @@
 ---
 title: "【劲爆官宣】 CJ Arena官方主线活动全面升级2.0！2025 ChinaJoy × 支付宝蓝花火战略合作启动！"
 publishDate: 2025-06-13
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

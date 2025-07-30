@@ -1,7 +1,7 @@
 ---
 title: "WINTOPAY即将亮相ChinaJoy：聚支付创新之力，赋能数娱新生态！"
 publishDate: 2025-05-20
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

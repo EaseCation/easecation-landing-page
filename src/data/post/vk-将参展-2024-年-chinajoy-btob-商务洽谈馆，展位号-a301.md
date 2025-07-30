@@ -1,7 +1,7 @@
 ---
 title: "VK 将参展 2024 年 ChinaJoy BTOB 商务洽谈馆，展位号 A301"
 publishDate: 2024-07-18
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

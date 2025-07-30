@@ -1,7 +1,7 @@
 ---
 title: "AutoFull傲风确认参展2025 ChinaJoy BTOC，航海王主题展位热血集结！"
 publishDate: 2025-06-06
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

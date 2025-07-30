@@ -1,7 +1,7 @@
 ---
 title: "聚焦当下，探寻未来！ChinaJoy 主论坛【CDEC 高峰论坛】正式启动！"
 publishDate: 2024-04-29
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

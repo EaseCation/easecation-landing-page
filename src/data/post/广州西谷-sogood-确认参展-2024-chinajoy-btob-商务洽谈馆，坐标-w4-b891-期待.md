@@ -1,7 +1,7 @@
 ---
 title: "广州西谷 SoGood 确认参展 2024 ChinaJoy BTOB 商务洽谈馆，坐标 W4-B891 期待与老友相聚！"
 publishDate: 2024-06-21
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

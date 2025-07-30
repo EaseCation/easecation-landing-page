@@ -1,7 +1,7 @@
 ---
 title: "2024 ChinaJoy 封面大赛复赛激烈开赛！"
 publishDate: 2024-05-11
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

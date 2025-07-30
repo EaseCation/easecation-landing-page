@@ -1,7 +1,7 @@
 ---
 title: "CJ Arena预热开启！来预约！来抽奖！来讨论！"
 publishDate: 2024-07-24
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

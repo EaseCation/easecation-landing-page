@@ -1,7 +1,7 @@
 ---
 title: "兰族首次登场 eSmart 盛宴，追求电竞美学，深谙游戏之道，共造梦想鼠标"
 publishDate: 2024-06-03
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

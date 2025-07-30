@@ -1,7 +1,7 @@
 ---
 title: "第10年参展！益世界确认参展2024ChinaJoy！"
 publishDate: 2024-07-23
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

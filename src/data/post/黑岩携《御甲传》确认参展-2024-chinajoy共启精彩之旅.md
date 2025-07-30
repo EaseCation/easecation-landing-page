@@ -1,7 +1,7 @@
 ---
 title: "黑岩携《御甲传》确认参展 2024 ChinaJoy共启精彩之旅"
 publishDate: 2024-07-12
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

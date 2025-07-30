@@ -1,7 +1,7 @@
 ---
 title: "小游戏收入喜破200亿大关！2024 ChinaJoy助力游戏产业再攀高峰"
 publishDate: 2024-04-03
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

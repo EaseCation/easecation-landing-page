@@ -1,7 +1,7 @@
 ---
 title: "NINJUTSO确认将参展2025 ChinaJoy智能娱乐硬件展区"
 publishDate: 2025-05-27
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

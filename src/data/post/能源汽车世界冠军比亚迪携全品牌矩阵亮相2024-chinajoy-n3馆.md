@@ -1,7 +1,7 @@
 ---
 title: "能源汽车世界冠军|比亚迪携全品牌矩阵亮相2024 ChinaJoy N3馆"
 publishDate: 2024-07-10
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

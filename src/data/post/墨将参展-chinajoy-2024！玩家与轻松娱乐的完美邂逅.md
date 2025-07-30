@@ -1,7 +1,7 @@
 ---
 title: "“墨将”参展 ChinaJoy 2024！玩家与轻松娱乐的完美邂逅"
 publishDate: 2024-06-27
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

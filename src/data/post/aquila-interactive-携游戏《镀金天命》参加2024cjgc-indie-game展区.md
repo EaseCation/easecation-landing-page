@@ -1,7 +1,7 @@
 ---
 title: "Aquila Interactive 携游戏《镀金天命》参加2024CJGC INDIE GAME展区"
 publishDate: 2024-06-14
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

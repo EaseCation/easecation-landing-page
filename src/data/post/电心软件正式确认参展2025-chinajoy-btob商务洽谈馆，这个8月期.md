@@ -1,7 +1,7 @@
 ---
 title: "电心软件正式确认参展2025 ChinaJoy BTOB商务洽谈馆，这个8月期待与您在上海相见！"
 publishDate: 2025-05-21
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

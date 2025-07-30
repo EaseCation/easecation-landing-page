@@ -1,7 +1,7 @@
 ---
 title: "知名外设品牌迈从（MCHOSE）确认参展2025 ChinaJoy BTOC！现场精美定制周边免费领取"
 publishDate: 2025-07-08
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

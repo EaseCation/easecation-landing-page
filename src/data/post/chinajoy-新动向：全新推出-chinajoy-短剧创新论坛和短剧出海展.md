@@ -1,7 +1,7 @@
 ---
 title: "ChinaJoy 新动向：全新推出 ChinaJoy 短剧创新论坛和短剧出海展区，打造短剧创作者的新乐园"
 publishDate: 2024-05-24
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

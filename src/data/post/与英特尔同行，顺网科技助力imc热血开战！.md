@@ -1,7 +1,7 @@
 ---
 title: "与英特尔同行，顺网科技助力IMC热血开战！"
 publishDate: 2024-04-15
-category: 博客
+category: blog
 author: 莱尔
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "助力出海企业聚势增长，AppGrowing 与您相约 2025ChinaJoy BTOB 展区"
 publishDate: 2025-06-21
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "全球支付服务商 UniPin 确认参展 2024 ChinaJoy BTOB"
 publishDate: 2024-06-18
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

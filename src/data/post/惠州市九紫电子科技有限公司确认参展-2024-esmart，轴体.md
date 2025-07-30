@@ -1,7 +1,7 @@
 ---
 title: "惠州市九紫电子科技有限公司确认参展 2024 eSmart，轴体展示 敬请期待"
 publishDate: 2024-05-23
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 coverImage: "20240523160133679.jpg"
 ---

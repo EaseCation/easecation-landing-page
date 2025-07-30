@@ -1,7 +1,7 @@
 ---
 title: "迈从确认参展2024 ChinaJoy BTOC，键指C位！"
 publishDate: 2024-06-27
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

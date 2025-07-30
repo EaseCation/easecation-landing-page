@@ -1,7 +1,7 @@
 ---
 title: "MiMo Games确认参展INDIE GAME展区"
 publishDate: 2024-06-28
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

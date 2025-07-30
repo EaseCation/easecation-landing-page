@@ -1,7 +1,7 @@
 ---
 title: "初心“游”在，精彩无限 | 易点天下旗下Yeahmobi确认参展2024 ChinaJoy"
 publishDate: 2024-07-02
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

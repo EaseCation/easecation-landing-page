@@ -1,7 +1,7 @@
 ---
 title: "“智周万物”——2024ChinaJoy AIGC大会圆满召开"
 publishDate: 2024-07-27
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

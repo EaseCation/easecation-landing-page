@@ -1,7 +1,7 @@
 ---
 title: "LoopMe 以 AI 驱动品牌广告投放，开启增长新篇章"
 publishDate: 2025-06-06
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

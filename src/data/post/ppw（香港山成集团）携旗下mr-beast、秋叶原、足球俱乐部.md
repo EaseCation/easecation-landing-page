@@ -1,7 +1,7 @@
 ---
 title: "PPW（香港山成集团）携旗下Mr.Beast、秋叶原、足球俱乐部参展 2024 ChinaJoy BTOB！"
 publishDate: 2024-07-11
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "‌2025ChinaJoy AIGC大会：破晓之光映照智能内容新版图"
 publishDate: 2025-04-21
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "发现 PickFu 的力量——ChinaJoy 2024"
 publishDate: 2024-06-17
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

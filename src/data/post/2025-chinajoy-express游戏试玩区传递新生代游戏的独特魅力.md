@@ -1,7 +1,7 @@
 ---
 title: "2025 ChinaJoy Express游戏试玩区传递新生代游戏的独特魅力"
 publishDate: 2025-05-20
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

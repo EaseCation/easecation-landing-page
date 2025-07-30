@@ -1,7 +1,7 @@
 ---
 title: "4399确认参展2024 ChinaJoy BTOC，好游戏就要一起玩！"
 publishDate: 2024-06-04
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "All in AI的时代，如何上车“成功”？2024ChinaJoy AIGC大会带你一起见证历史！"
 publishDate: 2024-04-24
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

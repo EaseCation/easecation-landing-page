@@ -1,7 +1,7 @@
 ---
 title: "Terminal3将参加2024 ChinaJoy BTOB商务洽谈馆，再续精彩！"
 publishDate: 2024-07-10
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

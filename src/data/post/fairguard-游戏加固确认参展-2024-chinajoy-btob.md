@@ -1,7 +1,7 @@
 ---
 title: "FairGuard 游戏加固确认参展 2024 ChinaJoy BTOB"
 publishDate: 2024-06-05
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

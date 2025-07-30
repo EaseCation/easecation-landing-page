@@ -1,7 +1,7 @@
 ---
 title: "2025 ChinaJoy官方形象Coser招募正式启动！"
 publishDate: 2025-06-13
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 coverImage: "20250613121719796.png"
 ---

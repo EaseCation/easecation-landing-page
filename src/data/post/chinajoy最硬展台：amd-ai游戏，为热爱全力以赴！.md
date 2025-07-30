@@ -1,7 +1,7 @@
 ---
 title: "ChinaJoy最硬展台：AMD AI+游戏，为热爱全力以赴！"
 publishDate: 2024-07-25
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

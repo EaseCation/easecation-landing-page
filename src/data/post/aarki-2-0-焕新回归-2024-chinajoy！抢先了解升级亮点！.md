@@ -1,7 +1,7 @@
 ---
 title: "Aarki 2.0 焕新回归 2024 ChinaJoy！抢先了解升级亮点！"
 publishDate: 2024-06-26
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

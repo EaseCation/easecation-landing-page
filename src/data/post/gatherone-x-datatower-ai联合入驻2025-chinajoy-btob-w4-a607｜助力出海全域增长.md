@@ -1,7 +1,7 @@
 ---
 title: "GatherOne × DataTower.ai联合入驻2025 ChinaJoy BTOB W4-A607｜助力出海全域增长"
 publishDate: 2025-06-04
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "应用雷达确认参展2024 ChinaJoy BTOB ，探索 Apple Ads 流量秘诀"
 publishDate: 2024-06-13
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

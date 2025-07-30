@@ -1,7 +1,7 @@
 ---
 title: "2025 ChinaJoy同期会议听课证限时开售，双重优惠重磅开启！"
 publishDate: 2025-05-21
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

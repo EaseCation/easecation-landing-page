@@ -1,7 +1,7 @@
 ---
 title: "Xraypad 电竞鼠标垫参展 2024 ChinaJoy，让我们相约于此！"
 publishDate: 2024-05-28
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

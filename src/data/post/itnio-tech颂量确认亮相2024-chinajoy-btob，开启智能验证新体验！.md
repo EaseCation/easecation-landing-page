@@ -1,7 +1,7 @@
 ---
 title: "ITNIO TECH颂量确认亮相2024 ChinaJoy BTOB，开启智能验证新体验！"
 publishDate: 2024-06-04
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

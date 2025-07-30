@@ -1,7 +1,7 @@
 ---
 title: "中手游将携多款重量级游戏参加 2024 ChinaJoy BTOB"
 publishDate: 2024-06-17
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 coverImage: "20240617215511147.jpg"
 ---

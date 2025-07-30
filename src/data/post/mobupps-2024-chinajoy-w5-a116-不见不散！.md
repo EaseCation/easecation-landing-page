@@ -1,7 +1,7 @@
 ---
 title: "Mobupps 2024 ChinaJoy W5 A116 不见不散！"
 publishDate: 2024-06-20
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

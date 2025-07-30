@@ -1,7 +1,7 @@
 ---
 title: "游戏厂商纷纷蓄势待发，2024 ChinaJoy 又有新的惊喜重磅呈现！"
 publishDate: 2024-04-28
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

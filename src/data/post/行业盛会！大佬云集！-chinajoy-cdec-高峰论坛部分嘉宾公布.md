@@ -1,7 +1,7 @@
 ---
 title: "行业盛会！大佬云集！| ChinaJoy CDEC 高峰论坛部分嘉宾公布！"
 publishDate: 2024-06-20
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

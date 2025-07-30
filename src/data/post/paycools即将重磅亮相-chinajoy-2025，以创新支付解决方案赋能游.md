@@ -1,7 +1,7 @@
 ---
 title: "PayCools即将重磅亮相 ChinaJoy 2025，以创新支付解决方案赋能游戏生态"
 publishDate: 2025-06-04
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

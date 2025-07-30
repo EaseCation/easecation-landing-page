@@ -1,7 +1,7 @@
 ---
 title: "【游见】专访七块工作室：物理碰撞×科幻蓝图的交响中，以重构RTS基因浇筑未来战场叙事"
 publishDate: 2025-06-04
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

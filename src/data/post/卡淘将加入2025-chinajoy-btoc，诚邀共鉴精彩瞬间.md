@@ -1,7 +1,7 @@
 ---
 title: "卡淘将加入2025 ChinaJoy BTOC，诚邀共鉴精彩瞬间"
 publishDate: 2025-06-17
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

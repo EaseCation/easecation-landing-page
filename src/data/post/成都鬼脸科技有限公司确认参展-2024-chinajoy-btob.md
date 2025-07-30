@@ -1,7 +1,7 @@
 ---
 title: "成都鬼脸科技有限公司确认参展 2024 ChinaJoy BTOB"
 publishDate: 2024-04-17
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "PXN莱仕达蓄势待发，共襄ChinaJoy 2024数字娱乐盛宴"
 publishDate: 2024-05-16
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

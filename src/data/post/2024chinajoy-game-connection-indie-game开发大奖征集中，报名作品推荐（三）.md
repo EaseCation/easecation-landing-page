@@ -1,7 +1,7 @@
 ---
 title: "2024ChinaJoy-Game Connection INDIE GAME开发大奖征集中，报名作品推荐（三）"
 publishDate: 2024-04-12
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 coverImage: "20240412162601936.png"
 ---

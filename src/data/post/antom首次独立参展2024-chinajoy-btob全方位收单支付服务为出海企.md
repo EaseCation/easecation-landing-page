@@ -1,7 +1,7 @@
 ---
 title: "Antom首次独立参展2024 ChinaJoy BTOB全方位收单支付服务为出海企业赋能"
 publishDate: 2024-07-10
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

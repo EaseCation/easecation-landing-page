@@ -1,7 +1,7 @@
 ---
 title: "好游快爆携良心工作室等厂商确认参展 2024 ChinaJoy BTOC！"
 publishDate: 2024-07-02
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 coverImage: "20240702125834304.jpg"
 ---

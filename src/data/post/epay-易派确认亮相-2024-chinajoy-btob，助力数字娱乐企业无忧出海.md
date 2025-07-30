@@ -1,7 +1,7 @@
 ---
 title: "Epay 易派确认亮相 2024 ChinaJoy BTOB，助力数字娱乐企业无忧出海！"
 publishDate: 2024-06-20
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

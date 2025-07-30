@@ -1,7 +1,7 @@
 ---
 title: "2025 ChinaJoy洛裳华服•新秀大赛报名开启！"
 publishDate: 2025-03-19
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

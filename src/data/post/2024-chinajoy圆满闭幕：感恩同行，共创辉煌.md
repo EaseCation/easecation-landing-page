@@ -1,7 +1,7 @@
 ---
 title: "2024 ChinaJoy圆满闭幕：感恩同行，共创辉煌"
 publishDate: 2024-07-30
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

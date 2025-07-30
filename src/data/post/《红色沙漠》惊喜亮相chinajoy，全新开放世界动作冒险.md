@@ -1,7 +1,7 @@
 ---
 title: "《红色沙漠》惊喜亮相ChinaJoy，全新开放世界动作冒险游戏，冒险者集结踏上一段难以忘怀的旅程！"
 publishDate: 2025-07-08
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

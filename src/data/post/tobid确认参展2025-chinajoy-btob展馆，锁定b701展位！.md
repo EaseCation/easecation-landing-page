@@ -1,7 +1,7 @@
 ---
 title: "ToBid确认参展2025 ChinaJoy BTOB展馆，锁定B701展位！"
 publishDate: 2025-06-06
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 coverImage: "20250606161337913.jpg"
 ---

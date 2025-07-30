@@ -1,7 +1,7 @@
 ---
 title: "新场景 新形式，2024 ChinaJoy BTOB商务洽谈馆全新推出新产品演示区！"
 publishDate: 2024-05-30
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

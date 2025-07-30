@@ -1,7 +1,7 @@
 ---
 title: "荣耀手机确认参展2024 ChinaJoy BTOC互动娱乐馆，全新折叠旗舰将首次参展"
 publishDate: 2024-07-17
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

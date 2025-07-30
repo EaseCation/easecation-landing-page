@@ -1,7 +1,7 @@
 ---
 title: "神匠游戏确认参展2025 ChinaJoy-Game Connection INDIE GAME展区，期待与您相聚！"
 publishDate: 2025-04-11
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

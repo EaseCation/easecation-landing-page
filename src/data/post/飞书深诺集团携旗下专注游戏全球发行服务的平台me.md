@@ -1,7 +1,7 @@
 ---
 title: "飞书深诺集团携旗下专注游戏全球发行服务的平台Meetgames将在2024 ChinaJoy BTOB商务洽谈馆再续精彩！"
 publishDate: 2024-07-16
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

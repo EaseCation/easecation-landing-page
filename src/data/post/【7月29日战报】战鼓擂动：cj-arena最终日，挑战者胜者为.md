@@ -1,7 +1,7 @@
 ---
 title: "【7月29日战报】战鼓擂动：CJ Arena最终日，挑战者胜者为王"
 publishDate: 2024-07-30
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

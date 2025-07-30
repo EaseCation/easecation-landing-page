@@ -1,7 +1,7 @@
 ---
 title: "未开「展」先兴奋，2024 ChinaJoy骁龙主题馆会有多好玩？"
 publishDate: 2024-07-23
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

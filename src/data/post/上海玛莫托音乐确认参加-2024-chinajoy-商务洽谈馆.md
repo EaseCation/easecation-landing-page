@@ -1,7 +1,7 @@
 ---
 title: "上海玛莫托音乐确认参加 2024 ChinaJoy 商务洽谈馆"
 publishDate: 2024-06-18
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

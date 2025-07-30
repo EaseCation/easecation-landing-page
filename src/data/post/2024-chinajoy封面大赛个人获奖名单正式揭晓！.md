@@ -1,7 +1,7 @@
 ---
 title: "2024 ChinaJoy封面大赛个人获奖名单正式揭晓！"
 publishDate: 2024-05-28
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 coverImage: "20240528140304928.png"
 ---

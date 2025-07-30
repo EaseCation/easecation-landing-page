@@ -1,7 +1,7 @@
 ---
 title: "华为游戏中心携手50+款鸿蒙游戏参展2025 ChinaJoy，带来大有不同的游戏体验"
 publishDate: 2025-07-14
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

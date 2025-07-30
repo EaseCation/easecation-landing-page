@@ -1,7 +1,7 @@
 ---
 title: "玮夏文化工作室已确认参加INDIE GAME展区，带来中国诗词文化与休闲消除游戏的创新结合——《梦幻诗篇》"
 publishDate: 2024-05-24
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

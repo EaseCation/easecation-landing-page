@@ -1,7 +1,7 @@
 ---
 title: "【游·见】专访Roastfish：在 “童话避难所” 与 “数字生命” 的碰撞中，以播种 “情感变量” 重塑虚拟陪伴"
 publishDate: 2025-05-27
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

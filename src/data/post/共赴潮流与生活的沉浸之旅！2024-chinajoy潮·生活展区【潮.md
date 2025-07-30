@@ -1,7 +1,7 @@
 ---
 title: "共赴潮流与生活的沉浸之旅！2024 ChinaJoy潮·生活展区【潮家居版块】火热招商中！"
 publishDate: 2024-04-18
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "嘉宾持续公布！| “2024 ChinaJoy CDEC高峰论坛”精彩将至！"
 publishDate: 2024-07-05
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

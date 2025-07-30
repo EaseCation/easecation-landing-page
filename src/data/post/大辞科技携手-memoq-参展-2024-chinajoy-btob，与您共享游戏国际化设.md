@@ -1,7 +1,7 @@
 ---
 title: "大辞科技携手 memoQ 参展 2024 ChinaJoy BTOB，与您共享游戏国际化设计和本地化策略"
 publishDate: 2024-06-26
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

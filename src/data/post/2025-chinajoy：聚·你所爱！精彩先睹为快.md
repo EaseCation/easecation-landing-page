@@ -1,7 +1,7 @@
 ---
 title: "2025 ChinaJoy：聚·你所爱！精彩先睹为快"
 publishDate: 2024-11-28
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

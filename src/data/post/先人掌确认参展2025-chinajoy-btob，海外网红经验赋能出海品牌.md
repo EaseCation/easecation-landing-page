@@ -1,7 +1,7 @@
 ---
 title: "先人掌确认参展2025 ChinaJoy BTOB，海外网红经验赋能出海品牌"
 publishDate: 2025-05-13
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "各位游戏人， ChinaJoy 商务馆，TapTap 即将登场！"
 publishDate: 2024-07-08
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

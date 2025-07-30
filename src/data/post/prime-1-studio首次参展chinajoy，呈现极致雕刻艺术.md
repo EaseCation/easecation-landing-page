@@ -1,7 +1,7 @@
 ---
 title: "Prime 1 Studio首次参展ChinaJoy，呈现极致雕刻艺术"
 publishDate: 2025-06-13
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

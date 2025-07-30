@@ -1,7 +1,7 @@
 ---
 title: "梦幻联动，双厨狂喜？2024年ChinaJoy IP授权展区或有惊喜出现！"
 publishDate: 2024-05-08
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

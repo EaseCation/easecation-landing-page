@@ -1,7 +1,7 @@
 ---
 title: "【重磅】2024 年 ChinaJoy 官方活动日程正式公布！"
 publishDate: 2024-07-22
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

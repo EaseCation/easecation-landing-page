@@ -1,7 +1,7 @@
 ---
 title: "重磅！2024 ChinaJoy 展商展台活动汇总（部分），ChinaJoy百达计划KOL名单公布"
 publishDate: 2024-07-24
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

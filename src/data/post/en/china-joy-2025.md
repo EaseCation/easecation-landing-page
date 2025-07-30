@@ -1,7 +1,7 @@
 ---
 title: "China Joy 2025 convene soon"
 publishDate: 2024-04-12
-category: ChinaJoy专区
+category: chinajoy
 author: EaseCation
 language: en
 ---

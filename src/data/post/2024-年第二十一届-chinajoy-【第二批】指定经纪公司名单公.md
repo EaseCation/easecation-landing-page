@@ -1,7 +1,7 @@
 ---
 title: "2024 年第二十一届 ChinaJoy 【第二批】指定经纪公司名单公布！"
 publishDate: 2024-04-16
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

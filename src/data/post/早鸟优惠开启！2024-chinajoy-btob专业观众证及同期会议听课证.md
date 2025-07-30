@@ -1,7 +1,7 @@
 ---
 title: "早鸟优惠开启！2024 ChinaJoy BTOB专业观众证及同期会议听课证首批证件限时发售！"
 publishDate: 2024-06-11
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 coverImage: "20240611225312711.jpg"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "【极速启程】ChinaJoy Express游戏试玩区诚邀品牌合作伙伴，共赴游戏盛宴！"
 publishDate: 2025-04-30
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

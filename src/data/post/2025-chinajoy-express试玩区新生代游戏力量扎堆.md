@@ -1,7 +1,7 @@
 ---
 title: "2025 ChinaJoy Express试玩区新生代游戏力量扎堆"
 publishDate: 2025-04-21
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "ChinaJoy 携手京东达成深度战略合作，共同打造 2024“ChinaJoy X 京东 3C数码直播购物节”！"
 publishDate: 2024-05-21
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 coverImage: "20240521155555986.jpg"
 ---

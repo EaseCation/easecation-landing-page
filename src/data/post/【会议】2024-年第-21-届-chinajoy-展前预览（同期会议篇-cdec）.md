@@ -1,7 +1,7 @@
 ---
 title: "【会议】2024 年第 21 届 ChinaJoy 展前预览（同期会议篇—CDEC）正式发布"
 publishDate: 2024-07-19
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

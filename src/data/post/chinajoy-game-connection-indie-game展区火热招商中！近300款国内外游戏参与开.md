@@ -1,7 +1,7 @@
 ---
 title: "ChinaJoy-Game Connection INDIE GAME展区火热招商中！近300款国内外游戏参与开发大奖报名！"
 publishDate: 2024-05-10
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 coverImage: "20240510093007930.jpg"
 ---

@@ -1,7 +1,7 @@
 ---
 title: "世纪天成将在2024 ChinaJoy BTOC互动娱乐馆再续精彩！"
 publishDate: 2024-07-18
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

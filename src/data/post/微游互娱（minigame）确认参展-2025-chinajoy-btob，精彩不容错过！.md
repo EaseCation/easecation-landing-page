@@ -1,7 +1,7 @@
 ---
 title: "微游互娱（MiniGame）确认参展 2025 ChinaJoy BTOB，精彩不容错过！"
 publishDate: 2025-04-15
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

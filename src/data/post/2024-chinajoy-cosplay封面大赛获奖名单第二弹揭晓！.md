@@ -1,7 +1,7 @@
 ---
 title: "2024 ChinaJoy Cosplay封面大赛获奖名单第二弹揭晓！"
 publishDate: 2024-06-05
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 coverImage: "20240605230524830.png"
 ---

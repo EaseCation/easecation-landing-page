@@ -1,7 +1,7 @@
 ---
 title: "尖端美术服务商北京摩凌确认参展2024 ChinaJoy BTOB"
 publishDate: 2024-05-21
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

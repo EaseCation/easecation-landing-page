@@ -1,7 +1,7 @@
 ---
 title: "【会议+Express试玩区】2024 中国游戏开发者大会（CGDC）Indie 专场"
 publishDate: 2024-06-03
-category: 博客
+category: blog
 author: 莱尔
 ---
 

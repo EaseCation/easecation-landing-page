@@ -1,7 +1,7 @@
 ---
 title: "普罗视觉空间视频技术亮相2025 ChinaJoy BTOB，赋能多元场景创新"
 publishDate: 2025-05-21
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "玩乐盛会 重磅回归 育碧确认参展2024 ChinaJoy"
 publishDate: 2024-07-08
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

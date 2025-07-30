@@ -1,7 +1,7 @@
 ---
 title: "轻语游戏（WhisperGames）确认参展2025 ChinaJoy Express游戏试玩区"
 publishDate: 2025-04-25
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

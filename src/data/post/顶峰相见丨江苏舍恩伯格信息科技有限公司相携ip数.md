@@ -1,7 +1,7 @@
 ---
 title: "顶峰相见丨江苏舍恩伯格信息科技有限公司相携IP数据云于2024 ChinaJoy BTOB商务洽谈馆再续华章"
 publishDate: 2024-06-27
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

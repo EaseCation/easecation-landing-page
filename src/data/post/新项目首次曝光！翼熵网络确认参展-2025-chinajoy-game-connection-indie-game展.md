@@ -1,7 +1,7 @@
 ---
 title: "新项目首次曝光！翼熵网络确认参展 2025 ChinaJoy-Game Connection INDIE GAME展区"
 publishDate: 2025-04-21
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

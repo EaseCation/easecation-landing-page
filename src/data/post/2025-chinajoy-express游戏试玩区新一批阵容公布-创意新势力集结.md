@@ -1,7 +1,7 @@
 ---
 title: "2025 ChinaJoy Express游戏试玩区新一批阵容公布 创意新势力集结"
 publishDate: 2025-04-11
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Mistplay确认出席ChinaJoy 2024，精彩活动等你来参加！"
 publishDate: 2024-07-11
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

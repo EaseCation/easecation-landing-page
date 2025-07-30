@@ -1,7 +1,7 @@
 ---
 title: "RK外设确认参展2025 ChinaJoy BTOC，将携多款新品引爆电竞潮流！"
 publishDate: 2025-04-28
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

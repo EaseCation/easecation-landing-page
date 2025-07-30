@@ -1,7 +1,7 @@
 ---
 title: "艾克索拉(XSOLLA)确认参加ChinaJoy 2024, 携手开启游戏商业新纪元!"
 publishDate: 2024-06-26
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

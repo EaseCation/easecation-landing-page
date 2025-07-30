@@ -1,7 +1,7 @@
 ---
 title: "朝夕光年与沐瞳科技确认参展2025 ChinaJoy BTOC互动娱乐馆，携多款重磅产品首次亮相！"
 publishDate: 2025-07-14
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Nasimobi与您相约2024年ChinaJoy BTOB商务洽谈馆！"
 publishDate: 2024-07-08
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

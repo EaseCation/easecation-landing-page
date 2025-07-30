@@ -1,7 +1,7 @@
 ---
 title: "来自大厂的王炸？2024 ChinaJoy，腾讯又有猛料了！"
 publishDate: 2024-07-18
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

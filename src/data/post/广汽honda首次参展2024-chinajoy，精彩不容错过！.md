@@ -1,7 +1,7 @@
 ---
 title: "广汽Honda首次参展2024 ChinaJoy，精彩不容错过！"
 publishDate: 2024-07-16
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

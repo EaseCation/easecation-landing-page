@@ -1,7 +1,7 @@
 ---
 title: "火星语盟将亮相 2024 ChinaJoy BTOB，游戏本地化请锁定 B557"
 publishDate: 2024-06-03
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

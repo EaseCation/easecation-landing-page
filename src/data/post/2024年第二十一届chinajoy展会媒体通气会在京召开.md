@@ -1,7 +1,7 @@
 ---
 title: "2024年第二十一届ChinaJoy展会媒体通气会在京召开"
 publishDate: 2024-06-28
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

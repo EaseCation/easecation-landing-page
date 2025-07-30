@@ -1,7 +1,7 @@
 ---
 title: "瑞声科技RichTap®一站式触感解决方案，确认参展 2024 ChinaJoy BTOB"
 publishDate: 2024-07-19
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

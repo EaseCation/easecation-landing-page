@@ -1,7 +1,7 @@
 ---
 title: "北方算网携北电云平台亮相2025 ChinaJoy，为游戏开发者解锁AI算力新体验"
 publishDate: 2025-04-30
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

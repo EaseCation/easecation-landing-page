@@ -1,7 +1,7 @@
 ---
 title: "Mobikok再战2024 ChinaJoy精彩不容错过4-B882 展位精彩亮相"
 publishDate: 2024-06-06
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

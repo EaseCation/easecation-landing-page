@@ -1,7 +1,7 @@
 ---
 title: "ARTPRO STUDIO亮相ChinaJoy-Game Connection INDIE GAME展区，探索游戏美术新未来！"
 publishDate: 2025-04-25
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

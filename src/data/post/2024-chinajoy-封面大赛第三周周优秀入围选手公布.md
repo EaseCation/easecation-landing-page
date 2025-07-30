@@ -1,7 +1,7 @@
 ---
 title: "2024 ChinaJoy 封面大赛第三周周优秀入围选手公布"
 publishDate: 2024-04-11
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 coverImage: "20240411102656195.jpg"
 ---

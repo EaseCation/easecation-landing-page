@@ -1,7 +1,7 @@
 ---
 title: "领航出海 让世界听见！HS 翰思语创将在 2024 ChinaJoy BTOB 商务洽谈馆再续精彩！"
 publishDate: 2024-06-26
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

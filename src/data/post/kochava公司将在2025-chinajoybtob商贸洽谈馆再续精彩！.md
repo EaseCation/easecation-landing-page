@@ -1,7 +1,7 @@
 ---
 title: "Kochava公司将在2025 ChinaJoyBTOB商贸洽谈馆再续精彩！"
 publishDate: 2025-04-30
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "东莞市索艾电子科技有限公司确认参展 2024 eSmart，精彩可期！"
 publishDate: 2024-05-23
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

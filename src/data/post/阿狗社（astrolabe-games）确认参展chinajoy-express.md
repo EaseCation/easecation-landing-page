@@ -1,7 +1,7 @@
 ---
 title: "阿狗社（Astrolabe Games）确认参展ChinaJoy Express"
 publishDate: 2024-07-10
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

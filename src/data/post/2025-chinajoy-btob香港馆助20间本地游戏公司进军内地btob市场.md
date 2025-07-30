@@ -1,7 +1,7 @@
 ---
 title: "2025 ChinaJoy BTOB香港馆助20间本地游戏公司进军内地BTOB市场"
 publishDate: 2025-07-14
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

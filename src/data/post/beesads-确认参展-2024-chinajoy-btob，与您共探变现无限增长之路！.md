@@ -1,7 +1,7 @@
 ---
 title: "BeesAds 确认参展 2024 ChinaJoy BTOB，与您共探变现无限增长之路！"
 publishDate: 2024-06-11
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "聚·你所爱！2025 ChinaJoy即日起招商全面启动！"
 publishDate: 2024-11-19
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 coverImage: "20241120075814348.png"
 ---

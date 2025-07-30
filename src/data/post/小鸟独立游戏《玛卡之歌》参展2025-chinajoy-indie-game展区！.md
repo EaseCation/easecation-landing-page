@@ -1,7 +1,7 @@
 ---
 title: "小鸟独立游戏《玛卡之歌》参展2025 ChinaJoy INDIE GAME展区！"
 publishDate: 2025-04-25
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

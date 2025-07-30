@@ -1,7 +1,7 @@
 ---
 title: "【游·见】专访Fabled Game Studio：在航海图卷与代码浪潮的交界处，以「倒计时」与「邻卡共振」重铸策略维度"
 publishDate: 2025-06-21
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

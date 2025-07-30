@@ -1,7 +1,7 @@
 ---
 title: "Goooood® 携「App盾」和「安全CDN」亮相 2024 ChinaJoy 掀起网络安全新风潮！"
 publishDate: 2024-06-20
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

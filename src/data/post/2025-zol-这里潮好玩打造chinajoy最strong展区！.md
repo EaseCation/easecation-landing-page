@@ -1,7 +1,7 @@
 ---
 title: "2025 ZOL “这里潮好玩”打造ChinaJoy最strong展区！"
 publishDate: 2025-04-28
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

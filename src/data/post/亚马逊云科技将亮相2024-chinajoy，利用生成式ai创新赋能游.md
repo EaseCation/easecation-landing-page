@@ -1,7 +1,7 @@
 ---
 title: "亚马逊云科技将亮相2024 ChinaJoy，利用生成式AI创新赋能游戏新体验"
 publishDate: 2024-07-24
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

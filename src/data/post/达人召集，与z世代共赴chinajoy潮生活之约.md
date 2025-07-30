@@ -1,7 +1,7 @@
 ---
 title: "达人召集，与Z世代共赴ChinaJoy潮生活之约"
 publishDate: 2024-06-07
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

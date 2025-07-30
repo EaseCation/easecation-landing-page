@@ -1,7 +1,7 @@
 ---
 title: "2024 INDIE GAME 开发大奖报名即将截止！更多国产佳作亮相，报名作品推荐（第四弹）"
 publishDate: 2024-04-19
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

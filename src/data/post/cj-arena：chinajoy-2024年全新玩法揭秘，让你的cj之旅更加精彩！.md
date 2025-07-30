@@ -1,7 +1,7 @@
 ---
 title: "CJ Arena：ChinaJoy 2024年全新玩法揭秘，让你的CJ之旅更加精彩！"
 publishDate: 2024-05-21
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 coverImage: "20240521155750663.jpg"
 ---

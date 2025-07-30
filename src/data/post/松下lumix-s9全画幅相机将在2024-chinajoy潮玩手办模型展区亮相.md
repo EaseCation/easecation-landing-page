@@ -1,7 +1,7 @@
 ---
 title: "松下LUMIX S9全画幅相机将在2024 ChinaJoy潮玩手办模型展区亮相"
 publishDate: 2024-07-18
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

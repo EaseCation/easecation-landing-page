@@ -1,7 +1,7 @@
 ---
 title: "2024ChinaJoy，TCL华星诚挚邀您加入「星次元登陆计划」！"
 publishDate: 2024-07-22
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

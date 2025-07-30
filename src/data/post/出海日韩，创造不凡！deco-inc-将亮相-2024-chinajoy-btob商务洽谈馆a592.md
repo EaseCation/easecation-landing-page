@@ -1,7 +1,7 @@
 ---
 title: "出海日韩，创造不凡！DECO.Inc 将亮相 2024 ChinaJoy BTOB商务洽谈馆A592展台，不见不散！"
 publishDate: 2024-05-28
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

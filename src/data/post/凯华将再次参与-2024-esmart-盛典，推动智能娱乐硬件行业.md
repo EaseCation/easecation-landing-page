@@ -1,7 +1,7 @@
 ---
 title: "凯华将再次参与 2024 eSmart 盛典，推动智能娱乐硬件行业交流，共创外设体验新篇章"
 publishDate: 2024-05-14
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

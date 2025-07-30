@@ -1,7 +1,7 @@
 ---
 title: "FreakOut China 将携手日本最大级别的网红事务所UUUM株式会社参展2024 China Joy！"
 publishDate: 2024-06-13
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

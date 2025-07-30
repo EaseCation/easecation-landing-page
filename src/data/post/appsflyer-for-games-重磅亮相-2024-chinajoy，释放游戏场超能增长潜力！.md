@@ -1,7 +1,7 @@
 ---
 title: "AppsFlyer for games 重磅亮相 2024 ChinaJoy，释放游戏场超能增长潜力！"
 publishDate: 2024-07-16
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "【游·见】专访Silverjay银鸟工作室：声波天平×羽毛代码的碰撞中，以重构理性本能边界实现解谜新范式"
 publishDate: 2025-07-01
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

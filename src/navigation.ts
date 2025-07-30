@@ -15,12 +15,12 @@ export const headerData = {
         {
           text: '#nav.commonBlog',
           enableLocalization: true,
-          href: getPermalink('category/bo2-ke4', 'post'),
+          href: getPermalink('category/blog', 'post'),
         },
         {
           text: '#nav.chinaJoy',
           enableLocalization: true,
-          href: getPermalink('category/chinajoy-zhuan1-qu1', 'post'),
+          href: getPermalink('category/chinajoy', 'post'),
         },
       ],
     },

@@ -1,7 +1,7 @@
 ---
 title: "青岛小火一把影视科技有限公司将携《这个CEO我当定了》参展INDIE GAME展区"
 publishDate: 2024-06-28
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

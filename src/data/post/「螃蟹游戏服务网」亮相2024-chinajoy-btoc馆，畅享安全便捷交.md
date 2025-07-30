@@ -1,7 +1,7 @@
 ---
 title: "「螃蟹游戏服务网」亮相2024 ChinaJoy BTOC馆，畅享安全便捷交易新体验！"
 publishDate: 2024-07-02
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

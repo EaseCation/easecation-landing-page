@@ -1,7 +1,7 @@
 ---
 title: "VANCARD'S万画云游将参展 2024 ChinaJoy"
 publishDate: 2024-07-02
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

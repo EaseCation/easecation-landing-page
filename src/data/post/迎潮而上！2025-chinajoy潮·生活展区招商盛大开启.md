@@ -1,7 +1,7 @@
 ---
 title: "迎潮而上！2025 ChinaJoy潮·生活展区招商盛大开启"
 publishDate: 2024-12-14
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

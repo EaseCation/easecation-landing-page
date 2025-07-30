@@ -1,7 +1,7 @@
 ---
 title: "黑白调确认参展2025 ChinaJoy BTOC，携手精彩不容错过！"
 publishDate: 2025-06-06
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

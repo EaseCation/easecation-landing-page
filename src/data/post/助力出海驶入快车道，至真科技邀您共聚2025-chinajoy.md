@@ -1,7 +1,7 @@
 ---
 title: "助力出海驶入“快车道”，至真科技邀您共聚2025 ChinaJoy盛会！"
 publishDate: 2025-07-01
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

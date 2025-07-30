@@ -1,7 +1,7 @@
 ---
 title: "HIGVR 携最新 VR 外设亮相 2024 eSmart，S197 等您来体验！"
 publishDate: 2024-05-14
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

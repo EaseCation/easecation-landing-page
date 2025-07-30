@@ -1,7 +1,7 @@
 ---
 title: "低门槛轻松做游戏：轻游梦工坊编辑器参展 2024 ChinaJoy BTOB"
 publishDate: 2024-07-04
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

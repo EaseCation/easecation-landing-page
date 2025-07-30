@@ -1,7 +1,7 @@
 ---
 title: "0华为游戏中心携手40+款鸿蒙原生游戏参展2024 ChinaJoy，探索非凡体验，共见游戏新生"
 publishDate: 2024-07-16
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "HugOffers 确认参展 | 2024 ChinaJoy W4 展馆 B253"
 publishDate: 2024-06-04
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "【游·见】专访MOON SCAPE工作室：在像素代码的缝隙与治愈白噪音的和鸣中，以放置美学播种数字心灵绿洲"
 publishDate: 2025-06-13
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "确认参展！颂量邀您相聚2025 ChinaJoy BTOB商务洽谈馆，共探出海营销新趋势"
 publishDate: 2025-06-13
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

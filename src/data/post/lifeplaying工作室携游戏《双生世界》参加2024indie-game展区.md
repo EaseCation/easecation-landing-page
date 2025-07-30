@@ -1,7 +1,7 @@
 ---
 title: "LifePlaying工作室携游戏《双生世界》参加2024INDIE GAME展区"
 publishDate: 2024-04-26
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

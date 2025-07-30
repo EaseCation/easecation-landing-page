@@ -1,7 +1,7 @@
 ---
 title: "Leadsmarket 将亮相 2024 ChinaJoy BTOB商务洽谈馆! 欢迎莅临 W5-A691 展位"
 publishDate: 2024-04-22
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 coverImage: "20240422182753103.png"
 ---

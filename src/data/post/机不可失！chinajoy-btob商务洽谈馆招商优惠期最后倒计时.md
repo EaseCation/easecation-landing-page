@@ -1,7 +1,7 @@
 ---
 title: "机不可失！ChinaJoy BTOB商务洽谈馆招商优惠期最后倒计时！"
 publishDate: 2024-04-03
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

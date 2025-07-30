@@ -1,7 +1,7 @@
 ---
 title: "邀请函 | Cloudflare 已确认出席 ChinaJoy 2024 BTOB 商务洽谈馆"
 publishDate: 2024-07-10
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

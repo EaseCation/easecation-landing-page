@@ -1,7 +1,7 @@
 ---
 title: "八位堂确认参展2024 ChinaJoyBTOC，打卡上海不见不散2024ChinaJoyBTOC互动娱乐馆，八位堂如约而至"
 publishDate: 2024-06-06
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

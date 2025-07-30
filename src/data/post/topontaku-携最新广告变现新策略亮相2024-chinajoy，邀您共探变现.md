@@ -1,7 +1,7 @@
 ---
 title: "TopOn&Taku 携最新广告变现新策略亮相2024 ChinaJoy，邀您共探变现优化之道！"
 publishDate: 2024-07-10
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

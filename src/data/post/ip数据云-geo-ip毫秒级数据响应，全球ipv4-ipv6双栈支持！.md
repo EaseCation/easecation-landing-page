@@ -1,7 +1,7 @@
 ---
 title: "IP数据云——Geo IP毫秒级数据响应，全球IPv4/IPv6双栈支持！"
 publishDate: 2025-06-13
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

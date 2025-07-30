@@ -1,7 +1,7 @@
 ---
 title: "ChinaJoy IP大会前瞻：以“新世代 心触点”撬动Z世代经济新蓝海"
 publishDate: 2025-04-15
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

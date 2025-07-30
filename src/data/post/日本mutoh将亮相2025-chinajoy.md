@@ -1,7 +1,7 @@
 ---
 title: "日本MUTOH将亮相2025 ChinaJoy"
 publishDate: 2025-05-20
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

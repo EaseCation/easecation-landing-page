@@ -1,7 +1,7 @@
 ---
 title: "4399确认参展2025 ChinaJoy BTOC，好游戏就要一起玩！"
 publishDate: 2025-07-01
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

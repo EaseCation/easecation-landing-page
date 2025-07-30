@@ -1,7 +1,7 @@
 ---
 title: "美团亮相 2024 ChinaJoy BTOB 游戏业务持续开放合作"
 publishDate: 2024-07-02
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "全球电竞椅品类开创者迪锐克斯重磅登陆2025 ChinaJoy E7馆S507"
 publishDate: 2025-05-27
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

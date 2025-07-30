@@ -1,7 +1,7 @@
 ---
 title: "CGC Cards确认参展2024 CAWAE"
 publishDate: 2024-07-17
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "点点数据确认参展2025 ChinaJoy BTOB，为您解锁全球移动应用/游戏数据"
 publishDate: 2025-06-21
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

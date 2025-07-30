@@ -1,7 +1,7 @@
 ---
 title: "“剧变N次方”——2024ChinaJoy短剧创新论坛圆满召开"
 publishDate: 2024-07-26
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

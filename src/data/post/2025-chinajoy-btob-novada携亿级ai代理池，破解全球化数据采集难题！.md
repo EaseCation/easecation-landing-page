@@ -1,7 +1,7 @@
 ---
 title: "2025 ChinaJoy BTOB | Novada携亿级AI代理池，破解全球化数据采集难题！"
 publishDate: 2025-05-21
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 coverImage: "20250521135516506.png"
 ---

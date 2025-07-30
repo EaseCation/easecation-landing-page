@@ -1,7 +1,7 @@
 ---
 title: "2025 ChinaJoy BTOB专业观众证即日开启发售！"
 publishDate: 2025-06-13
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

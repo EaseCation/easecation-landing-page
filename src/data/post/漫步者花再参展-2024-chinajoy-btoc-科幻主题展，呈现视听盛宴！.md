@@ -1,7 +1,7 @@
 ---
 title: "漫步者花再参展 2024 ChinaJoy BTOC 科幻主题展，呈现视听盛宴！"
 publishDate: 2024-06-18
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "2025年第二十二届中国国际数码互动娱乐展览会（ChinaJoy）新闻发布会在沪召开，展会亮点全解析"
 publishDate: 2025-06-25
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 coverImage: "20250625232657410.png"
 ---

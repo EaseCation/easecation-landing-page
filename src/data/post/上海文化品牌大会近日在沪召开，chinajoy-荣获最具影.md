@@ -1,7 +1,7 @@
 ---
 title: "上海文化品牌大会近日在沪召开，ChinaJoy 荣获“最具影响力”和“最受市民欢迎”两项殊荣！"
 publishDate: 2024-04-26
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

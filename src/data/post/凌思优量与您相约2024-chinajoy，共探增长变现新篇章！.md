@@ -1,7 +1,7 @@
 ---
 title: "凌思优量与您相约2024 ChinaJoy，共探增长变现新篇章！"
 publishDate: 2024-07-10
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

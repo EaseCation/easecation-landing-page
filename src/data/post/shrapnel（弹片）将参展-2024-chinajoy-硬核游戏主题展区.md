@@ -1,7 +1,7 @@
 ---
 title: "Shrapnel（弹片）将参展 2024 ChinaJoy 硬核游戏主题展区"
 publishDate: 2024-06-24
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

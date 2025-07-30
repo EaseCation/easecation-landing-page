@@ -1,7 +1,7 @@
 ---
 title: "Appluck确认参展 2024 ChinaJoy BTOB，开发者轻松增收50%！"
 publishDate: 2024-07-19
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

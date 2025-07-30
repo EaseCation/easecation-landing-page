@@ -1,7 +1,7 @@
 ---
 title: "2025ChinaJoy Cosplay超级联赛战火重燃，各赛区时间公布"
 publishDate: 2025-03-19
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

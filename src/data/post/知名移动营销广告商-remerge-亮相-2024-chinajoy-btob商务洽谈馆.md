@@ -1,7 +1,7 @@
 ---
 title: "知名移动营销广告商 Remerge 亮相 2024 ChinaJoy BTOB商务洽谈馆"
 publishDate: 2024-06-11
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 coverImage: "20240611225803729.png"
 ---

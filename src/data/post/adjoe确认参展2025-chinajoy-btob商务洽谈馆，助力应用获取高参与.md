@@ -1,7 +1,7 @@
 ---
 title: "adjoe确认参展2025 ChinaJoy BTOB商务洽谈馆，助力应用获取高参与度用户，突破ROAS目标与变现！"
 publishDate: 2025-06-13
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

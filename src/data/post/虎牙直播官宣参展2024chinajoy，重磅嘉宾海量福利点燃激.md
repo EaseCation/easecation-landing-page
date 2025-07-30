@@ -1,7 +1,7 @@
 ---
 title: "虎牙直播官宣参展2024ChinaJoy，重磅嘉宾海量福利点燃激情一夏"
 publishDate: 2024-07-17
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

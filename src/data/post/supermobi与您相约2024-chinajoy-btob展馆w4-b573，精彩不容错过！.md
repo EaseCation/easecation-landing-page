@@ -1,7 +1,7 @@
 ---
 title: "Supermobi与您相约2024 ChinaJoy BTOB展馆W4-B573，精彩不容错过！"
 publishDate: 2024-07-05
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Soul App将亮相第二十一届 ChinaJoy ，发布“山海灵·大盛山海”ChinaJoy特别款"
 publishDate: 2024-07-25
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

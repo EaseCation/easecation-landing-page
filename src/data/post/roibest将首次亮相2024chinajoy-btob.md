@@ -1,7 +1,7 @@
 ---
 title: "ROIBest将首次亮相2024ChinaJoy BTOB"
 publishDate: 2024-07-10
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

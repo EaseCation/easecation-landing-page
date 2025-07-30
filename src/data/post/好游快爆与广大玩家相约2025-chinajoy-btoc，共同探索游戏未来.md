@@ -1,7 +1,7 @@
 ---
 title: "好游快爆与广大玩家相约2025 ChinaJoy BTOC，共同探索游戏未来！"
 publishDate: 2025-07-14
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

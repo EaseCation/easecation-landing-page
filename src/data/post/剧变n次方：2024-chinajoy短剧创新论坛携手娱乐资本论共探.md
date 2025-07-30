@@ -1,7 +1,7 @@
 ---
 title: "\"剧变N次方\"：2024 ChinaJoy短剧创新论坛携手娱乐资本论共探行业新蓝海"
 publishDate: 2024-06-20
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

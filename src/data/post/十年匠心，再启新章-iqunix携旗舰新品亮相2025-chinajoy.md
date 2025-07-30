@@ -1,7 +1,7 @@
 ---
 title: "十年匠心，再启新章 | IQUNIX携旗舰新品亮相2025 ChinaJoy"
 publishDate: 2025-05-20
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

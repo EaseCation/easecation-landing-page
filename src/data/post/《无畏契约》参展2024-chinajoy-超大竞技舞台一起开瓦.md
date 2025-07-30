@@ -1,7 +1,7 @@
 ---
 title: "《无畏契约》参展2024 ChinaJoy 超大竞技舞台一起开瓦"
 publishDate: 2024-07-08
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

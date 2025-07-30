@@ -1,7 +1,7 @@
 ---
 title: "全球领先支付服务商UniPin确认参展2025 ChinaJoy BTOB，助力数字娱乐产业全球化"
 publishDate: 2025-07-01
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

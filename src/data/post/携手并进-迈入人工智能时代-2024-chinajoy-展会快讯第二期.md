@@ -1,7 +1,7 @@
 ---
 title: "携手并进 迈入人工智能时代 | 2024 ChinaJoy 展会快讯第二期"
 publishDate: 2024-05-23
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 coverImage: "20240523155732467.jpg"
 ---

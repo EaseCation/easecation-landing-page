@@ -1,7 +1,7 @@
 ---
 title: "第二十一届 ChinaJoy 新闻发布会在沪召开，2024 年展会精彩内容大剧透！"
 publishDate: 2024-06-24
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

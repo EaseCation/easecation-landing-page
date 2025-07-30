@@ -1,7 +1,7 @@
 ---
 title: "2024 ChinaJoy 封面大赛第二周周优秀票选结果公布"
 publishDate: 2024-04-11
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

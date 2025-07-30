@@ -1,7 +1,7 @@
 ---
 title: "IPIDEA参展2024 ChinaJoy BTOB，再创HTTP代理行业新纪元！"
 publishDate: 2024-06-21
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

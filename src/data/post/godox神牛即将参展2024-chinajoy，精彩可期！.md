@@ -1,7 +1,7 @@
 ---
 title: "Godox神牛即将参展2024 ChinaJoy，精彩可期！"
 publishDate: 2024-07-02
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

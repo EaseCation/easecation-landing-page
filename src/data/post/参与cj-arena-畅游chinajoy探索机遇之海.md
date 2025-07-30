@@ -1,7 +1,7 @@
 ---
 title: "参与CJ Arena 畅游ChinaJoy探索机遇之海"
 publishDate: 2024-07-05
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 coverImage: "20240705161846377.jpg"
 ---

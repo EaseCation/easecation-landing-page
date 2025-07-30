@@ -1,7 +1,7 @@
 ---
 title: "导弹猫工作室确认参展INDIE GAME 展区！"
 publishDate: 2024-06-20
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

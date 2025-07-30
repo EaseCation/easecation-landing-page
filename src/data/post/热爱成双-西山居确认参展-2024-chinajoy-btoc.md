@@ -1,7 +1,7 @@
 ---
 title: "热爱成双 西山居确认参展 2024 ChinaJoy BTOC"
 publishDate: 2024-06-27
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

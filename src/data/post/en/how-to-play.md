@@ -1,7 +1,7 @@
 ---
 title: "How to play"
 publishDate: 2025-07-17
-category: 博客
+category: blog
 author: EaseCation
 language: en
 ---

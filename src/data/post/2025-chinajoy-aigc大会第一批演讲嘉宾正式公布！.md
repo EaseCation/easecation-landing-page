@@ -1,7 +1,7 @@
 ---
 title: "2025 ChinaJoy AIGC大会第一批演讲嘉宾正式公布！"
 publishDate: 2025-06-13
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

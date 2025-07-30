@@ -1,7 +1,7 @@
 ---
 title: "ThorData携全球数据采集解决方案亮相2025 ChinaJoy BTOB"
 publishDate: 2025-06-25
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

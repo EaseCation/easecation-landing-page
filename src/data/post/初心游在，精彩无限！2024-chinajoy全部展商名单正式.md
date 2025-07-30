@@ -1,7 +1,7 @@
 ---
 title: "初心“游”在，精彩无限！2024 ChinaJoy全部展商名单正式公布！"
 publishDate: 2024-07-22
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

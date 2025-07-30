@@ -1,7 +1,7 @@
 ---
 title: "【游·见】专访狗红工作室：像素霓虹×时间刀刃的狭间，以双人代码淬炼「生命倒计时」的赛博寓言"
 publishDate: 2025-05-20
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

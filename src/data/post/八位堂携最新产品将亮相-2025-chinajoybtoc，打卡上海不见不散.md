@@ -1,7 +1,7 @@
 ---
 title: "八位堂携最新产品将亮相 2025 ChinaJoyBTOC，打卡上海不见不散！"
 publishDate: 2025-05-27
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

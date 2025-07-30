@@ -1,7 +1,7 @@
 ---
 title: "智冠集团携手ChinaJoy 开拓国际市场布局全台唯一虚实整合互动服务 提供产业一站式服务"
 publishDate: 2024-07-16
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

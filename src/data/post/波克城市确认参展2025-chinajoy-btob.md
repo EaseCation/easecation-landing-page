@@ -1,7 +1,7 @@
 ---
 title: "波克城市确认参展2025 ChinaJoy BTOB"
 publishDate: 2025-07-08
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

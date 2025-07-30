@@ -1,7 +1,7 @@
 ---
 title: "Mediatom 确认参展 2024 ChinaJoy BTOB 商务洽谈馆"
 publishDate: 2024-06-20
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

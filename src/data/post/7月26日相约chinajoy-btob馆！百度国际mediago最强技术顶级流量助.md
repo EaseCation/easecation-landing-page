@@ -1,7 +1,7 @@
 ---
 title: "7月26日相约ChinaJoy BTOB馆！百度国际MediaGo最强技术+顶级流量助航出海玩家"
 publishDate: 2024-07-12
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

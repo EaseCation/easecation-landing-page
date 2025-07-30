@@ -1,7 +1,7 @@
 ---
 title: "神匠游戏确认参展，INDIE GAME 展区即将售罄！"
 publishDate: 2024-06-28
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

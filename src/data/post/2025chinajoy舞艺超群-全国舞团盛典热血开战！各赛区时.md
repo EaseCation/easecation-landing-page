@@ -1,7 +1,7 @@
 ---
 title: "2025ChinaJoy舞艺超群—全国舞团盛典热血开战！各赛区时间公布"
 publishDate: 2025-03-19
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

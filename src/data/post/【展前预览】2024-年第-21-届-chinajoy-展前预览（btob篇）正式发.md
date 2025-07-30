@@ -1,7 +1,7 @@
 ---
 title: "【展前预览】2024 年第 21 届 ChinaJoy 展前预览（BTOB篇）正式发布！"
 publishDate: 2024-07-18
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

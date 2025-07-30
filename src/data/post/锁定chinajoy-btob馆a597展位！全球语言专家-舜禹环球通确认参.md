@@ -1,7 +1,7 @@
 ---
 title: "锁定ChinaJoy BTOB馆A597展位！全球语言专家-舜禹环球通确认参展！"
 publishDate: 2024-06-07
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

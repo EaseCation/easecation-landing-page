@@ -1,7 +1,7 @@
 ---
 title: "三得利水漾力确认参展2024 ChinaJoy BTOC，爱玩会练，随时来电！"
 publishDate: 2024-07-16
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

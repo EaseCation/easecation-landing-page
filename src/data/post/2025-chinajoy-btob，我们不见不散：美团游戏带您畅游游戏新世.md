@@ -1,7 +1,7 @@
 ---
 title: "2025 ChinaJoy BTOB，我们不见不散：美团游戏带您畅游游戏新世界"
 publishDate: 2025-06-17
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

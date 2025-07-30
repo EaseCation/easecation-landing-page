@@ -1,7 +1,7 @@
 ---
 title: "“全球战塑” ChinaJoy组委会与世纪华通发起全球游戏人减塑行动倡议"
 publishDate: 2024-04-23
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 coverImage: "20240423131301198.png"
 ---

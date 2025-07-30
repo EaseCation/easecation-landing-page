@@ -1,7 +1,7 @@
 ---
 title: "守梦人故事工作室参展 2025 INDIE GAME《晚安白雪》游戏项目发布：打造治愈系叙事游戏新体验"
 publishDate: 2025-04-28
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "月白工作室确认参加2024 CJGC INDIE GAME展区，现场展示游戏《月白》"
 publishDate: 2024-05-31
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

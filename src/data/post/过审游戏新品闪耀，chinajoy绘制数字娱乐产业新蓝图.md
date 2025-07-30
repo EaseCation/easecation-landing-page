@@ -1,7 +1,7 @@
 ---
 title: "过审游戏新品闪耀，ChinaJoy绘制数字娱乐产业新蓝图"
 publishDate: 2024-05-13
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

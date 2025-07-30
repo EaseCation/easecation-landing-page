@@ -1,7 +1,7 @@
 ---
 title: "2024 中国游戏开发者大会（CGDC）KEYNOTE公布！技术专场、全球化专场嘉宾曝光"
 publishDate: 2024-07-16
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "2025 ChinaJoy-Game Connection INDIE GAME展区招商正式启动！展位早鸟预订已开启！"
 publishDate: 2024-11-25
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

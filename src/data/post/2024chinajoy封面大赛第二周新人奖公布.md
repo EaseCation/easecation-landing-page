@@ -1,7 +1,7 @@
 ---
 title: "2024ChinaJoy封面大赛第二周新人奖公布"
 publishDate: 2024-04-15
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

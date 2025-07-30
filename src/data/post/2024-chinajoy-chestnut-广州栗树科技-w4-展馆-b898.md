@@ -1,7 +1,7 @@
 ---
 title: "2024 ChinaJoy | Chestnut 广州栗树科技 W4 展馆 B898"
 publishDate: 2024-05-24
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

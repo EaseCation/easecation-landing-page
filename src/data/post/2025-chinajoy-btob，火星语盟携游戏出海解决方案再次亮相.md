@@ -1,7 +1,7 @@
 ---
 title: "2025 ChinaJoy BTOB，火星语盟携游戏出海解决方案再次亮相"
 publishDate: 2025-05-27
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

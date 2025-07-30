@@ -1,7 +1,7 @@
 ---
 title: "2025 ChinaJoy同期会议CDEC高峰论坛首批嘉宾公布！"
 publishDate: 2025-06-25
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

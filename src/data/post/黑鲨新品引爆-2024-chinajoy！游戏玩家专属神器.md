@@ -1,7 +1,7 @@
 ---
 title: "黑鲨新品引爆 2024 ChinaJoy！游戏玩家专属神器"
 publishDate: 2024-04-16
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 coverImage: "20240416155614223.png"
 ---

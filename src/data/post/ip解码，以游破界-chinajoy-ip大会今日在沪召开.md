@@ -1,7 +1,7 @@
 ---
 title: "IP解码，以游破界 | ChinaJoy IP大会今日在沪召开"
 publishDate: 2024-07-26
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "AnyMind Group 确认参加 2024 ChinaJoy BTOB 商务洽谈馆"
 publishDate: 2024-05-21
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "【游·见】专访Blackbird Interactive：从家园到硬空间，科幻战略游戏的探索之旅"
 publishDate: 2025-04-01
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

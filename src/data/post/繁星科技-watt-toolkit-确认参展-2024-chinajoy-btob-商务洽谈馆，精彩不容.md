@@ -1,7 +1,7 @@
 ---
 title: "繁星科技 / Watt Toolkit 确认参展 2024 ChinaJoy BTOB 商务洽谈馆，精彩不容错过！"
 publishDate: 2024-05-30
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

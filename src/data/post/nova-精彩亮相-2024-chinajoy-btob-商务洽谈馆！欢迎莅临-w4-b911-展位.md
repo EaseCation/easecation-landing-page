@@ -1,7 +1,7 @@
 ---
 title: "NOVA 精彩亮相 2024 ChinaJoy BTOB 商务洽谈馆！欢迎莅临 W4-B911 展位"
 publishDate: 2024-06-03
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

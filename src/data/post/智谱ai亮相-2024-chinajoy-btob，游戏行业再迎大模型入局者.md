@@ -1,7 +1,7 @@
 ---
 title: "智谱AI亮相 2024 ChinaJoy BTOB，游戏行业再迎大模型入局者"
 publishDate: 2024-05-23
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

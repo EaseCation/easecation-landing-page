@@ -1,7 +1,7 @@
 ---
 title: "Moloco 将亮相 2025 ChinaJoy BTOB 商务洽谈馆，以 AI 赋能泛娱乐产业全球化增长与变现新范式"
 publishDate: 2025-07-08
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

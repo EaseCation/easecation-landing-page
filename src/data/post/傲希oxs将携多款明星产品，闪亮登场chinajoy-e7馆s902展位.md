@@ -1,7 +1,7 @@
 ---
 title: "傲希(OXS)将携多款明星产品，闪亮登场ChinaJoy E7馆S902展位"
 publishDate: 2024-07-02
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

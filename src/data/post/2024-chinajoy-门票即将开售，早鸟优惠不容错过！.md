@@ -1,7 +1,7 @@
 ---
 title: "2024 ChinaJoy 门票即将开售，早鸟优惠不容错过！"
 publishDate: 2024-06-24
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

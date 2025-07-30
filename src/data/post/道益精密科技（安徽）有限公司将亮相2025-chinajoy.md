@@ -1,7 +1,7 @@
 ---
 title: "道益精密科技（安徽）有限公司将亮相2025 ChinaJoy"
 publishDate: 2025-04-30
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

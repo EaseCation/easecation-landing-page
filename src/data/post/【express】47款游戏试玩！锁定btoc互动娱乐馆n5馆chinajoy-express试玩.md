@@ -1,7 +1,7 @@
 ---
 title: "【Express】47款游戏试玩！锁定BTOC互动娱乐馆N5馆ChinaJoy Express试玩区"
 publishDate: 2024-07-22
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

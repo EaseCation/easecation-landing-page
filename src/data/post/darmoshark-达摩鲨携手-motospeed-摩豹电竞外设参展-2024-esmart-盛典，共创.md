@@ -1,7 +1,7 @@
 ---
 title: "Darmoshark 达摩鲨携手 Motospeed 摩豹电竞外设参展 2024 eSmart 盛典，共创游戏竞技外设新征程"
 publishDate: 2024-06-06
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

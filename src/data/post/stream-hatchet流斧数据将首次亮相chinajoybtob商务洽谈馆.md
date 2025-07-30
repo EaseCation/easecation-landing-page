@@ -1,7 +1,7 @@
 ---
 title: "Stream Hatchet流斧数据将首次亮相ChinaJoyBTOB商务洽谈馆"
 publishDate: 2025-04-15
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

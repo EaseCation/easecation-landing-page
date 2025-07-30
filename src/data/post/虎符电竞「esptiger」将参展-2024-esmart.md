@@ -1,7 +1,7 @@
 ---
 title: "虎符电竞「ESPTIGER」将参展 2024 eSmart"
 publishDate: 2024-06-03
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

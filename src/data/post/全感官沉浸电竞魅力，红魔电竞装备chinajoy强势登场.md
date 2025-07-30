@@ -1,7 +1,7 @@
 ---
 title: "全感官沉浸电竞魅力，红魔电竞装备ChinaJoy强势登场"
 publishDate: 2024-07-22
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

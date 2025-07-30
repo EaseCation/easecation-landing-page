@@ -1,7 +1,7 @@
 ---
 title: "【重磅首秀】省广集团将登陆2025 ChinaJoy：以智能营销赋能游戏出海新征途"
 publishDate: 2025-07-01
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

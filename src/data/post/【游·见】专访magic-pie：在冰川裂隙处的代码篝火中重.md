@@ -1,7 +1,7 @@
 ---
 title: "【游·见】专访Magic Pie：在冰川裂隙处的代码篝火中重构生存算法，于极夜叙事里淬炼双人诗学"
 publishDate: 2025-07-08
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

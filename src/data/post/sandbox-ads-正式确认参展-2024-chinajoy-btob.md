@@ -1,7 +1,7 @@
 ---
 title: "Sandbox Ads 正式确认参展 2024 ChinaJoy BTOB"
 publishDate: 2024-05-08
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

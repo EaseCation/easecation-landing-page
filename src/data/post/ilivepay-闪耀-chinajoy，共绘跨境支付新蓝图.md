@@ -1,7 +1,7 @@
 ---
 title: "ilivepay 闪耀 ChinaJoy，共绘跨境支付新蓝图"
 publishDate: 2025-04-15
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

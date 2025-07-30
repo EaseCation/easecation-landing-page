@@ -1,7 +1,7 @@
 ---
 title: "Mobupps亮相2025 ChinaJoy：以数字化转型驱动全球增长"
 publishDate: 2025-06-04
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

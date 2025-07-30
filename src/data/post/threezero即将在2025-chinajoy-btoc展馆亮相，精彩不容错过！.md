@@ -1,7 +1,7 @@
 ---
 title: "threezero即将在2025 ChinaJoy BTOC展馆亮相，精彩不容错过！"
 publishDate: 2025-06-17
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

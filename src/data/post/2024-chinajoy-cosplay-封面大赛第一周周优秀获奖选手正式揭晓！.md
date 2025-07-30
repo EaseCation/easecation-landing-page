@@ -1,7 +1,7 @@
 ---
 title: "2024 ChinaJoy Cosplay 封面大赛第一周周优秀获奖选手正式揭晓！"
 publishDate: 2024-04-08
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 coverImage: "20240408143600660.jpg"
 ---

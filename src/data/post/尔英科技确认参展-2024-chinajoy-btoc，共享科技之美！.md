@@ -1,7 +1,7 @@
 ---
 title: "尔英科技确认参展 2024 ChinaJoy BTOC，共享科技之美！"
 publishDate: 2024-05-23
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

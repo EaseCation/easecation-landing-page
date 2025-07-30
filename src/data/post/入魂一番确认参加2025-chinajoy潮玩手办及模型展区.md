@@ -1,7 +1,7 @@
 ---
 title: "入魂一番确认参加2025 ChinaJoy潮玩手办及模型展区"
 publishDate: 2025-06-06
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

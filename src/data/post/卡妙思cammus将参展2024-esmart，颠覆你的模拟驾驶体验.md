@@ -1,7 +1,7 @@
 ---
 title: "卡妙思CAMMUS将参展2024 eSmart，颠覆你的模拟驾驶体验"
 publishDate: 2024-05-27
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

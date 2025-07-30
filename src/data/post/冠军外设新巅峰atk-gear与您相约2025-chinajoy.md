@@ -1,7 +1,7 @@
 ---
 title: "冠军外设新巅峰|ATK GEAR与您相约2025 ChinaJoy"
 publishDate: 2025-06-25
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 coverImage: "20250625232507173-scaled.jpg"
 ---

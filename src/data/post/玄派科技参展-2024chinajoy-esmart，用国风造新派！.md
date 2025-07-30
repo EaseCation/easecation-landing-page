@@ -1,7 +1,7 @@
 ---
 title: "玄派科技参展 2024ChinaJoy eSmart，用国风造新派！"
 publishDate: 2024-07-02
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

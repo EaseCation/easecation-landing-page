@@ -1,7 +1,7 @@
 ---
 title: "锁定2024 ChinaJoy BTOB W5-A393展位！WebEye邀您共赴精彩盛会！"
 publishDate: 2024-07-10
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

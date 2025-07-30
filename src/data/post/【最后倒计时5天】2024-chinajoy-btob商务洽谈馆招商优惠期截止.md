@@ -1,7 +1,7 @@
 ---
 publishDate: 2023-08-09T00:00:00Z
 title: "【最后倒计时5天】2024 ChinaJoy BTOB商务洽谈馆招商优惠期截止在即！"
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

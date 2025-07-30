@@ -1,7 +1,7 @@
 ---
 title: "经典与新作同台！霓诺携三款游戏与粉丝相约2025 ChinaJoy"
 publishDate: 2025-07-01
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

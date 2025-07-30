@@ -1,7 +1,7 @@
 ---
 title: "【游·见】专访FunmenGames: 在代码缝隙中重塑明末疫战，用潜行叙事编译探索与东方基因"
 publishDate: 2025-06-12
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

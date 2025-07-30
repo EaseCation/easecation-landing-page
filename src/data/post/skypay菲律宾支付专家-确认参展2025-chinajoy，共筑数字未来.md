@@ -1,7 +1,7 @@
 ---
 title: "SKYPAY菲律宾支付专家 确认参展2025 ChinaJoy，共筑数字未来"
 publishDate: 2025-06-13
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

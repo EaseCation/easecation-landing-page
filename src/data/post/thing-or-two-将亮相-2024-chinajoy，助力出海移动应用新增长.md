@@ -1,7 +1,7 @@
 ---
 title: "Thing Or Two 将亮相 2024 ChinaJoy，助力出海移动应用新增长"
 publishDate: 2024-06-20
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

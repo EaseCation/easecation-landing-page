@@ -1,7 +1,7 @@
 ---
 title: "2025 ChinaJoy携手UseePay，以支付赋能撬动游戏出海新蓝海！"
 publishDate: 2025-05-20
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

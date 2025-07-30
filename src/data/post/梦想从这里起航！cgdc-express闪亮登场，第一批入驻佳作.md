@@ -1,7 +1,7 @@
 ---
 title: "梦想从这里起航！CGDC Express闪亮登场，第一批入驻佳作亮相"
 publishDate: 2024-05-17
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

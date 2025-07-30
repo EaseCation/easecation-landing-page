@@ -1,7 +1,7 @@
 ---
 title: "dLocal 将携《赢在新兴：新兴市场支付实战指南》，亮相 2024 ChinaJoy BTOB"
 publishDate: 2024-06-18
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 coverImage: "20240618230112980.png"
 ---

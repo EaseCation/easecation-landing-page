@@ -1,7 +1,7 @@
 ---
 title: "4家企业成为2025 ChinaJoy第一批指定经纪公司"
 publishDate: 2025-02-20
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

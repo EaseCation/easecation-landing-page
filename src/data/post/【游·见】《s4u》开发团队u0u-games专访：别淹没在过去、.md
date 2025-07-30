@@ -1,7 +1,7 @@
 ---
 title: "【游·见】《S4U》开发团队U0U Games专访：别淹没在过去、当下和未来交错的洪流中，勇敢地挥舞爱的重拳吧"
 publishDate: 2025-02-24
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

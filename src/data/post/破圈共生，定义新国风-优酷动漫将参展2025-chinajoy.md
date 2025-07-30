@@ -1,7 +1,7 @@
 ---
 title: "破圈共生，定义新国风 | 优酷动漫将参展2025 ChinaJoy"
 publishDate: 2025-07-14
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

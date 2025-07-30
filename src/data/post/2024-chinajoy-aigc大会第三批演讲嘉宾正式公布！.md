@@ -1,7 +1,7 @@
 ---
 title: "2024 ChinaJoy AIGC大会第三批演讲嘉宾正式公布！"
 publishDate: 2024-07-18
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

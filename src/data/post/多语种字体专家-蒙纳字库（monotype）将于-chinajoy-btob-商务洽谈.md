@@ -1,7 +1,7 @@
 ---
 title: "多语种字体专家-蒙纳字库（Monotype）将于 ChinaJoy BTOB 商务洽谈馆精彩亮相"
 publishDate: 2024-04-19
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

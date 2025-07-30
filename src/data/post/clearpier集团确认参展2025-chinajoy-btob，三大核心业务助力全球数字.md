@@ -1,7 +1,7 @@
 ---
 title: "ClearPier集团确认参展2025 ChinaJoy BTOB，三大核心业务助力全球数字营销新浪潮"
 publishDate: 2025-04-21
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

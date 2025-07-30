@@ -1,7 +1,7 @@
 ---
 title: "一者科技携YiLOC本地化翻译管理平台亮相2025 ChinaJoy BTOB，全面赋能企业出海软件本地化"
 publishDate: 2025-05-20
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

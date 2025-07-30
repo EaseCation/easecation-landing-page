@@ -1,7 +1,7 @@
 ---
 title: "霓诺网络将参展2024 ChinaJoy BTOC，与你共创玩家第二梦"
 publishDate: 2024-06-24
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

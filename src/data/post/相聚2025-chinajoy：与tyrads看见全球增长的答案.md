@@ -1,7 +1,7 @@
 ---
 title: "相聚2025 ChinaJoy：与TyrAds看见全球增长的答案"
 publishDate: 2025-07-01
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

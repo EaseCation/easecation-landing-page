@@ -1,7 +1,7 @@
 ---
 title: "Alpha Games 确认参展 2024 ChinaJoy BTOB，提供游戏本地化一站式服务！"
 publishDate: 2024-07-04
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

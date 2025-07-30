@@ -1,7 +1,7 @@
 ---
 title: "相遇ChinaJoy BTOC ROG游戏手机8电竞神装即将硬核登场"
 publishDate: 2024-07-12
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

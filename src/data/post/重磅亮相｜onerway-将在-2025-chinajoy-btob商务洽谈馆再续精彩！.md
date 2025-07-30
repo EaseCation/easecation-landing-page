@@ -1,7 +1,7 @@
 ---
 title: "重磅亮相｜ONERWAY 将在 2025 ChinaJoy BTOB商务洽谈馆再续精彩！"
 publishDate: 2025-06-04
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

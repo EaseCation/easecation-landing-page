@@ -1,7 +1,7 @@
 ---
 title: "RevX将于7月26日至28日在ChinaJoy 2024上展示我们的创新解决方案！"
 publishDate: 2024-07-05
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

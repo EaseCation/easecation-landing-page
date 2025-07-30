@@ -1,7 +1,7 @@
 ---
 title: "聚焦当下 探寻未来｜ CDEC高峰论坛圆满召开"
 publishDate: 2024-07-27
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "2024 ChinaJoy 星际奇遇，洛天依与你共赴冒险之旅！"
 publishDate: 2024-06-13
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

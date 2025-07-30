@@ -1,7 +1,7 @@
 ---
 title: "贪玩游戏确认参展2024 ChinaJoy，携重磅新品彰显转型成果"
 publishDate: 2024-07-16
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "深剖｜CJMF·不止音乐节阵容"
 publishDate: 2024-08-14
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

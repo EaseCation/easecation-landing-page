@@ -1,7 +1,7 @@
 ---
 title: "Bigabid 很高兴可以在 ChinaJoy 展示 “用户获取” 和“再营销”的创新能力！"
 publishDate: 2024-07-02
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

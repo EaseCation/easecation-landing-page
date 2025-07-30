@@ -1,7 +1,7 @@
 ---
 title: "IGG将参展2024 ChinaJoyBTOB，邀您共谋全球化新机遇"
 publishDate: 2024-07-05
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

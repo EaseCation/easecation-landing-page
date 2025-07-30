@@ -1,7 +1,7 @@
 ---
 title: "章鱼移动公司将参展 2025 ChinaJoy BTOB，精彩不容错过！"
 publishDate: 2025-05-21
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

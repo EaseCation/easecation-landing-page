@@ -1,7 +1,7 @@
 ---
 title: "2025 ChinaJoy Express游戏试玩区新一批原创力作相继亮相"
 publishDate: 2025-06-06
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "暴雪国服官宣回归！2024 ChinaJoy再燃满满看点"
 publishDate: 2024-04-11
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 coverImage: "20240411104728566.jpg"
 ---

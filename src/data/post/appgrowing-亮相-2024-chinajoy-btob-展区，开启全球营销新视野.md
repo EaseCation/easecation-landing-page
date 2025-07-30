@@ -1,7 +1,7 @@
 ---
 title: "AppGrowing 亮相 2024 ChinaJoy BTOB 展区，开启全球营销新视野"
 publishDate: 2024-07-02
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

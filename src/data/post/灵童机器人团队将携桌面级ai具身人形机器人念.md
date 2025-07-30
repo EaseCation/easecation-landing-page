@@ -1,7 +1,7 @@
 ---
 title: "灵童机器人团队将携桌面级AI具身人形机器人“念”系列NIA-F01亮相2025 ChinaJoy展会E5馆CA202展位"
 publishDate: 2025-07-01
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

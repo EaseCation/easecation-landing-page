@@ -1,7 +1,7 @@
 ---
 title: "GatherOne与您相约2024 ChinaJoy BTOB展馆W5-A202，不见不散！"
 publishDate: 2024-04-30
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

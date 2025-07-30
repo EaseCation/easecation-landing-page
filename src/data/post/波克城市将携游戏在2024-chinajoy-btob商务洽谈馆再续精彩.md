@@ -1,7 +1,7 @@
 ---
 title: "波克城市将携“游戏+”在2024 ChinaJoy BTOB商务洽谈馆再续精彩！"
 publishDate: 2024-07-02
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

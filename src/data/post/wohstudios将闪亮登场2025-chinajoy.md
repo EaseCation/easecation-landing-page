@@ -1,7 +1,7 @@
 ---
 title: "WohStudios将闪亮登场2025 ChinaJoy"
 publishDate: 2025-04-30
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

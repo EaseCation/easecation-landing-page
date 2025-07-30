@@ -1,7 +1,7 @@
 ---
 title: "邂逅Z世代健康新潮流！ChinaJoy等你来解锁"
 publishDate: 2024-06-26
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

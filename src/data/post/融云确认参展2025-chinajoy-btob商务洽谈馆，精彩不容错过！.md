@@ -1,7 +1,7 @@
 ---
 title: "融云确认参展2025 ChinaJoy BTOB商务洽谈馆，精彩不容错过！"
 publishDate: 2025-05-20
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

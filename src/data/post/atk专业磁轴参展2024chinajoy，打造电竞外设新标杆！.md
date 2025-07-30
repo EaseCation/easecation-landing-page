@@ -1,7 +1,7 @@
 ---
 title: "ATK专业磁轴参展2024ChinaJoy，打造电竞外设新标杆！"
 publishDate: 2024-06-05
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "点亮Z世代的健康图鉴！2024 ChinaJoy潮·生活展区火热招商中"
 publishDate: 2024-04-28
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

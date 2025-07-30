@@ -1,7 +1,7 @@
 ---
 title: "「艺术先生」重装亮相2025 ChinaJoy！Sitwalk 2系列产品颠覆交互想象"
 publishDate: 2025-06-17
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

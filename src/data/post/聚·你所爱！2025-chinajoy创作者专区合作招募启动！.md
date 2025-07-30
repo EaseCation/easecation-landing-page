@@ -1,7 +1,7 @@
 ---
 title: "聚·你所爱！2025 ChinaJoy创作者专区合作招募启动！"
 publishDate: 2025-04-11
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

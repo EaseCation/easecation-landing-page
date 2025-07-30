@@ -1,7 +1,7 @@
 ---
 title: "北京龙图智库科技有限公司将在2025 ChinaJoy BTOC互动娱乐馆再续精彩！"
 publishDate: 2025-05-20
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

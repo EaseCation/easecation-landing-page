@@ -1,7 +1,7 @@
 ---
 title: "2025 ChinaJoy × 鸣潮，盛夏海风已至，共赴「海滩邂逅」之约！"
 publishDate: 2025-07-08
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

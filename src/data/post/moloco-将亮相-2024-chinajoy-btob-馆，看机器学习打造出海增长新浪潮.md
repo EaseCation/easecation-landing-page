@@ -1,7 +1,7 @@
 ---
 title: "Moloco 将亮相 2024 ChinaJoy BTOB 馆，看机器学习打造出海增长新浪潮！"
 publishDate: 2024-07-08
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "倍孜网络生态双引擎官宣参加2025年ChinaJoy | 媒体×广告：一场关于「10亿用户心智」的精准交响"
 publishDate: 2025-04-21
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

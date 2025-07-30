@@ -1,7 +1,7 @@
 ---
 title: "2025 ChinaJoy Express游戏试玩区成为游戏创新探索的前沿阵地"
 publishDate: 2025-06-13
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

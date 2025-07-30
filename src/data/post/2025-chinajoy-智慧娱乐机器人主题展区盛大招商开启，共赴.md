@@ -1,7 +1,7 @@
 ---
 title: "2025 ChinaJoy 智慧娱乐机器人主题展区盛大招商开启，共赴科技娱乐盛宴"
 publishDate: 2025-02-24
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

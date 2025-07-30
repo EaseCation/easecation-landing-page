@@ -1,7 +1,7 @@
 ---
 title: "盼之游戏服务亮相2024 ChinaJoy N4馆，向更多玩家传递游戏快乐！"
 publishDate: 2024-07-12
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

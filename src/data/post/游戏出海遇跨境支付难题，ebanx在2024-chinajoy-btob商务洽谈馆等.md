@@ -1,7 +1,7 @@
 ---
 title: "游戏出海遇跨境支付难题，EBANX在2024 ChinaJoy BTOB商务洽谈馆等你！"
 publishDate: 2024-04-30
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

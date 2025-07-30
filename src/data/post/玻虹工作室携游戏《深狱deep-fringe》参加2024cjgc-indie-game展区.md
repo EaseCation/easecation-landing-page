@@ -1,7 +1,7 @@
 ---
 title: "玻虹工作室携游戏《深狱Deep Fringe》参加2024CJGC INDIE GAME展区"
 publishDate: 2024-06-15
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

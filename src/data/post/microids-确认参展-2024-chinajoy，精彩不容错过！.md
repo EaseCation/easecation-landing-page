@@ -1,7 +1,7 @@
 ---
 title: "Microids 确认参展 2024 ChinaJoy，精彩不容错过！"
 publishDate: 2024-06-17
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

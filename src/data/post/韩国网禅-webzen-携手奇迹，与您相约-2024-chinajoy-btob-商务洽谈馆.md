@@ -1,7 +1,7 @@
 ---
 title: "韩国网禅 WEBZEN 携手奇迹，与您相约 2024 ChinaJoy BTOB 商务洽谈馆"
 publishDate: 2024-06-26
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

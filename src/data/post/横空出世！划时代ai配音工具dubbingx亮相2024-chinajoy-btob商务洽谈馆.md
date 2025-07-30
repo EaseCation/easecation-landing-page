@@ -1,7 +1,7 @@
 ---
 title: "横空出世！划时代AI配音工具DubbingX亮相2024 ChinaJoy BTOB商务洽谈馆"
 publishDate: 2024-07-16
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

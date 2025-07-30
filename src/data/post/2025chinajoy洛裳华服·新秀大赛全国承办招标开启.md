@@ -1,7 +1,7 @@
 ---
 title: "2025ChinaJoy洛裳华服·新秀大赛全国承办招标开启"
 publishDate: 2024-10-12
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

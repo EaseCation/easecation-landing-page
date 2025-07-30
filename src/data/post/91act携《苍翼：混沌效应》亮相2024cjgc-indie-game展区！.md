@@ -1,7 +1,7 @@
 ---
 title: "91ACT携《苍翼：混沌效应》亮相2024CJGC INDIE GAME展区！"
 publishDate: 2024-06-07
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

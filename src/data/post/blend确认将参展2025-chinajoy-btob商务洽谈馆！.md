@@ -1,7 +1,7 @@
 ---
 title: "BLEND确认将参展2025 ChinaJoy BTOB商务洽谈馆！"
 publishDate: 2025-06-13
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

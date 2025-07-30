@@ -1,7 +1,7 @@
 ---
 title: "浮光游戏携类幸存者X音乐节奏游戏《节奏魔女舞动的骷髅》将参加2024ChinaJoy INDIE GAME展区"
 publishDate: 2024-05-31
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

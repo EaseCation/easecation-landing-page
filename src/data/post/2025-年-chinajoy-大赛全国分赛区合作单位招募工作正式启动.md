@@ -1,7 +1,7 @@
 ---
 title: "2025 年 ChinaJoy 大赛全国分赛区合作单位招募工作正式启动！"
 publishDate: 2024-10-12
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

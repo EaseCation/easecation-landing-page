@@ -1,7 +1,7 @@
 ---
 title: "2025 ChinaJoy 指定经纪公司招标工作正式启动！"
 publishDate: 2024-11-20
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 coverImage: "20241120232817442.jpg"
 ---

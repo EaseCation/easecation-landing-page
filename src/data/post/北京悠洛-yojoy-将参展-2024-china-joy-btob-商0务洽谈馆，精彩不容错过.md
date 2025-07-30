@@ -1,7 +1,7 @@
 ---
 title: "北京悠洛 YOJOY 将参展 2024 China Joy BTOB 商0务洽谈馆，精彩不容错过！"
 publishDate: 2024-06-20
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

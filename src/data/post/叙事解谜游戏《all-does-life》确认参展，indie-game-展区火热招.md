@@ -1,7 +1,7 @@
 ---
 title: "叙事解谜游戏《All Doe’s Life》确认参展，INDIE GAME 展区火热招商中！"
 publishDate: 2024-06-21
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

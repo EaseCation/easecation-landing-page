@@ -1,7 +1,7 @@
 ---
 title: "Unity 确认参展 2024 ChinaJoy BTOB，展示应用出海增长全链路解决方案"
 publishDate: 2024-07-12
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

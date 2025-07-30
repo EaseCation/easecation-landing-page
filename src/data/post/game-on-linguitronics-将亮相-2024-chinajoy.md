@@ -1,7 +1,7 @@
 ---
 title: "Game On! Linguitronics 将亮相 2024 ChinaJoy"
 publishDate: 2024-06-27
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

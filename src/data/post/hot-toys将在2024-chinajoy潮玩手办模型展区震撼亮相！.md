@@ -1,7 +1,7 @@
 ---
 title: "Hot Toys将在2024 ChinaJoy潮玩手办模型展区震撼亮相！"
 publishDate: 2024-07-08
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

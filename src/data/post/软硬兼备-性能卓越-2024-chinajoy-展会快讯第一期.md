@@ -1,7 +1,7 @@
 ---
 title: "软硬兼备 性能卓越 | 2024 ChinaJoy 展会快讯第一期"
 publishDate: 2024-04-25
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

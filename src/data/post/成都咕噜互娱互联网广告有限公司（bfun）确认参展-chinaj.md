@@ -1,7 +1,7 @@
 ---
 title: "成都咕噜互娱互联网广告有限公司（Bfun）确认参展 ChinaJoy BTOB 商贸洽谈馆"
 publishDate: 2024-06-15
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

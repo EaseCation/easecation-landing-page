@@ -1,7 +1,7 @@
 ---
 title: "CJ Arena：2024ChinaJoy逛展必备神器，玩法攻略全面曝光！"
 publishDate: 2024-07-11
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

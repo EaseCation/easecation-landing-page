@@ -1,7 +1,7 @@
 ---
 title: "KOREA PAVILIaaccON 精彩亮相 2024 ChinaJoy B2B 商务洽谈馆！欢迎光临 W5-A601 展位"
 publishDate: 2024-07-04
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

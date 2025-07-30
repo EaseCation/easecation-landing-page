@@ -1,7 +1,7 @@
 ---
 title: "Appnext公司将在2024 ChinaJoy BTOB商务洽谈馆再续精彩！"
 publishDate: 2024-07-19
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

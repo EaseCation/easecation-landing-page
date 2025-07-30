@@ -1,7 +1,7 @@
 ---
 title: "MediaGo 确认参展2025 ChinaJoy BTOB，锁定B802展位！"
 publishDate: 2025-06-21
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

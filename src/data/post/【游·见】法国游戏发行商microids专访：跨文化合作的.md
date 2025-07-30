@@ -1,7 +1,7 @@
 ---
 title: "【游·见】法国游戏发行商Microids专访：跨文化合作的全球视野助力中国游戏出海"
 publishDate: 2025-02-20
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

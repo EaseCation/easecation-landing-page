@@ -1,7 +1,7 @@
 ---
 title: "暴雪玩家预约数量超200万，2024 ChinaJoy众盼所期！"
 publishDate: 2024-04-24
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

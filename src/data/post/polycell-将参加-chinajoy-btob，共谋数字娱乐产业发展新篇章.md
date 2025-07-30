@@ -1,7 +1,7 @@
 ---
 title: "PolyCell 将参加 ChinaJoy BTOB，共谋数字娱乐产业发展新篇章"
 publishDate: 2024-06-21
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

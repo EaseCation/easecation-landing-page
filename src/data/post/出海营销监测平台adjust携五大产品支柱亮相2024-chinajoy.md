@@ -1,7 +1,7 @@
 ---
 title: "出海营销监测平台Adjust携五大产品支柱亮相2024 ChinaJoy"
 publishDate: 2024-07-16
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "【游·见】专访Muccy Games：在代码缝隙播种知识，让游戏成为认知的脚手架"
 publishDate: 2025-03-07
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

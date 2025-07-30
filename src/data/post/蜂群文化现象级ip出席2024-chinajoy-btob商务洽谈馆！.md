@@ -1,7 +1,7 @@
 ---
 title: "蜂群文化现象级IP出席2024 ChinaJoy BTOB商务洽谈馆！"
 publishDate: 2024-07-24
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

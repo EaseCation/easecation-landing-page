@@ -1,7 +1,7 @@
 ---
 title: "【游·见】专访流贾君：在符号涟漪×像素心跳的共振中，以解压算法重塑虚拟时代的孤独解药"
 publishDate: 2025-05-13
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 

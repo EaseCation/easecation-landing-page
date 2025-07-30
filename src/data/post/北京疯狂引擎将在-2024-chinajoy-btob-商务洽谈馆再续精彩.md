@@ -1,7 +1,7 @@
 ---
 title: "北京疯狂引擎将在 2024 ChinaJoy BTOB 商务洽谈馆再续精彩"
 publishDate: 2024-06-13
-category: ChinaJoy专区
+category: chinajoy
 author: 莱尔
 ---
 
