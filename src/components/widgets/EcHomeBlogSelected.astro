@@ -10,6 +10,8 @@ import type {Widget} from '~/types';
 import EcTranslate,{type SupportedLang} from '~/utils/EcTranslate';
 import EcGrid from './EcGrid.astro';
 import {SelectedNews,SelectedNewsEnglish} from "../../content/EcSelectedNews";
+import EcGridItem from './EcGridItem.astro';
+import "~/EcStyle.css"
 export interface Props extends Widget {
   title?: string;
   linkText?: string;
@@ -46,5 +48,24 @@ const {
 
     {information && <p class="text-muted dark:text-slate-400 lg:text-sm lg:max-w-md" set:html={information} />}
   </div>
-  <EcGrid itemList={lang === "zh" ? SelectedNews : SelectedNewsEnglish}/>
+  <!-- <EcGrid isShop={false} itemList={lang === "zh" ? SelectedNews : SelectedNewsEnglish}/> -->
+   <div id="selectedNewsListDiv" class="grid gap-6 row-gap-5 -mb-6">
+    {
+      lang==="zh"?SelectedNews.map(item => (
+        <EcGridItem title={item.title} desc={item.desc} image={item.image} url={item.url} urlEng={item.urlEng} />
+      )):SelectedNewsEnglish.map(item => (
+        <EcGridItem title={item.title} desc={item.desc} image={item.image} url={item.url} urlEng={item.urlEng} />
+      ))
+    }
+  </div>
+  <script>
+    const selectedNewsListDiv=document.getElementById("selectedNewsListDiv")!;
+    if (window.innerWidth < window.innerHeight) {
+      //移动端
+      selectedNewsListDiv.classList.add("selectedNewsListMobile");
+    }else{
+      //桌面端
+      selectedNewsListDiv.classList.add("md:grid-cols-3");
+    }
+  </script>
 </WidgetWrapper>

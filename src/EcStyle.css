@@ -1,0 +1,12 @@
+.shopListMobile{
+    grid-template-columns: repeat(2,1fr);
+}
+.shopListDesktop{
+    grid-template-columns: repeat(2,1fr);
+}
+.selectedNewsListMobile{
+    grid-template-columns: repeat(1,1fr);
+}
+.selectedNewsListDesktop{
+    grid-template-columns: repeat(3,1fr);
+}

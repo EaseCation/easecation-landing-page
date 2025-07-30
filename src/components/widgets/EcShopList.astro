@@ -5,16 +5,18 @@ import {getBlogPermalink} from '~/utils/permalinks';
 import {findLatestPosts} from '~/utils/blog';
 import WidgetWrapper from '~/components/ui/WidgetWrapper.astro';
 import type {Widget} from '~/types';
-import EcTranslate,{type SupportedLang} from '~/utils/EcTranslate';
+import EcTranslate, {type SupportedLang} from '~/utils/EcTranslate';
 import EcGrid from './EcGrid.astro';
-import {ShopItems,ShopItemsEnglish} from "../../content/EcShopItems";
+import {ShopItems, ShopItemsEnglish} from '../../content/EcShopItems';
+import EcGridItem from './EcGridItem.astro';
+import "~/EcStyle.css"
 export interface Props extends Widget {
   title?: string;
   linkText?: string;
   linkUrl?: string | URL;
   information?: string;
   count?: number;
-  lang:SupportedLang
+  lang: SupportedLang;
 }
 
 const {
@@ -25,7 +27,7 @@ const {
   isDark = false,
   classes = {},
   bg = await Astro.slots.render('bg'),
-  lang
+  lang,
 } = Astro.props;
 ---
 
@@ -41,8 +43,25 @@ const {
         </div>
       )
     }
-
     {information && <p class="text-muted dark:text-slate-400 lg:text-sm lg:max-w-md" set:html={information} />}
   </div>
-  <EcGrid isShop={true} itemList={lang === "zh" ? ShopItems : ShopItemsEnglish}/>
+  <div id="shopListDiv" class="grid gap-6 row-gap-5 -mb-6">
+    {
+      lang==="zh"?ShopItems.map(item => (
+        <EcGridItem title={item.title} desc={item.desc} image={item.image} url={item.url} urlEng={item.urlEng} />
+      )):ShopItemsEnglish.map(item => (
+        <EcGridItem title={item.title} desc={item.desc} image={item.image} url={item.url} urlEng={item.urlEng} />
+      ))
+    }
+  </div>
+  <script>
+    const shopListDiv=document.getElementById("shopListDiv")!;
+    if (window.innerWidth < window.innerHeight) {
+      //移动端
+      shopListDiv.classList.add("shopListMobile");
+    }else{
+      //桌面端
+      shopListDiv.classList.add("md:grid-cols-4");
+    }
+  </script>
 </WidgetWrapper>

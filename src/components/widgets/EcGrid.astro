@@ -5,11 +5,11 @@ import EcGridItem from './EcGridItem.astro';
 import {type Props as EcGridItemPropType} from "./EcGridItem.astro";
 export interface Props {
     itemList:EcGridItemPropType[],
-    isShop:boolean
+    isShop:boolean,
+    isMobile?:boolean
 //   posts: Array<Post>;
 }
-//useOrigin:是否使用原本的横向布局
-const {itemList,isShop} = Astro.props;
+const {itemList,isShop,isMobile} = Astro.props;
 ---
 
 <div class="grid gap-6 row-gap-5 md:grid-cols-2 -mb-6" style={isShop?'grid-template-columns: repeat(4, minmax(0, 1fr));':'grid-template-columns: repeat(3, minmax(0, 1fr));'}>
