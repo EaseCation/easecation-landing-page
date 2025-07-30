@@ -78,7 +78,7 @@ const {
       >
       <div style="position: relative;">
         <video muted onclick="this.play();document.getElementById('videoPlayIcon').style.display='none';" poster="/videoBeforePlayImage.png" id="extVideo" style="height: 700px;" class="h-full rounded-md w-full"/>
-        <Icon id="videoPlayIcon" onclick="document.getElementById('extVideo').play();this.style.display='none'" name="tabler:player-play" class="w-10 h-10 inline-block -mt-0.5 dark:text-gray-400 cursor-pointer" style="position: absolute;left: 47%;top: 46%;"/>
+        <!-- <Icon id="videoPlayIcon" onclick="document.getElementById('extVideo').play();this.style.display='none'" name="tabler:player-play" class="w-10 h-10 inline-block -mt-0.5 dark:text-gray-400 cursor-pointer" style="position: absolute;left: 47%;top: 46%;"/> -->
       </div>
       <script>
         // 初始化
@@ -113,6 +113,7 @@ const {
             }
             const videoCache = await cache.match("/homeVideo.mp4");
             extVideo.src=URL.createObjectURL(await videoCache!.blob());
+            extVideo.play();
             console.log("Load from cache");
           })();
         });
