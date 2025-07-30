@@ -59,13 +59,16 @@ const {
     }
   </div>
   <script>
-    const selectedNewsListDiv=document.getElementById("selectedNewsListDiv")!;
-    if (window.innerWidth < window.innerHeight) {
-      //移动端
-      selectedNewsListDiv.classList.add("selectedNewsListMobile");
-    }else{
-      //桌面端
-      selectedNewsListDiv.classList.add("md:grid-cols-3");
-    }
+    setInterval(() => {
+      const selectedNewsListDiv=document.getElementById("selectedNewsListDiv");
+      if (!selectedNewsListDiv) return;
+      if (window.innerWidth < window.innerHeight) {
+        //移动端
+        selectedNewsListDiv.classList.add("selectedNewsListMobile");
+      }else{
+        //桌面端
+        selectedNewsListDiv.classList.add("md:grid-cols-3");
+      }
+    }, 500);
   </script>
 </WidgetWrapper>

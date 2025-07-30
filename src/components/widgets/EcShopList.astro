@@ -55,13 +55,16 @@ const {
     }
   </div>
   <script>
-    const shopListDiv=document.getElementById("shopListDiv")!;
-    if (window.innerWidth < window.innerHeight) {
-      //移动端
-      shopListDiv.classList.add("shopListMobile");
-    }else{
-      //桌面端
-      shopListDiv.classList.add("md:grid-cols-4");
-    }
+    setInterval(() => {
+      const shopListDiv=document.getElementById("shopListDiv");
+      if(!shopListDiv) return
+      if (window.innerWidth < window.innerHeight) {
+        //移动端
+        shopListDiv.classList.add("shopListMobile");
+      }else{
+        //桌面端
+        shopListDiv.classList.add("md:grid-cols-4");
+      }
+    }, 503);
   </script>
 </WidgetWrapper>
