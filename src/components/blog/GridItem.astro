@@ -59,7 +59,7 @@ const link = APP_BLOG?.post?.isEnabled ? getPermalink(post.permalink, 'post') : 
   <p class="text-muted dark:text-slate-400 text-lg border-spacing-1">
     {
       getEntry(EcTranslate.getBlogLang(Astro.url.href), post.id)?.then(value => {
-        return value?.body ? EcUtils.getExcerpt(value.body, 100) : '';
+        return value?.body ? EcUtils.getExcerpt(value.body, 85) : '';
       })
     }
   </p>

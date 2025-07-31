@@ -1,23 +1,23 @@
 ---
-import type { ImageMetadata } from 'astro';
-import { Icon } from 'astro-icon/components';
+import type {ImageMetadata} from 'astro';
+import {Icon} from 'astro-icon/components';
 import Image from '~/components/common/Image.astro';
 import PostTags from '~/components/blog/Tags.astro';
 
-import { APP_BLOG } from 'astrowind:config';
-import type { Post } from '~/types';
+import {APP_BLOG} from 'astrowind:config';
+import type {Post} from '~/types';
 
-import { getPermalink } from '~/utils/permalinks';
-import { findImage } from '~/utils/images';
-import { getFormattedDate } from '~/utils/utils';
-import { getEntry } from "astro:content";
+import {getPermalink} from '~/utils/permalinks';
+import {findImage} from '~/utils/images';
+import {getFormattedDate} from '~/utils/utils';
+import {getEntry} from 'astro:content';
 import EcTranslate from '~/utils/EcTranslate';
 import EcUtils from '~/utils/EcUtils';
 export interface Props {
   post: Post;
 }
 
-const { post } = Astro.props;
+const {post} = Astro.props;
 const image = (await findImage(post.image)) as ImageMetadata | undefined;
 
 const link = APP_BLOG?.post?.isEnabled ? getPermalink(post.permalink, 'post') : '';
@@ -40,7 +40,7 @@ const link = APP_BLOG?.post?.isEnabled ? getPermalink(post.permalink, 'post') : 
                 width={900}
                 sizes="(max-width: 900px) 400px, 900px"
                 alt={post.title}
-                // aspectRatio="16:9"
+                aspectRatio="16:9"
                 loading="lazy"
                 decoding="async"
               />
@@ -70,7 +70,9 @@ const link = APP_BLOG?.post?.isEnabled ? getPermalink(post.permalink, 'post') : 
       <div class="mb-1">
         <span class="text-sm">
           <Icon name="tabler:clock" class="w-3.5 h-3.5 inline-block -mt-0.5 dark:text-gray-400" />
-          <time datetime={String(post.publishDate)} class="inline-block">{getFormattedDate(post.publishDate,post.language)}</time>
+          <time datetime={String(post.publishDate)} class="inline-block"
+            >{getFormattedDate(post.publishDate, post.language)}</time
+          >
           {
             post.author && (
               <>
@@ -98,7 +100,7 @@ const link = APP_BLOG?.post?.isEnabled ? getPermalink(post.permalink, 'post') : 
           link ? (
             <a
               class="inline-block hover:text-primary dark:hover:text-blue-700 transition ease-in duration-200"
-              href={post.language==="en"?`/en${link}`:link}
+              href={post.language === 'en' ? `/en${link}` : link}
             >
               {post.title}
             </a>
@@ -110,13 +112,18 @@ const link = APP_BLOG?.post?.isEnabled ? getPermalink(post.permalink, 'post') : 
     </header>
     {
       (
-        <p class="flex-grow text-muted dark:text-slate-400 text-lg">{
-          // 自动获取内容生成描述
-          getEntry(EcTranslate.getBlogLang(Astro.url.href),post.id)?.then(value=>{
-            return value?.body?EcUtils.getExcerpt(value.body,150):""
-          })
-          }
-          </p>
+        <p class="flex-grow text-muted dark:text-slate-400 text-lg">
+          <a
+            class="inline-block transition ease-in duration-200"
+            href={post.language === 'en' ? `/en${link}` : link}>
+            {
+              // 自动获取内容生成描述
+              getEntry(EcTranslate.getBlogLang(Astro.url.href), post.id)?.then(value => {
+                return value?.body ? EcUtils.getExcerpt(value.body, 110) : '';
+              })
+            }
+          </a>
+        </p>
       )
     }
     {
