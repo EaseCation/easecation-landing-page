@@ -1,0 +1,16 @@
+---
+import Layout from '~/layouts/PageLayout.astro';
+import * as MediaGuideMarkdown from './public/docs/MediaGuidelines.md';
+import EcGuideView from "../components/widgets/EcGuideView.astro";
+const metadata = {
+  title: 'EaseCation 卓越创作者守则',
+  openGraph: {
+    type: 'article',
+  },
+};
+---
+<Layout metadata={metadata}>
+  <EcGuideView title='EaseCation 卓越创作者守则'>
+    <MediaGuideMarkdown.Content/>
+  </EcGuideView>
+</Layout>

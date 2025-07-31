@@ -84,7 +84,7 @@ const {
         // 初始化
         window.addEventListener("DOMContentLoaded",()=>{
           const extVideo = document.getElementById("extVideo")! as HTMLVideoElement;
-          const videoPlayIcon = document.getElementById("videoPlayIcon")!;
+          // const videoPlayIcon = document.getElementById("videoPlayIcon")!;
           //屏幕比例判断
           if (window.innerWidth<window.innerHeight) {
             //移动端
@@ -109,6 +109,7 @@ const {
             }
             if(!await cache.match("/homeVideo.mp4")){
               await cache.add("/homeVideo.mp4");
+              console.log("video cached!");
               localStorage.setItem("videoVersion", videoVersion.toString());
             }
             const videoCache = await cache.match("/homeVideo.mp4");

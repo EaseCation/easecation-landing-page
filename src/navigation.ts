@@ -2,11 +2,15 @@ import { getPermalink, getBlogPermalink, getAsset } from './utils/permalinks';
 export const headerData = {
   links: [
     {
+      text: '#nav.home',
+      href: '/',
+    },
+    {
       text: '#nav.ticketSystem',
       href: 'https://uc.easecation.net/login',
     },
     {
-      text: '#nav.wiki',
+      text: 'Wiki',
       href: 'https://wiki.easecation.net/%E9%A6%96%E9%A1%B5',
     },
     {
@@ -24,19 +28,45 @@ export const headerData = {
         },
       ],
     },
-    // 移除了语言菜单选项
+    {
+      text: "#nav.documents",
+      links: [
+        {
+          //总则
+          text: '#nav.footer.generalGuide',
+          href: '/readGeneralGuide',
+        },
+        {
+          //玩家守则
+          text: '#nav.footer.playerGuide',
+          href: '/readPlayerGuide',
+        },
+        {
+          //创作者守则
+          text: '#nav.mediaGuide',
+          href: '/readMediaGuide',
+        },
+        {
+          //创作者商城守则
+          text: '#nav.shopGuide',
+          href: '/readShopGuide',
+        },
+      ]
+    }
   ],
   actions: [{ text: 'Download', href: 'https://github.com/onwidget/astrowind', target: '_blank' }],
 };
 export const footerData = {
+  //TODO 主页视频路由切换后不自动播放
+  //TODO 移动端博客介绍是否过长?
   links: [
     {
       title: '#nav.footer.website',
       links: [
         { text: 'EaseCation Wiki', href: 'https://wiki.easecation.net/' },
         { text: '#nav.footer.userCanter', href: 'https://uc.easecation.net/' },
-        { text: "#nav.footer.generalGuide", href: "https://uc.easecation.net/general-guidelines" },
-        { text: "#nav.footer.playerGuide", href: "https://uc.easecation.net/player-guidelines" },
+        // { text: "#nav.footer.generalGuide", href: "https://uc.easecation.net/general-guidelines" },
+        // { text: "#nav.footer.playerGuide", href: "https://uc.easecation.net/player-guidelines" },
 
       ],
     },

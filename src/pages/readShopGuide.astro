@@ -1,0 +1,16 @@
+---
+import Layout from '~/layouts/PageLayout.astro';
+import * as ShopGuideMarkdown from './public/docs/ShopGuidelines.md';
+import EcGuideView from "../components/widgets/EcGuideView.astro";
+const metadata = {
+  title: 'EaseCation 社区创作激励（创作者商城）使用守则',
+  openGraph: {
+    type: 'article',
+  },
+};
+---
+<Layout metadata={metadata}>
+  <EcGuideView title='EaseCation 社区创作激励（创作者商城）使用守则'>
+    <ShopGuideMarkdown.Content/>
+  </EcGuideView>
+</Layout>

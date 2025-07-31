@@ -7,7 +7,7 @@ import EcTranslate from '~/utils/EcTranslate';
   window.switchLanguage = () => {
     const currentPath = window.location.pathname;
     // 简单粗暴判断页面
-    if (!currentPath.includes("category")&&currentPath.includes("-")) {
+    if ((!currentPath.includes("category")&&currentPath.includes("-"))||(currentPath.includes("read")&&currentPath.includes("Guide"))) {
         //不做操作
         return
     }

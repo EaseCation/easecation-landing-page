@@ -2,9 +2,10 @@ import type { DataEntryMap } from "astro:content";
 
 const translations: Record<string, Record<string, string>> = {
     en: {
+        '#nav.home':"Home",
         '#nav.news': 'News',
         '#nav.wiki': 'Wiki',
-        '#nav.ticketSystem': 'Ticket System',
+        '#nav.ticketSystem': 'User Center',
         '#nav.commonBlog': 'Blogs',
         '#nav.chinaJoy': 'China Joy',
         '#nav.language': 'Language',
@@ -25,11 +26,15 @@ const translations: Record<string, Record<string, string>> = {
         "#news.latestPosts": "Latest Posts",
         '#nav.footer.generalGuide':"General Guide",
         "#nav.footer.playerGuide":"Player Guide",
+        "#nav.mediaGuide":"Media Guide",
+        "#nav.shopGuide":"Shop Guide",
+        "#nav.documents":"Documents Center"
     },
     zh: {
+        '#nav.home':"首页",
         '#nav.news': '新闻',
         '#nav.wiki': '维基',
-        '#nav.ticketSystem': '工单系统',
+        '#nav.ticketSystem': '用户中心',
         '#nav.commonBlog': '博客',
         '#nav.chinaJoy': 'China Joy专区',
         '#nav.language': '语言',
@@ -50,6 +55,9 @@ const translations: Record<string, Record<string, string>> = {
         "#news.latestPosts": "最新文章",
         "#nav.footer.generalGuide":"服务器总则",
         "#nav.footer.playerGuide":"玩家守则",
+        "#nav.mediaGuide":"创作者守则",
+        "#nav.shopGuide":"创作者商店守则",
+        "#nav.documents":"文档中心"
     },
 };
 type SupportedLang = 'en' | 'zh';
