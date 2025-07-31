@@ -11,7 +11,7 @@ metadata:
   title:
     default: EaseCation
     template: '%s — EaseCation'
-  description: "\U0001F680 Suitable for Startups, Small Business, Sass Websites, Professional Portfolios, Marketing Websites, Landing Pages & Blogs."
+  description: "EaseCation小游戏服务器官网"
   robots:
     index: true
     follow: true
