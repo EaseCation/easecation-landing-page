@@ -57,7 +57,6 @@ export const headerData = {
   actions: [{ text: 'Download', href: 'https://github.com/onwidget/astrowind', target: '_blank' }],
 };
 export const footerData = {
-  //TODO 移动端博客介绍是否过长?
   links: [
     {
       title: '#nav.footer.website',
