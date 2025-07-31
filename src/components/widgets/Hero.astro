@@ -1,9 +1,9 @@
 ---
-import { Icon } from 'astro-icon/components';
+import {Icon} from 'astro-icon/components';
 import Image from '~/components/common/Image.astro';
 import Button from '~/components/ui/Button.astro';
 
-import type { Hero as Props } from '~/types';
+import type {Hero as Props} from '~/types';
 // import homeVideo from '~/assets/homeVideo.mp4';
 
 const {
@@ -20,7 +20,7 @@ const {
 } = Astro.props;
 ---
 
-<section class="relative md:-mt-[76px] not-prose" {...id ? { id } : {}}>
+<section class="relative md:-mt-[76px] not-prose" {...id ? {id} : {}}>
   <div class="absolute inset-0 pointer-events-none" aria-hidden="true">
     <slot name="bg">
       {bg ? <Fragment set:html={bg} /> : null}
@@ -59,7 +59,7 @@ const {
             actions && (
               <div class="max-w-xs sm:max-w-md m-auto flex flex-nowrap flex-col sm:flex-row sm:justify-center gap-4 intersect-once intersect-quarter motion-safe:md:opacity-0 motion-safe:md:intersect:animate-fade">
                 {Array.isArray(actions) ? (
-                  actions.map((action) => (
+                  actions.map(action => (
                     <div class="flex w-full sm:w-auto">
                       <Button {...(action || {})} class="w-full sm:mb-0" />
                     </div>
@@ -76,60 +76,70 @@ const {
       <div
         class="intersect-once intercept-no-queue intersect-quarter motion-safe:md:opacity-0 motion-safe:md:intersect:animate-fade"
       >
-      <div style="position: relative;">
-        <video muted onclick="this.play();document.getElementById('videoPlayIcon').style.display='none';" poster="/videoBeforePlayImage.png" id="extVideo" style="height: 700px;" class="h-full rounded-md w-full"/>
-        <!-- <Icon id="videoPlayIcon" onclick="document.getElementById('extVideo').play();this.style.display='none'" name="tabler:player-play" class="w-10 h-10 inline-block -mt-0.5 dark:text-gray-400 cursor-pointer" style="position: absolute;left: 47%;top: 46%;"/> -->
-      </div>
-      <script>
-        // 初始化
-        window.addEventListener("DOMContentLoaded",()=>{
-          const extVideo = document.getElementById("extVideo")! as HTMLVideoElement;
-          // const videoPlayIcon = document.getElementById("videoPlayIcon")!;
-          //屏幕比例判断
-          if (window.innerWidth<window.innerHeight) {
-            //移动端
-            extVideo.style.height = "300px";
-            
-          } else {
-            extVideo.style.height = "750px";
-          }
-          (async ()=>{
+        <div style="position: relative;">
+          <video
+            muted
+            autoplay
+            poster="/videoBeforePlayImage.png"
+            id="extVideo"
+            style="height: 700px;"
+            class="h-full rounded-md w-full"></video>
+          <!-- <Icon id="videoPlayIcon" onclick="document.getElementById('extVideo').play();this.style.display='none'" name="tabler:player-play" class="w-10 h-10 inline-block -mt-0.5 dark:text-gray-400 cursor-pointer" style="position: absolute;left: 47%;top: 46%;"/> -->
+        </div>
+        <script>
+          async function initVideo() {
+            const extVideo = document.getElementById('extVideo')! as HTMLVideoElement;
+            // const videoPlayIcon = document.getElementById("videoPlayIcon")!;
+            //屏幕比例判断
+            if (window.innerWidth < window.innerHeight) {
+              //移动端
+              extVideo.style.height = '300px';
+            } else {
+              extVideo.style.height = '750px';
+            }
             //未来更新视频后改这个数值 自动刷新
             const videoVersion = 1;
             if (!window.caches) {
               //不支持缓存 直接设置src
-              extVideo.src = "/homeVideo.mp4";
-              return
+              extVideo.src = '/homeVideo.mp4';
+              return;
             }
-            const localVideoVersion= parseInt(localStorage.getItem("videoVersion")??"0");
-            const cache = await caches.open("video");
+            const localVideoVersion = parseInt(localStorage.getItem('videoVersion') ?? '0');
+            const cache = await caches.open('video');
             if (videoVersion !== localVideoVersion) {
-              console.log("video update!");
-              await cache.delete("/homeVideo.mp4")
+              console.log('video update!');
+              await cache.delete('/homeVideo.mp4');
             }
-            if(!await cache.match("/homeVideo.mp4")){
-              await cache.add("/homeVideo.mp4");
-              console.log("video cached!");
-              localStorage.setItem("videoVersion", videoVersion.toString());
+            if (!(await cache.match('/homeVideo.mp4'))) {
+              await cache.add('/homeVideo.mp4');
+              console.log('video cached!');
+              localStorage.setItem('videoVersion', videoVersion.toString());
             }
-            const videoCache = await cache.match("/homeVideo.mp4");
-            extVideo.src=URL.createObjectURL(await videoCache!.blob());
+            const videoCache = await cache.match('/homeVideo.mp4');
+            extVideo.src = URL.createObjectURL(await videoCache!.blob());
             extVideo.play();
-            console.log("Load from cache");
-          })();
-        });
-        //应该有用
-        window.addEventListener("resize",()=>{
-          const extVideo = document.getElementById("extVideo");
-          if (!extVideo) return;
-          if (window.innerWidth<window.innerHeight) {
-            extVideo.style.height = "300px";
-          
-          } else {
-            extVideo.style.height = "750px";
+            console.log('Load from cache');
           }
-        })
-      </script>
+          // 初始化
+          window.addEventListener('DOMContentLoaded', () => {
+            initVideo();
+          });
+          //应该有用
+          window.addEventListener('resize', () => {
+            const extVideo = document.getElementById('extVideo');
+            if (!extVideo) return;
+            if (window.innerWidth < window.innerHeight) {
+              extVideo.style.height = '300px';
+            } else {
+              extVideo.style.height = '750px';
+            }
+          });
+          window.addEventListener('popstate', () => {
+            setTimeout(() => {
+              initVideo();
+            }, 800);
+          });
+        </script>
         <!-- {
           image && (
             <div class="relative m-auto max-w-5xl">
