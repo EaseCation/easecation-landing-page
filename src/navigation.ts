@@ -51,6 +51,11 @@ export const headerData = {
           text: '#nav.shopGuide',
           href: '/readShopGuide',
         },
+        {
+          //创作者商城守则
+          text: '#nav.2ndCreate',
+          href: '/read2ndCreateGuidelines',
+        },
       ]
     }
   ],

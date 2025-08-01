@@ -28,7 +28,9 @@ const translations: Record<string, Record<string, string>> = {
         "#nav.footer.playerGuide":"Player Guide",
         "#nav.mediaGuide":"Media Guide",
         "#nav.shopGuide":"Shop Guide",
-        "#nav.documents":"Official Documents"
+        "#nav.documents":"Official Documents",
+        "#nav.2ndCreate":"2nd Create Guide"
+
     },
     zh: {
         '#nav.home':"首页",
@@ -57,7 +59,8 @@ const translations: Record<string, Record<string, string>> = {
         "#nav.footer.playerGuide":"玩家守则",
         "#nav.mediaGuide":"创作者守则",
         "#nav.shopGuide":"创作者商店守则",
-        "#nav.documents":"官方文档"
+        "#nav.documents":"官方文档",
+        "#nav.2ndCreate":"二创守则"
     },
 };
 type SupportedLang = 'en' | 'zh';
