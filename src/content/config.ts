@@ -61,6 +61,7 @@ const postCollection = defineCollection({
     tags: z.array(z.string()).optional(),
     author: z.string().optional(),
     hidden: z.boolean().optional(),
+    noExcerpt: z.boolean().optional(),
     metadata: metadataDefinition(),
   }),
 });
@@ -79,6 +80,7 @@ const postEnCollection = defineCollection({
     tags: z.array(z.string()).optional(),
     author: z.string().optional(),
     hidden: z.boolean().optional(),
+    noExcerpt: z.boolean().optional(),
     metadata: metadataDefinition(),
   }),
 });

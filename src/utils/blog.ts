@@ -57,6 +57,7 @@ const getNormalizedPost = async (post: CollectionEntry<'post'|"post_en">): Promi
     draft = false,
     metadata = {},
     hidden = false,
+    noExcerpt=false
   } = data;
 
   const slug = cleanSlug(id); // cleanSlug(rawSlug.split('/').pop());
@@ -98,6 +99,8 @@ const getNormalizedPost = async (post: CollectionEntry<'post'|"post_en">): Promi
     Content: Content,
     // or 'content' in case you consume from API
     hidden: hidden,
+    noExcerpt:noExcerpt,
+
     readingTime: remarkPluginFrontmatter?.readingTime,
   };
 };
