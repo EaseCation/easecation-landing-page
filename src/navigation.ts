@@ -52,7 +52,7 @@ export const headerData = {
           href: '/readShopGuide',
         },
         {
-          //创作者商城守则
+          //二创守则
           text: '#nav.2ndCreate',
           href: '/read2ndCreateGuidelines',
         },
